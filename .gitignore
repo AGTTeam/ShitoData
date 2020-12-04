@@ -1,0 +1,9 @@
+extract*
+out_*
+repack*
+tools
+*_output.txt
+*_output.png
+*_input.png
+*.ws
+*.xdelta
