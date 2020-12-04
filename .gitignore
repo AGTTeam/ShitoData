@@ -2,8 +2,8 @@ extract*
 out_*
 repack*
 tools
+table.txt
 *_output.txt
 *_output.png
-*_input.png
 *.ws
 *.xdelta
