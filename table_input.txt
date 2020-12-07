@@ -1098,7 +1098,7 @@ db40=
 db80=
 dbc0=
 
-dc00=
+dc00=　#space
 dc40=
 dc80=
 dcc0=
