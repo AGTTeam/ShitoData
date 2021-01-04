@@ -272,6 +272,7 @@
 「・・・遠慮しておきます」=
 「・・・・・・」=
 「ごめんなさい。|・・・１人にして下さい」=
+<ch:65535><72ff><0020><1a22>き<0810><606c><0034><0d01><0d10><2410><003d><090b>|<24ff><001b><090f>|=
 #Toji
 「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=
 #Kensuke
@@ -727,6 +728,7 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「フウ。>>プロなら死んだかどうか、|確かめたほうがいい。>>おかげで命拾いしたが・・・。>>まだまだいける。=
 原作通りってわけには、|いかないさ！=
 とりあえず、|部屋に涙るか・・・」=
+<ch:38472><ff7e><22ff><001a><1806><2408><002a><1523><ee06><247f><003e><1810><7604><2489><0025><0d02><a306><2489><0028><0d34><d504><3488><002a><001e><2534>ェ。<0028><001e>=
 「加持さん、赤木博士、|最近元気がないですね」=
 「そう？」=
 「疲れてるのかなあ、|加持さん、声かけてあげたら？>>“研究室”にいると|思いますよ」=
@@ -973,6 +975,9 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「所詮、ママゴトも|終わりってことね」=
 #Misato
 「・・・・・・」=
+#Ritsuko
+「<ch:6>・・・・・・、>>アスカに聞けば、|何か<sp:8>わかるかもね・・・」=
+#Misato
 「私、言いすぎたのかも|しれないわね。>>加持、|シンジくんを探して！」=
 「帰ってくるかしら、|あの子・・・」=
 #Ritsuko
@@ -1469,6 +1474,7 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「あら、加持くん。|どうかした？」=
 #Kaji
 「今日はオペレーター交代の日か。|誰にお願いしようかな」=
+<ch:0>オペレーターを選択して下さい。<ff0c>=
 マヤを選択しました。=
 マコトを選択しました。=
 シゲルを選択しました。=
@@ -1716,6 +1722,7 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=
 「これだけ、ビーカーに|入れておけば、>>もう、いいだろう」=
 「・・・ん？<sp:8><wt:25>これは」=
+　<sp:8>塩の柱の結晶<sp:8>を拾った！=
 「何かの役に立つかな」=
 「君か・・・」=
 #Misato
@@ -1772,6 +1779,7 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「なるほど」=I see.
 #Ritsuko
 「それと、あなたに|アシスタントとして>>オペレーターが１人つくわ。>>次の３人から選んでちょうだい」=You will also be assigned a technician to assist you.>>Please select one from among these 3.
+<ch:0>オペレーターを選択して下さい。<ff0c>=
 マヤを選択しました。=You've selected Maya.
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Maya.
 #Maya
@@ -1783,8 +1791,8 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo 4 metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in 2-day shifts.>>Caring for the angel will consist of replenishing energy>>and adjusting pollution levels, LCL concentration, and electrolysis rates.>>If the angel's health is ever abnormal, please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the thing?
-んですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=
 #Maya
+「<name>ちゃんですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=
 「Ｌ．Ｃ．Ｌへの、|<name>ちゃん投入は>>終了しています。>>育成を開始してください」=Little <name> has been inserted into the LCL.>>Please begin the nurturing process.
 マコトを選択しました。=You've selected Makoto.
 #Ritsuko
@@ -1798,7 +1806,8 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo 4 metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in 2-day shifts.>>Caring for the angel will consist of replenishing energy>>and adjusting pollution levels, LCL concentration, and electrolysis rates.>>If the angel's health is ever abnormal, please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the thing?
-う」=
+#Makoto
+「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=
 #Shigeru
 「Ｌ．Ｃ．Ｌへの、|<name>投入は>>終了しています。>>育成を開始してください」=<name> has been inserted into the LCL.>>You may begin the nurturing process.
 シゲルを選択しました。=You've selected Shigeru.
@@ -1813,7 +1822,9 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo 4 metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in 2-day shifts.>>Caring for the angel will consist of replenishing energy>>and adjusting pollution levels, LCL concentration, and electrolysis rates.>>If the angel's health is ever abnormal, please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the thing?
-う」=
+#Shigeru
+「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=
+#Kaji
 「９時か。|勤務時間が始まる。>>育成室に<sp:8>涙らなきゃ|いけないな」=
 「９時か。|勤務時間が始まるな」=
 「２１時か。|勤務時間が終わる。>>育成室に<sp:8>涙らなきゃ|いけないな」=
@@ -2062,6 +2073,10 @@ UNK(f100)士<ff4c><2aff><001a><2513><1a02>看<000a><00f1><4c61>=
 「加持さん！！|<name>ちゃんが<ch:8>・・・<ch:4>」=
 #Makoto
 「あれ？|<name>に変化が<ch:8>・・・<ch:4>」=
-う」=
 #Shigeru
+「<ch:8>・・・<ch:4>あ！|<name>の様子が<ch:8>・・・<ch:4>」=
+「<sp:4>幼生<sp:4>になりました！！>>これで能力がＵＰする訓練を|させることが出来ます」=
+「<sp:4>中間体<sp:4>になりました！！」=
+「<sp:4>まゆ<sp:4>になりました！！>>これで、明日の朝には|成体になりますよ！>>いよいよですね、|明日の朝が楽しみです。>>それでは、矢礼します」=
+「<sp:4>成体<sp:4>になりました！！>>成体になれば、もう訓練させる|必要は<sp:6>ないでしょう」=
 「おかしいですね<ch:8>・・・？<ch:4>|何か変化がおきても>>いいはずなんですが<ch:8>・・・<ch:4>」=
