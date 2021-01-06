@@ -921,32 +921,32 @@
 「あんた、まだ、|こんなとこにいたの！！=
 さあ、行くわよ！>>肉じゃないんだから|つきあいなさいよ」=
 #Kaji
-「シンジくん、|何をしてるんだい？」=
+「シンジくん、|何をしてるんだい？」=What are you up to Shinji?
 #Shinji
-「タンタタ、<wt:25>タン、<wt:25>|タンタタ、<wt:25>タン・・・」=
+「タンタタ、<wt:25>タン、<wt:25>|タンタタ、<wt:25>タン・・・」=Tah-tata, <wt:25>tah, <wt:25>tah-tata, <wt:25>tah...
 #Kaji
-「シンジくん！」=
+「シンジくん！」=Shinji!
 #Shinji
-「あ、加持さん！<wt:25><sp:8>すいません、|気がつかなかった・・・」=
+「あ、加持さん！<wt:25><sp:8>すいません、|気がつかなかった・・・」=Oh, Kaji! <wt:25>Sorry, I didn't see you there...
 #Kaji
-「いったい、|何をしてるんだい？」=
+「いったい、|何をしてるんだい？」=What the heck are you doing?
 #Shinji
-「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=
+「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=I have syncronization practice Asuka today,>>so I was trying to visualize in my mind.
 #Kaji
-「そうか。<sp:8>がんばって、>>アスカにいいところを|見せてやれよ」=
+「そうか。<sp:8>がんばって、>>アスカにいいところを|見せてやれよ」=Got it. Good luck.>>And you show Asuka who leads.
 #Shinji
-「そ、そうですよね、|僕もオトコなんだし。>>今日は調子もいいし。=
-なんだか、|いけそうな気がするぞ。>>ようし！！」=
+「そ、そうですよね、|僕もオトコなんだし。>>今日は調子もいいし。=Y-You're right. I'm the guy.>>And I can dance just as well as she can.
+なんだか、|いけそうな気がするぞ。>>ようし！！」=I'm feeling really confident for some reason.>>All right!!
 #Kaji
-「お、おい、シンジくん、|そこまでリキまなくても・・・>>気楽に、気楽に・・・」=
+「お、おい、シンジくん、|そこまでリキまなくても・・・>>気楽に、気楽に・・・」=Easy there, Shinji. Don't overdo it either.>>Take it easy.
 #Shinji
-「加持さん！！|見ててください！！>>ぼくは、やります！！」=
+「加持さん！！|見ててください！！>>ぼくは、やります！！」=I'll make you proud, Kaji!!>>I can do this!!
 #Kaji
-「・・・大丈夫かな」=
-「あ、マヤちゃん」=
-「せっかく、ここの|迎撃システムが完成するのに、>>祝賀パーティーの<sp:6>一つも|予定されていないとは>>ＮＥＲＶって|おカタい組織だねぇ」=
+「・・・大丈夫かな」=... I'm sure he'll be fine.
+「あ、マヤちゃん」=Hey, Maya.
+「せっかく、ここの|迎撃システムが完成するのに、>>祝賀パーティーの<sp:6>一つも|予定されていないとは>>ＮＥＲＶって|おカタい組織だねぇ」=I can't get over how stuffy this organization is.>>
 #Maya
-「碇司令が<sp:6>ああですもの」=
+「碇司令が<sp:6>ああですもの」=That's Commander Ikari for you.
 #Kaji
 「君はどうなのかな？」=
 #Maya
@@ -1207,33 +1207,33 @@
 #Kaji
 「・・・・・」=.....
 「さて、どこに行こうか」=Now, where was I going?
-「こんちまた、|ご機嫌ナナメだね」=
+「こんちまた、|ご機嫌ナナメだね」=Hello again... Well, somebody's grumpy.
 #Misato
-「来た早々<sp:8>あんたの顔、|見たからよ」=
+「来た早々<sp:8>あんたの顔、|見たからよ」=Only because I saw your ugly mug!
 #Kaji
-「つれないねぇ」=
+「つれないねぇ」=You wound me.
 #Misato
-「あら？」=
+「あら？」=What's going on?
 #Kaji
-「停電か？」=
+「停電か？」=A power outage?
 #Misato
-「まっさかぁ、ありえないわ」=
-「変ね。<sp:8>事故かしら？」=
+「まっさかぁ、ありえないわ」=Unlikely...
+「変ね。<sp:8>事故かしら？」=Strange. Some kind of accident maybe?
 #Kaji
-「リッちゃんが今日の実験で|ミスったのかな？」=
+「リッちゃんが今日の実験で|ミスったのかな？」=Maybe Ritsuko miscalculated something in today's experiments.
 #Misato
-「しょうがない、|上から出ましょう。<sp:8>ほら！」=
+「しょうがない、|上から出ましょう。<sp:8>ほら！」=Well, we can't do anything about it from here.>>We'll go out the top.|Come on now!
 #Kaji
-「ハ？」=
+「ハ？」=Huh?
 #Misato
-「かたぐるま<sp:2>するのよ」=
+「かたぐるま<sp:2>するのよ」=Crouch down. I'm gonna climb up on your shoulders.
 #Kaji
-「ハイハイ」=
-「重くなったな・・・」=
-「うっさいわね！！」=
-「あれ？<sp:8>直った。=
-・・うわっ！」=
-「フケツ」=
+「ハイハイ」=Yes, ma'am.
+「重くなったな・・・」=You've put on a few pounds...
+「うっさいわね！！」=Shut it!
+「あれ？<sp:8>直った。=Feel that? We're moving again.
+・・うわっ！」=... Woah!
+「フケツ」=So indecent...
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0> Floor-B Floor-C Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
@@ -1504,11 +1504,11 @@
 「今日の勤務を終わります。|お疲れ様でした」=
 「・・・あっ！|<name>の様子が！」=
 #Maya
-「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=The medication might not be effective,>>but we must treat it immediately!
 #Makoto
-「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=The medication might not be effective,>>but we must treat it immediately!
 #Shigeru
-「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=The medication might not be effective,>>but we must treat it immediately!
 #Makoto
 「加持さん。<wt:50>|葛城一尉からの通信です」=
 #Misato
@@ -1832,29 +1832,29 @@
 「すいません、お客さん。|店、しめたいんですけど」=
 「そうか、|それじゃ、帰るか」=
 #Maya
-「加持さん！！>><name>ちゃんが|危険な状態です！>>すぐに育成室に戻って下さい」=
+「加持さん！！>><name>ちゃんが|危険な状態です！>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
 #Makoto
-「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=
+「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
 #Shigeru
-「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=
+「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
 #Maya
-「加持さん！！|<name>ちゃんが>>危険な状態です！」=
+「加持さん！！|<name>ちゃんが>>危険な状態です！」=Kaji!! <name> is in critical condition!
 #Makoto
-「加持さん！！|<name>が危険な状態です！」=
+「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical condition!
 #Shigeru
-「加持さん！！|<name>が危険な状態です！」=
+「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical condition!
 #Maya
-「加持さん！！>><name>ちゃんが|危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「加持さん！！>><name>ちゃんが|危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat it immediately!
 #Makoto
-「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat it immediately!
 #Shigeru
-「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=
+「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat it immediately!
 「ああっ、|薬がありません・・・」=
-　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use a Composite Antibiotic?|<ch:0><sp:56>YES<sp:16>NO
 「そんな・・・|このままにしておくなんて！」=
 「はやく<sp:8>よくなると|いいですね」=
-「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=
-「・・・・・・あっ！！」=
+「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
+「・・・・・・あっ！！」=...... Ah!!
 セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
 #Kaji
 「ど、どうした！|何が起こったんだ？」=
