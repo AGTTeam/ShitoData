@@ -394,7 +394,7 @@
 　　Ｓ２サンプルを手に入れた！=
 「使徒の残骸だ・・・」=
 「時々、赤木博士が|ここへ来て作業してますよ」=
-「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=
+「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.
 #Shinji
 「あ、加持さん、|どうしたんですか」=
 #Kaji
@@ -705,17 +705,17 @@
 #Gendo
 「何の用だ。<sp:8>私は忙しい」=
 机の引き出しに<sp:8>カギが|掛かっている=
-机のカギで<sp:6>引き出しを開けた！=
+机のカギで<sp:6>引き出しを開けた！=Opened drawer with Desk Key!
 #Kaji
-「・・・ん？<sp:8><wt:25>これは」=
-　　Ｅ３のカギを手に入れた！=
-「これで３号エレベーターが|使えるな」=
-「もう、めぼしい物は|入ってないな」=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　　Ｅ３のカギを手に入れた！=Obtained E3 Key!
+「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this. 
+「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
 「・・・ん？<sp:8><wt:25>これは」=
 　初号機のコア<sp:8>を手に入れた！=
 「何かの役に立つかな」=
 #Gendo
-「こんな時間に、何の用だ」=
+「こんな時間に、何の用だ」=What are you doing at this hour?
 電話しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
 トゥルルルル・・・・|トゥルルルル・・・・=
 「ハイ、葛城です。ただいま、|留守にしております。>>メッセージをお願いします」=
@@ -1026,25 +1026,25 @@
 #Shigeru
 「やれやれ、|どうなることやら」=
 #Makoto
-「さすが、赤木博士！！|神業とは<sp:8>このことだな」=
+「さすが、赤木博士！！|神業とは<sp:8>このことだな」=Dr. Akagi is amazing!! It's like the work of a divine being.
 #Maya
-「ほんと、感動です！」=
+「ほんと、感動です！」=She's so inspirational!
 #Makoto
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=Dr. Akagi was toying around with MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Normally, it would take even a good engineer a whole day to do that.
 #Kaji
-「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=
+「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Makoto
-「“総合分析所”にいますよ」=
+「“総合分析所”にいますよ」=She's in the Analysis Lab.
 #Maya
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=Dr. Akagi experimented with MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Even our most brilliant engineers might not have succeeded given a whole day.
 #Kaji
-「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=
+「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Maya
-「“総合分析所”にいますよ」=
+「“総合分析所”にいますよ」=She's in the Analysis Lab.
 #Makoto
-「赤木博士の指先には|神が宿ってますね」=
+「赤木博士の指先には|神が宿ってますね」=God dwells in Dr. Akagi's fingertips.
 #Maya
-「あ～あ、ホント、|あこがれちゃう！！」=
+「あ～あ、ホント、|あこがれちゃう！！」='Blush' I really admire her!!
 「葛城一尉ですか？>>赤木博士と一緒に“実験場”で|ＥＶＡのテストを>>しているはずですけど」=
 #Shigeru
 「ターミナルドグマ周辺に|強力なＡＴフィールド！！」=
@@ -1151,7 +1151,7 @@
 #Fuyutsuki
 「ん？<sp:8>碇なら|“総司令室”に行ったが？」=
 #Kaji
-「・・・ん？<sp:8><wt:25>これは」=...Hm? <wt:25>This is...
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　　　机のカギを拾った！=Picked up Desk Key!
 「どこかの机のカギみたいだ。|碇司令の・・・か？」=Looks like some kind of desk key. Commander Ikari's maybe?
 #Fuyutsuki
@@ -1165,21 +1165,21 @@
 「リッちゃん、いや、>>赤木博士は|その残骸のところ？」=
 「ええ、北東地区の|“仮設小屋”です」=
 「兵器開発の方にもっと予算を|さいてほしいよなぁ」=
-「お疲れ。>>上の連中が、すごい<sp:8>すごいって|騒いでたぜ」=
+「お疲れ。>>上の連中が、すごい<sp:8>すごいって|騒いでたぜ」=Look who it is.>>You know, the group upstairs were talking non-stop about how amazing you are.
 #Ritsuko
-「そう・・・、でも、|年齢かしらね、>>思考力が落ちてるわ」=
+「そう・・・、でも、|年齢かしらね、>>思考力が落ちてるわ」=Is that so... I'm getting older though.>>I don't think as fast as I used to.
 #Kaji
-「少しは落ちてくれないと、|こっちがたいへんだよ」=
+「少しは落ちてくれないと、|こっちがたいへんだよ」=And it's a good thing too. Think about how you make the rest of us look.
 #Ritsuko
-「クスッ」=
+「クスッ」=Pfft...
 #Kaji
-「こいつがＭＡＧＩの中味？」=
-「そう。>>直接、端末をつなげてたから|開けてあるのよ。>>危ないから中に入らないでね」=
-「しかし、メモがすごいな」=
+「こいつがＭＡＧＩの中味？」=So this is the heart of the MAGI?
+「そう。>>直接、端末をつなげてたから|開けてあるのよ。>>危ないから中に入らないでね」=Yes. I opened it up to be able to connect directly to the main terminal.>>It's a hazard area though, so I wouldn't recommend going inside.
+「しかし、メモがすごいな」=All those notes... Incredible.
 #Ritsuko
-「かあさんのよ。>>ＭＡＧＩの裏コードやら|いろいろなことが書いてある。>>全部はよんだことはないけど」=
-「さて、後かたづけしないと」=
-「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=
+「かあさんのよ。>>ＭＡＧＩの裏コードやら|いろいろなことが書いてある。>>全部はよんだことはないけど」=They're my mother's.>>She jotted down snippets of MAGI's code everywhere.>>I still haven't read through it all...
+「さて、後かたづけしないと」=Well, I need to get this cleaned up.
+「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Ah, Kaji.>>Dr. Akagi is here right now.
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=If Dr. Akagi catches you fiddling with MAGI without her permission,>>she will be furious!
 「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us, but>>I saw the First Children talking to Casper!!>>
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=
@@ -1187,26 +1187,26 @@
 
 
 !FILE:bank_12.bin
-「あっ！<sp:8>そのエレベーター|ちょっと待ってぇ～！」=
+「あっ！<sp:8>そのエレベーター|ちょっと待ってぇ～！」=Wait! Hold the elevator!
 #Misato
-「ゲッ！」=
+「ゲッ！」=You!
 #Kaji
-「よう！」=
-「そう、毎度、毎度|人の顔を見るたびに>>イライラしなさんなよ！|顔にシワよるぜ」=
+「よう！」=Hey, you!
+「そう、毎度、毎度|人の顔を見るたびに>>イライラしなさんなよ！|顔にシワよるぜ」=Hey, you shouldn't frown so much!>>It'll give you wrinkles.
 #Misato
-「大きなお世話よ！！」=
+「大きなお世話よ！！」=I'll get right on that!!
 #Kaji
-「どうだい、<wt:20>あれから|<ch:8>・・・<ch:4>男できた？」=
+「どうだい、<wt:20>あれから|<ch:8>・・・<ch:4>男できた？」=How have you been? <ch:8>...<ch:4> Seeing anyone?
 #Misato
-「なっ<ch:8>・・・<ch:4>あんたこそ|どうなのよ！」=
+「なっ<ch:8>・・・<ch:4>あんたこそ|どうなのよ！」=Not really<ch:8>...<ch:4>What's it to you?
 #Kaji
-「これが<sp:8>こたえ<ch:8>・・・、<ch:4><wt:25>|かな？」=
+「これが<sp:8>こたえ<ch:8>・・・、<ch:4><wt:25>|かな？」=Does that<ch:8>...<ch:4> <wt:25>answer your question?
 #Misato
-「・・・・・」=
-「ざけんじゃないわよ！！」=
+「・・・・・」=.....
+「ざけんじゃないわよ！！」=Screw you!!
 #Kaji
-「・・・・・」=
-「さて、どこに行こうか」=
+「・・・・・」=.....
+「さて、どこに行こうか」=Now, where was I going?
 「こんちまた、|ご機嫌ナナメだね」=
 #Misato
 「来た早々<sp:8>あんたの顔、|見たからよ」=
@@ -1296,7 +1296,7 @@
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some special lock.>>I won't be using Elevator-3>>without some kind of key.
 「カギを手に入れる・・・か」=I don't have the key... Do I?
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<cho:0><sp:56>YES<sp:16>NO
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-D Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
@@ -1470,11 +1470,11 @@
 #Ritsuko
 「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?
 #Kaji
-「今日はオペレーター交代の日か。|誰にお願いしようかな」=
-<ch:0>オペレーターを選択して下さい。<ff0c>=
-マヤを選択しました。=
-マコトを選択しました。=
-シゲルを選択しました。=
+「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they? Who do I want this time?
+<ch:0>オペレーターを選択して下さい。<ff0c>=<ch:0>Please select a technician.
+マヤを選択しました。=Selected Maya.
+マコトを選択しました。=Selected Makoto.
+シゲルを選択しました。=Selected Shigeru.
 #Maya
 「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's check in on little <name>.
 #Makoto
@@ -1489,11 +1489,11 @@
 「今日の勤務を終わります。|お疲れ様でした」=I'm done for the day. See you later.
 #Maya
 「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい。=
-また、私を選んで下さいね」=
+また、私を選んで下さいね」=I'm done for the day.>>Today's the end of my assistant duty by the way.>>Tomorrow you'll have to choose which technician will be filling in next.>>Feel free to pick me again though.
 #Makoto
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You will be selecting an assistant again tomorrow.
 #Shigeru
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=I'm done for the day.>>I should mention that today was my second day on assistant duty,>>so tomorrow you'll have to decide which of us technicians you want next.
 #Maya
 「今日の勤務を終わります。|お疲れ様でした」=
 「・・・あっ！|<name>ちゃんの様子が！」=
@@ -1686,7 +1686,7 @@
 「誰かに洗ってもらえば？」=What if someone else washed them for you?
 「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to>>send their clothes out for cleaning...
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
-「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=
+「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」='Sigh' We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Composite Antibiotics,>>you think you could spare me one?
 複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give them a Composite Antibiotic?|<ch:0><sp:56>YES<sp:16>NO
 「すまない、|いま持ち合わせていないんだ」=
@@ -2032,11 +2032,11 @@
 #Shigeru
 「加持さん、ここで|使わないでください」=Please don't use that, Kaji.
 #Maya
-「今，それを|使うのは危険すぎます。>>やめておきましょう」=
+「今，それを|使うのは危険すぎます。>>やめておきましょう」=That would be too risky.>>Let's avoid using that for now.
 #Makoto
-「今，それを|使うのは危険すぎます。>>やめておきましょう」=
+「今，それを|使うのは危険すぎます。>>やめておきましょう」=That would be too risky.>>Let's avoid using that for now.
 #Shigeru
-「今，それを|使うのは危険すぎます。>>やめておきましょう」=
+「今，それを|使うのは危険すぎます。>>やめておきましょう」=That would be too risky.>>Let's avoid using that for now.
 「レイのＬ．Ｃ．Ｌを|使います」=
 複合抗生剤<sp:8>を手に入れた！=Obtained Composite Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Active Vitamin!
@@ -2077,7 +2077,7 @@
 #Makoto
 「あれ？|<name>に変化が<ch:8>・・・<ch:4>」=What? <name> is metamor<ch:8>...<ch:4>
 #Shigeru
-「<ch:8>・・・<ch:4>あ！|<name>の様子が<ch:8>・・・<ch:4>」=<ch:8>...<ch:4>Ah! <name>'s condition is<ch:8>...<ch:4>
+「<ch:8>・・・<ch:4>あ！|<name>の様子が<ch:8>・・・<ch:4>」=<ch:8>...<ch:4> Ah! <name>'s condition is<ch:8>...<ch:4>
 「<sp:4>幼生<sp:4>になりました！！>>これで能力がＵＰする訓練を|させることが出来ます」=He has reached his larval stage!!>>Now it will be possible to train him to increase his abilities.
 「<sp:4>中間体<sp:4>になりました！！」=He has reached his pupal stage!!
 「<sp:4>まゆ<sp:4>になりました！！>>これで、明日の朝には|成体になりますよ！>>いよいよですね、|明日の朝が楽しみです。>>それでは、矢礼します」=He has enclosed himself in a cocoon!!>>I suspect he'll emerge tomorrow morning!>>It's finally here. I can't wait for tomorrow.>>Congratulations.
