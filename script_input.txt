@@ -708,7 +708,7 @@
 机のカギで<sp:6>引き出しを開けた！=Opened drawer with Desk Key!
 #Kaji
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
-　　Ｅ３のカギを手に入れた！=Obtained E3 Key!
+　　Ｅ３のカギを手に入れた！=Obtained E-3 Key!
 「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this. 
 「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
 「・・・ん？<sp:8><wt:25>これは」=
@@ -1877,63 +1877,63 @@
 #Misato
 「・・・了解しました。|発進準備！！」=... Understood. Prepare for launch!!
 #Shigeru
-「航空隊、全滅！>>使徒は依然侵攻中、間もなく、|市内中心部に到達！！」=
+「航空隊、全滅！>>使徒は依然侵攻中、間もなく、|市内中心部に到達！！」=Aviation units down!>>The angel is still advancing toward our position!>>Arrival at the city center imminent!!
 #Misato
-「零号機の発進準備は？」=
+「零号機の発進準備は？」=Unit-00 launch preparations?
 #Makoto
-「準備完了！|いつでも出られます！！」=
+「準備完了！|いつでも出られます！！」=Complete! Ready to launch at any moment!!
 #Misato
-「レイ、準備はいい？」=
+「レイ、準備はいい？」=Rei, are you in position?
 #Rei
-「はい」=
+「はい」=Yes.
 #Misato
-「零号機、発進！！」=
+「零号機、発進！！」=Unit-00, launch!!
 #Shigeru
 「零号機、完全に次黙！！」=
 #Misato
-「エントリープラグ強制射出！|パイロットは？」=
+「エントリープラグ強制射出！|パイロットは？」=Force Entry Plug ejection! Pilot's status?
 #Maya
-「射出完了！|パイロット生存確認！！」=
+「射出完了！|パイロット生存確認！！」=Ejection complete! Pilot's vitals stable!!
 #Asuka
-「なにグズグズしてんのよ！|弐号機、出るわよ！！」=
+「なにグズグズしてんのよ！|弐号機、出るわよ！！」=What are you waiting for!? Send out Unit-02!!
 #Makoto
-「使徒、|ジオフロント内に侵入！！」=
+「使徒、|ジオフロント内に侵入！！」=The angel's penetrated the GeoFront!!
 #Misato
-「アスカ、頼んだわ！|ここで止めるのよ！！」=
+「アスカ、頼んだわ！|ここで止めるのよ！！」=I'm counting on you, Asuka! It must be stopped!!
 #Asuka
-「わかってる！|わたしにまかせといて！！=
-弐号機、出撃します！！」=
+「わかってる！|わたしにまかせといて！！=Got it! Leave it to me!!
+弐号機、出撃します！！」=Unit-02, commencing attack!!
 #Shigeru
 「弐号機、完全に次黙！！」=
 #Misato
-「アスカは！！」=
+「アスカは！！」=And Asuka!?
 #Maya
-「無事です！|プラグ強制射出しました！！」=
+「無事です！|プラグ強制射出しました！！」=Pilot secure! Plug has been ejected!!
 #Shinji
-「ミサトさん！<sp:8>アスカは！！」=
+「ミサトさん！<sp:8>アスカは！！」=Ms. Misato! Asuka, she...
 #Misato
-「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=
+「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered the headquarters and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve. It's up to you now!!
 #Shinji
-「・・・わかりました。|初号機、出ます！！」=
+「・・・わかりました。|初号機、出ます！！」=... I understand. Unit-01, moving out!!
 #Shigeru
-「パ、パイロットの生存反応|・・・ありません」=
+「パ、パイロットの生存反応|・・・ありません」=P-Pilot's heart rate... flatlining.
 #Makoto
-「使徒、|ターミナルドグマに接近！！」=
+「使徒、|ターミナルドグマに接近！！」=The angel has nearly reached Terminal Dogma!!
 #Misato
-「・・・日向くん、|最終安全装置解除。=
-みんな、すまないわね」=
+「・・・日向くん、|最終安全装置解除。=... Hyuga, release the final safety device.
+みんな、すまないわね」=Forgive me, everyone.
 #Makoto
-「わかってます。>>使徒がターミナルドグマに|到達したら・・・>>ＮＥＲＶ本部ごと自爆します」=
+「わかってます。>>使徒がターミナルドグマに|到達したら・・・>>ＮＥＲＶ本部ごと自爆します」=It's done.>>In the event that the angel reaches Terminal Dogma,>>NERV headquarters will self-destruct.
 #Shigeru
-「ちょ、ちょっとまってくれ！|どういうことだ！！>>しょ、初号機、活動再開！！」=
+「ちょ、ちょっとまってくれ！|どういうことだ！！>>しょ、初号機、活動再開！！」=W-Wait a minute! Impossible!!>>Unit-01 is... It's moving!! 
 #Gendo
-「・・・・・・ニヤッ」=
+「・・・・・・ニヤッ」=...... 'Smirk'
 #Maya
-「し、信じられない・・・、>>シンクロ率が４００％を|こえました！！」=
+「し、信じられない・・・、>>シンクロ率が４００％を|こえました！！」=I-I don't believe it...>>Synchronization rates exceeding 400%!!
 #Makoto
-「使徒、ターミナルドグマに|突入！！>>初号機も追いつきます！！」=
+「使徒、ターミナルドグマに|突入！！>>初号機も追いつきます！！」=The angel has infiltrated Terminal Dogma!!>>Unit-01 in pusuit!!
 #Misato
-「・・・・・・」=
+「・・・・・・」=......
 #Kaji
 「今回、えられた成果といえば、|所詮<sp:8>使徒は、われわれ、>>人類の手にはおえないという|教訓だけということですか」=What did we gain from this catastrophe?>>We've learned that the angels are beyond the reach of humankind.>>After everything, is that it?
 #Gendo
