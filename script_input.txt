@@ -709,7 +709,7 @@
 #Kaji
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　　Ｅ３のカギを手に入れた！=Obtained E-3 Key!
-「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this. 
+「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this.
 「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
 「・・・ん？<sp:8><wt:25>これは」=
 　初号機のコア<sp:8>を手に入れた！=
@@ -1296,7 +1296,7 @@
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some special lock.>>I won't be using Elevator-3>>without some kind of key.
 「カギを手に入れる・・・か」=I don't have the key... Do I?
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<cho:0><sp:56>YES<sp:16>NO
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:56>YES<sp:16>NO
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-D Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
@@ -1824,7 +1824,7 @@
 #Kaji
 「９時か。|勤務時間が始まる。>>育成室に<sp:8>戻らなきゃ|いけないな」=9 o'clock, huh? Working hours have started.>>I need to get back to the Nurture Chamber.
 「９時か。|勤務時間が始まるな」=9 o'clock, huh? Working hours have started.
-「２１時か。|勤務時間が終わる。>>育成室に<sp:8>戻らなきゃ|いけないな」=2100 hours, huh? That's the end of work hours.>>I need to get back to the Nurture Chamber. 
+「２１時か。|勤務時間が終わる。>>育成室に<sp:8>戻らなきゃ|いけないな」=2100 hours, huh? That's the end of work hours.>>I need to get back to the Nurture Chamber.
 「２１時か。|勤務時間が終わるな」=2100 hours, huh? That's the end of work hours.
 「そろそろ|日もくれるし、戻るか」=
 キーンコーン|カーンコーン>>「下校時間になりました。>>のこっている|生徒は帰りましょう」=
@@ -1925,7 +1925,7 @@
 #Makoto
 「わかってます。>>使徒がターミナルドグマに|到達したら・・・>>ＮＥＲＶ本部ごと自爆します」=It's done.>>In the event that the angel reaches Terminal Dogma,>>NERV headquarters will self-destruct.
 #Shigeru
-「ちょ、ちょっとまってくれ！|どういうことだ！！>>しょ、初号機、活動再開！！」=W-Wait a minute! Impossible!!>>Unit-01 is... It's moving!! 
+「ちょ、ちょっとまってくれ！|どういうことだ！！>>しょ、初号機、活動再開！！」=W-Wait a minute! Impossible!!>>Unit-01 is... It's moving!!
 #Gendo
 「・・・・・・ニヤッ」=...... 'Smirk'
 #Maya
