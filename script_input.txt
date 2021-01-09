@@ -55,7 +55,7 @@
 #Shinji
 「ただいま」=I'm back!
 #Misato
-「シンちゃん、おかえり。|買ってきてくれた？>>やっぱり|風呂あがりには・・・」=I'm so happy you're home, Shinji. You bought it, right?>>I just got out of the bath, so... 
+「シンちゃん、おかえり。|買ってきてくれた？>>やっぱり|風呂あがりには・・・」=I'm so happy you're home, Shinji. You bought it, right?>>I just got out of the bath, so...
 「ぎゃー！！」=What are you...!?
 #Kaji
 「てれるような間じゃ・・・」=Don't be shy. It's not like I haven't...
@@ -993,7 +993,7 @@
 #Kaji
 「おとなしく戦自が渡すか？」=
 #Misato
-「あによ、作戦部の会議中よ、|部外者は入ってこないでよ」=Out! No one but members of the combat operations team>>should be present during strategy meetings! 
+「あによ、作戦部の会議中よ、|部外者は入ってこないでよ」=Out! No one but members of the combat operations team>>should be present during strategy meetings!
 「私も戦自が|応じるとは思えません。>>あそこはＮＥＲＶによって|存在意義すら>>おびやかされてますから」=I agree that the SSDF won't acquiesce.>>They feel intimidated just by the mere existence of NERV.
 「グダグダやってる|暇は<sp:8>ないのよ。>>強制執行してでも<sp:8>いただくわ。>>碇司令の許可も|近日中におりるでしょう。>>では、各自、部署に戻って」=We don't have time to be sitting around twiddling our thumbs.>>The requisition will be made. By force if necessary.>>Now, everyone back to their posts!
 「あによ！|まだ、何かよう？」=I thought I told you to get out! What are you still doing here?
@@ -1471,7 +1471,7 @@
 「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?
 #Kaji
 「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they? Who do I want this time?
-<ch:0>オペレーターを選択して下さい。<ff0c>=<ch:0>Please select a technician.
+<ch:0>オペレーターを選択して下さい。<unk1>=<ch:0>Please select a technician.<unk1>
 マヤを選択しました。=Selected Maya.
 マコトを選択しました。=Selected Makoto.
 シゲルを選択しました。=Selected Shigeru.
@@ -1776,12 +1776,12 @@
 「なるほど」=I see.
 #Ritsuko
 「それと、あなたに|アシスタントとして>>オペレーターが１人つくわ。>>次の３人から選んでちょうだい」=You will also be assigned a technician to assist you.>>Please select one from among these 3.
-<ch:0>オペレーターを選択して下さい。<ff0c>=
+<ch:0>オペレーターを選択して下さい。<unk1>=
 マヤを選択しました。=Selected Maya.
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Maya.
 #Maya
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=Nice to meet you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:56>YES<sp:16>NO
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Maya
@@ -1993,7 +1993,7 @@
 #Fuyutsuki
 「おめでとう」=
 #Ritsuko
-「今回は<ff12>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <ff12>.>>I'll register it in the Photo Album.
+「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>.>>I'll register it in the Photo Album.
 「今回の使徒の|育成データです」=Here's the recorded data from this test.
 使徒データがいっぱいです。=
 上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
@@ -2004,7 +2004,7 @@
 データを上書きします。=
 前の画面に戻ります。=
 #Asuka
-「イベント補完率は|<ff14>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate was <ff14>%!!>>Good luck trying to view them all!!
+「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate was <perc>%!!>>Good luck trying to view them all!!
 「やったわね！|１００％！<sp:8>おめでとう！！」=
 このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:56>YES<sp:16>NO
 #Maya
