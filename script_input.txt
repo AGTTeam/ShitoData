@@ -881,7 +881,7 @@
 #Kaji
 「葛城とのケンカの原因は？」=What were they fighting about?
 #Asuka
-「ケンカとも|言えないんだけど・・・>>ミサトに怒鳴られただけだから。>>そのまま家を|とび出しちゃったのよね。>>あいつ、いつでも|情緒不安定だから。>>なんで、あんなやつが|ＥＶＡに乗れるのかしら？」=I wouldn't really call it a fight...>Misato was the one doing all the yelling.>>And then he just ran out.>>He's always so sensitive and emotional.>>How come a guy like that gets to pilot an Eva?
+「ケンカとも|言えないんだけど・・・>>ミサトに怒鳴られただけだから。>>そのまま家を|とび出しちゃったのよね。>>あいつ、いつでも|情緒不安定だから。>>なんで、あんなやつが|ＥＶＡに乗れるのかしら？」=I wouldn't really call it a fight...>>Misato was the one doing all the yelling.>>And then he just ran out.>>He's always so sensitive and emotional.>>How come a guy like that gets to pilot an Eva?
 #Kaji
 「そうか・・・」=Hm...
 #Asuka
