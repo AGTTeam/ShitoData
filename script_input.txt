@@ -6,23 +6,23 @@
 今日はちがうんです。|ミサトさんが<sp:8>ビールがない、>>ビールがないって|騒ぐもんだから・・・。>>加持さんからも|言ってやってください」=Not exactly.>>Ms. Misato keeps whining that we're all out of beer, but...>>Could you talk to her for me, Kaji?
 #Kaji
 「わかったよ。<wt:25>|ったく、<wt:25>しょうがないな」=Sure thing. <wt:25> Honestly, Katsuragi...
-「シンジくん、|夕食の買い出しかい？」=
+「シンジくん、|夕食の買い出しかい？」=Shinji. Doing some last minute grocery shopping?
 #Shinji
-「あ、加持さん。>>そうなんですよ、|今日<sp:8>僕が夕食当番なんです」=
+「あ、加持さん。>>そうなんですよ、|今日<sp:8>僕が夕食当番なんです」=Oh, Kaji.>>Yeah. It's my turn to make dinner tonight.
 #Kaji
-「おっ、すき焼きかい」=
+「おっ、すき焼きかい」=Looks like sukiyaki tonight. Is that it?
 #Shinji
-「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=
-シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know! Why don't you join us, Kaji?
+シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:56>YES<sp:16>NO
 #Kaji
-「葛城が<sp:8>怒るからな、|また今度にしておくよ」=
+「葛城が<sp:8>怒るからな、|また今度にしておくよ」=I doubt Katsuragi would be too happy to see me.>>How about a rain check?
 #Shinji
-「残念だな。|それじゃ、また今度ですね」=
-「残念だな。|それじゃ、また今度ですね」=
+「残念だな。|それじゃ、また今度ですね」=I understand. Next time then, I guess.
+「残念だな。|それじゃ、また今度ですね」=I understand. Next time then, I guess.
 #Kaji
-「そうかい、<wt:25>悪いなあ。<wt:25>|じゃあ、ごちそうになるよ」=
+「そうかい、<wt:25>悪いなあ。<wt:25>|じゃあ、ごちそうになるよ」=Now there's an idea. <wt:25>I'm sure she won't mind.>>It would be my pleasure.
 #Shinji
-「それじゃ、行きましょう」=
+「それじゃ、行きましょう」=Great. Let's get going.
 「よく夕方に、|中学生くらいの男の子が>>買い物に来るんですよ。>>いつも、生活用品とか|調味料などを>>買っていくんですよ。>>あんな年齢なのに、>>一人ぐらしでも|してるんですかねぇ。>>えらいなぁ」=There's this junior high school student who comes here all the time.>>He's always buying daily necessities and basic cooking ingredients.>>Despite his age, you'd think he lived alone.>>He's a remarkable kid, eh?
 #Kaji
 「・・・シンジ君かな」=... Sounds like Shinji.
@@ -35,13 +35,13 @@
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Could you please not read over my shoulder?
 「・・・ねぇ、早く|帰ろうよぉ」=... Come on, let's go already.
 #Shinji
-「何すんだよ、|いたいじゃないかぁ！」=
+「何すんだよ、|いたいじゃないかぁ！」=What are you doing? That hurts, you know!
 #Asuka
-「もぉ～、いやっ！|やってらんない」=
+「もぉ～、いやっ！|やってらんない」=Screw this! I'm out of here!
 #Kaji
-「シンジ君、追いかけろよ。|これも仕事さ」=
+「シンジ君、追いかけろよ。|これも仕事さ」=Go after her, Shinji. That's part of the job.
 #Shinji
-「ハ、ハイ」=
+「ハ、ハイ」=O-Okay.
 #Asuka
 「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=
 #Kaji
@@ -78,23 +78,23 @@
 #Kaji
 「ウ、ウ～ン」=Ngh, nnnnngh...
 #Asuka
-「ねえ、<wt:25>シンジ。<wt:50>|キスしようか」=
+「ねえ、<wt:25>シンジ。<wt:50>|キスしようか」=Hey, Shinji. Want to kiss?
 #Shinji
-「え？」=
+「え？」=Did you say something?
 #Asuka
-「キスよ」=
+「キスよ」=I said, let's kiss.
 #Shinji
-「魚の・・・」=
+「魚の・・・」=Like the band?
 #Asuka
-「・・・・・。>>歯、みがいてるわよね？|いくわよ」=
+「・・・・・。>>歯、みがいてるわよね？|いくわよ」=.....>>You've brushed your teeth, right?
 #Shinji
-「フハーッ、|窒息するかと思った」=
+「フハーッ、|窒息するかと思った」=Fwah! I thought I might suffocate.
 #Asuka
-「うえっ、やっぱり暇つぶしで|やるもんじゃないわ」=
+「うえっ、やっぱり暇つぶしで|やるもんじゃないわ」=Blech! That's definitely not something you should do to kill time!
 #Shinji
-「あ、<wt:25>あの、<wt:50>ミサトさんなら、|い、<wt:25>いませんよ」=
+「あ、<wt:25>あの、<wt:50>ミサトさんなら、|い、<wt:25>いませんよ」=U-<wt:25>Um... <wt:50>If you're looking for Ms. Misato, sh-<wt:25>she isn't here.
 #Asuka
-「か、<wt:25>加持さん！<wt:50>|ど、<wt:25>どうかしたの？」=
+「か、<wt:25>加持さん！<wt:50>|ど、<wt:25>どうかしたの？」=K-<wt:25>Kaji! <wt:50>Wh-<wt:25>What are you doing here?
 #Misato
 「シンちゃ～ん、お帰りぃ～。|お腹ペコペコよぉ～」=
 「げっ、なに、この男は！！」=
@@ -203,18 +203,18 @@
 　　ペンペンの羽を手に入れた！=Obtained Pen Pen's Feather!
 「クワッ、クワッ」=Kwa! Kwa!
 #Toji
-「なんで、イインチョが|ここにおるんや」=
+「なんで、イインチョが|ここにおるんや」=So what's the Class Rep doing here?
 #Hikari
-「惣流さんのお見舞い。>>あなたたちこそ、|どうしてここに？」=
+「惣流さんのお見舞い。>>あなたたちこそ、|どうしてここに？」=I'm here to check in on Ms. Soryu.>>What are you two doing here?
 #Kensuke
-「碇くんのお見舞い」=
-「は～い」=
+「碇くんのお見舞い」=Checking in on Shinji.
+「は～い」=Coming!
 #Toji
-「う、裏切りもん」=
+「う、裏切りもん」=Y-You dirty traitor!
 #Kensuke
-「しかも今時、ペアルック！|いやーんな感じ」=
+「しかも今時、ペアルック！|いやーんな感じ」=They're wearing matching outfits again!>>Rubs me the wrong way!
 #Hikari
-「フ、フケツよ！<sp:4>二人ともっ」=
+「フ、フケツよ！<sp:4>二人ともっ」=This is so indecent! Both of you!
 #Kaji
 「ふぅ。<wt:50>・・・とりあえず|育成室にでも戻るか・・・」=
 「・・・とりあえず|育成室にでも戻るか・・・」=
@@ -251,12 +251,12 @@
 「後は<sp:8>あんたの活躍しだいだ。|頼んだぞ」=The rest will depend on you.>>Don't fail us now.
 「時々、ここで|サバイバルゲームをしている>>子供がいるよ。>>そこに張ってあるテントは|その子のモノだよ」=There's a kid who comes here sometimes to play some sort of "Survival Game".>>He's the one who put that tent up over there.
 #Shinji
-「・・・あの」=
+「・・・あの」=Um...
 #Asuka
-「わかってるわ・・・。<wt:50>|やるわ、<wt:25>わたし！>>ミサトを|あっと言わせてやるのよ。=
-さあ、<wt:50>戻って練習よ！！！」=
+「わかってるわ・・・。<wt:50>|やるわ、<wt:25>わたし！>>ミサトを|あっと言わせてやるのよ。=I know... <wt:50> I'll do it!>>I'll make Misato swallow her words.
+さあ、<wt:50>戻って練習よ！！！」=You coming? <wt:50>We've got training to do!!
 #Shinji
-「クスッ」=
+「クスッ」='Chuckle'
 #Misato
 「セカンドインパクトを|起こした使徒を倒す。>>そのために|ＮＥＲＶに入ったわ。>>結局<sp:8>私はただ、>>父への復讐をしたいだけ|なのかもしれない。>>父の呪縛から|逃れるために・・・」=
 #Shinji
@@ -291,39 +291,39 @@
 「あんたたち、上等なこと|してるじゃない！！」=I knew you two were up to something!!
 モロ<003d><0ffa><1b2a><fb00><0208><003d><1b02>８<0004><0426>ヒ<003d><1b26>絶<0930><0c0b><72ff><0008><0070>=
 #Shinji
-「あれ、加持さん、|どうしたんですか？」=
+「あれ、加持さん、|どうしたんですか？」=Oh, Kaji. What are you doing here?
 #Kaji
-「アスカの保護者代理だよ」=
+「アスカの保護者代理だよ」=I'm subbing in as Asuka's guardian.
 #Shinji
-「ミサトさんは？」=
+「ミサトさんは？」=Where's Ms. Misato?
 #Kaji
-「作戦主任は|いそがしいらしいよ」=
+「作戦主任は|いそがしいらしいよ」=I think she's busy with her strategy officer duties.
 #Hikari
-「碇くん、碇くん。>>この人が<sp:8>アスカが<sp:8>よく噂してる|加持さん？」=
+「碇くん、碇くん。>>この人が<sp:8>アスカが<sp:8>よく噂してる|加持さん？」=Shinji, Shinji.>>Is this the Kaji that Asuka's always talking about?
 #Toji
-「ゲーッ！！ちゅうことは|ミサトさんの昔の・・・」=
+「ゲーッ！！ちゅうことは|ミサトさんの昔の・・・」=Wait! That would mean he's Ms. Misato's...
 #Shinji
-「うん、ＮＥＲＶで|はたらいている>>加持リョウジさん」=
+「うん、ＮＥＲＶで|はたらいている>>加持リョウジさん」=Yeah, this is Ryoji Kaji. He works at NERV too.
 #Kaji
-「よろしく。|アスカのやつ、>>悪い噂を流してるんじゃ|ないだろうね？」=
+「よろしく。|アスカのやつ、>>悪い噂を流してるんじゃ|ないだろうね？」=Nice to meet you. Now, these things Asuka always saying...>>She's not slandering my good name, is she?
 #Hikari
-「ちがいますよ。>>もう、最高だ、最高だって|うるさい<sp:2>くらいですよ」=
+「ちがいますよ。>>もう、最高だ、最高だって|うるさい<sp:2>くらいですよ」=Not at all.>>It's more like she won't shut up about how perfect and amazing you are.
 #Toji
-「か、加持さん！！>>ミサトさんの|昔の恋人やったちゅう話は>>ほんまでっか」=
+「か、加持さん！！>>ミサトさんの|昔の恋人やったちゅう話は>>ほんまでっか」=K-Kaji!!>>So the stories of Ms. Misato's old lover are true!
 #Kaji
-「ハハハハハ」=
+「ハハハハハ」=Hahahaha!
 #Teacher
-「おい、君たち、もう遅いから|用がないなら帰りなさい」=
+「おい、君たち、もう遅いから|用がないなら帰りなさい」=Hey, kids. It's late already, so go ahead and go home if you're done here.
 #Hikari
-「ハイ、もう帰ります、|みんな帰ろう」=
+「ハイ、もう帰ります、|みんな帰ろう」=Yes, sir. Everything's done, so let's go everybody.
 #Shinji
-「うん」=
+「うん」=Okay.
 #Toji
-「か、加持さん、|ミサトさんとは・・・」=
+「か、加持さん、|ミサトさんとは・・・」=K-Kaji... Ms. Misato's old...
 #Hikari
-「鈴原！！|いいかげんにしなさいよ」=
+「鈴原！！|いいかげんにしなさいよ」=Toji!! Cut it out!
 #Toji
-「なんや、イインチョ、そない|引っ張ることないやろ！！>>加持さ～ん・・・」=
+「なんや、イインチョ、そない|引っ張ることないやろ！！>>加持さ～ん・・・」=What are... Class Rep, don't yank so hard!!>>Kaji, I'll...!
 「ハー、終わった、終わった。>>イインチョ、もう帰っても|ええんやろ？」=
 #Hikari
 「う、<wt:25>うん・・・<wt:25>す、<wt:25>鈴原、<wt:25>|あ、<wt:25>明日も週番なんだから、>>ちゃんと、早く来なさいよ」=
@@ -1005,20 +1005,20 @@
 #Shigeru
 「戦自も<sp:8>おカタいからなあ」=
 #Misato
-「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=
-二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=
+「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=The two of you will be training to pull off a dual Eva attack.>>It won't cut it to have you two acting on your own forever.>>Therefore, I have devised an attack pattern which perfectly matches this music.>>I want the two of you to memorize it.>>That's why
+二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=the two of you will be doing everything together until further notice.
 #Asuka
-「えええええぇぇぇっ！！！」=
+「えええええぇぇぇっ！！！」=Whaaaaaaat!!!
 #Shinji
-「そんなムチャな・・・」=
+「そんなムチャな・・・」=Doesn't that seem excessive?
 #Misato
-「命令は以上です」=
+「命令は以上です」=You have your orders.
 #Shinji
-「とほほほ」=
+「とほほほ」=But why?
 #Asuka
-「いやーっ、信じらんない！=
-・・・しかたない。=
-シンジ！<sp:8>先にマンションに|帰ってるから、>>あんたも|さっさと来なさいよ！」=
+「いやーっ、信じらんない！=I must be dreaming! Wake up, Asuka!
+・・・しかたない。=... You better not make me look bad.
+シンジ！<sp:8>先にマンションに|帰ってるから、>>あんたも|さっさと来なさいよ！」=I'm going back to the apartment, Shinji!>>You better come too.
 #Maya
 「クスッ」=
 #Makoto
