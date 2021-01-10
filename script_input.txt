@@ -289,7 +289,6 @@
 うわ！！」='Gulp'
 #Asuka
 「あんたたち、上等なこと|してるじゃない！！」=I knew you two were up to something!!
-モロ<003d><0ffa><1b2a><fb00><0208><003d><1b02>８<0004><0426>ヒ<003d><1b26>絶<0930><0c0b><72ff><0008><0070>=
 #Shinji
 「あれ、加持さん、|どうしたんですか？」=Oh, Kaji. What are you doing here?
 #Kaji
