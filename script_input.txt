@@ -1233,15 +1233,15 @@
 「あれ？<sp:8>直った。=Feel that? We're moving again.
 ・・うわっ！」=... Woah!
 「フケツ」=So indecent...
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0> Floor-B Floor-C Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-B     Floor-C     Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
 「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator-3.>>Nobody can use it without authorization from Commander Ikari.
 「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator-3 on Floor-D takes you to Central Dogma.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0> Floor-A Floor-C Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0> Floor-A Floor-C Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
 「近々、職員の募集を|するらしいですよ。>>いま事務局が>>告知のポスターを|つくってるらしいんですよ。>>今年は誰がモデルを|やるんですかね？」=I hear we're going to be recruiting new staff soon.>>Which means the secretariat will be making an announcement poster.>>I wonder who will be the model this year.
@@ -1249,7 +1249,7 @@
 「赤木博士・・・・・・」=
 「近々、芦ノ湖で|花火大会があるそうですよ。>>私、すごく楽しみに|してるんです！」=There's a fireworks show coming up at Ashinoko Lake.>>It's gonna be so much fun!
 「仕事が忙しくて、|花火大会に行けませんでした。>>ちょ～ショックですぅ～。|行きたかったなぁ」=
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｂフロア　やめる=Please select your destination.|<ch:0> Floor-A Floor-B Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｂフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-B     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｂフロアを選択しました。=Selected Floor-B.
 「前見るんじゃないわよ」=I told you not to look!
@@ -1270,7 +1270,7 @@
 「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this ramen stand>>that's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>I'm pretty sure I saw her hanging out in the Lounge.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0> Floor-D Floor-E Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-D     Floor-E     Back
 Ｄフロアを選択しました。=Selected Floor-D.
 Ｅフロアを選択しました。=Selected Floor-E.
 「！？」=
@@ -1285,10 +1285,10 @@
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>She was in the Lounge last time I saw her.
 「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=
 「調査班の人達は|空き時間に芦ノ湖へ>>つりに行くらしいですよ」=I hear members of the research team like to go fishing>> at Ashinoko Lake whenever they get any time off.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-E Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-E Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
 「あ、加持さん。|お疲れさまです」=Oh, Kaji. How's it going?
@@ -1296,7 +1296,7 @@
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some special lock.>>I won't be using Elevator-3>>without some kind of key.
 「カギを手に入れる・・・か」=I don't have the key... Do I?
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-D Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-D     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
 #Asuka
