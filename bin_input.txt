@@ -65,7 +65,7 @@
 病気を回復する薬=Heals maladies.
 活性ビタミン=Vitamin
 栄養剤=Provides nutrients.
-汚染中和剤=Neutralizer
+汚染中和剤=Purifier
 汚染の進行を抑える薬=Helps maintain Purity levels.
 エンドメタシン=Zorbetacin
 疲労回復薬=Lessens fatigue.
