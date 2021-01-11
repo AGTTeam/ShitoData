@@ -45,7 +45,7 @@
 #Asuka
 「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=
 #Kaji
-「・・・・・」=
+「・・・・・」=.....
 #Asuka
 「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=
 #Kaji
@@ -216,7 +216,7 @@
 #Hikari
 「フ、フケツよ！<sp:4>二人ともっ」=This is so indecent! Both of you!
 #Kaji
-「ふぅ。<wt:50>・・・とりあえず|育成室にでも戻るか・・・」=
+「ふぅ。<wt:50>・・・とりあえず|育成室にでも戻るか・・・」='Sigh' I should probably head back to the Nurture Chamber...
 「・・・とりあえず|育成室にでも戻るか・・・」=I should probably check in on things in the Nurture Chamber for now.
 「ふう、どうするかな？」=Whew... Where to now?
 「・・・とりあえず|育成室にでも戻るか・・・」=I should probably check in on things in the Nurture Chamber for now.
@@ -390,7 +390,7 @@
 「あんまりいじらないでね、|貴重なサンプルなんだから」=
 #Kaji
 「使徒の残骸だ・・・。<wt:50>|あれ、これは？」=The remains of one of those angels... <wt:50>Oh, what's that?
-　　Ｓ２サンプルを手に入れた！=Obtained S2 Engine!
+　　Ｓ２サンプルを手に入れた！=Obtained S² Sample!
 「使徒の残骸だ・・・」=The remains of one of those angels...
 「時々、赤木博士が|ここへ来て作業してますよ」=Dr. Akagi comes here to work on occasion.
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.
@@ -512,7 +512,7 @@
 「なんだい？<sp:8>これ」=
 #Ritsuko
 「今の仕事に役立つものよ」=
-　　汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
+　　汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
 #Misato
 「ひ・み・つのお話？」=
 #Kaji
@@ -668,7 +668,7 @@
 「情報操作したものをですね」=
 #Gendo
 「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=
-　ＤＶＤディスク<sp:8>を手に入れた！=
+　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD Disk!
 #Kaji
 「・・・」=
 #Gendo
@@ -698,11 +698,11 @@
 「碇司令の一人負けです」=Commander Ikari lost all on his own.
 「もう、いい加減、|やめたいなあ」=I've had enough. Let's call it quits.
 #Gendo
-「フフフ、この>>『サルでもわかる詰め将棋』|さえあれば・・・」=
+「フフフ、この>>『サルでもわかる詰め将棋』|さえあれば・・・」=Hmhmhm. Even with this copy of "Shogi for Dummies"...
 #Kaji
-（あれは副司令のもの|じゃないのか・・・？）=
+（あれは副司令のもの|じゃないのか・・・？）=(Isn't that the book the Deputy Commander's looking for?)
 #Gendo
-「何の用だ。<sp:8>私は忙しい」=
+「何の用だ。<sp:8>私は忙しい」=What do you need? I'm very busy.
 机の引き出しに<sp:8>カギが|掛かっている=
 机のカギで<sp:6>引き出しを開けた！=Opened drawer with Desk Key!
 #Kaji
@@ -710,8 +710,8 @@
 　　Ｅ３のカギを手に入れた！=Obtained E-3 Key!
 「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this.
 「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
-「・・・ん？<sp:8><wt:25>これは」=
-　初号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　初号機のコア<sp:8>を手に入れた！=Obtained Unit-01 Core!
 「何かの役に立つかな」=
 #Gendo
 「こんな時間に、何の用だ」=What are you doing at this hour?
@@ -1305,23 +1305,23 @@
 しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 #Ritsuko
-「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=
+「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.
 #Misato
-「・・・アスカは|シンジくんに負けたと>>思っているのよ」=
+「・・・アスカは|シンジくんに負けたと>>思っているのよ」=... She can't stop thinking about losing to Shinji.
 #Kaji
-「アスカに問題発生か？」=
+「アスカに問題発生か？」=There a problem with Asuka?
 #Misato
-「そうなのよ、まいったわ」=
+「そうなのよ、まいったわ」=Yeah. She's totally given up.
 #Ritsuko
-「しばらくは様子を|見るしかないわね」=
+「しばらくは様子を|見るしかないわね」=For the time being, we'll just have to keep an eye on her.
 #Misato
-「・・・わかった」=
+「・・・わかった」=... All right.
 #Kaji
-「アスカと<sp:8>話をしてみるか」=
+「アスカと<sp:8>話をしてみるか」=Maybe I should try having a little talk with her.
 #Misato
-「アスカ？|家に戻ってると思うわよ」=
+「アスカ？|家に戻ってると思うわよ」=Asuka? I'm pretty sure she went home.
 #Ritsuko
-「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=
+「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=Asuka? She doesn't have any more tests scheduled for today,>>so she's probably gone back to Misato's Apartment, if I had to guess.
 「ＥＶＡの実機訓練があるんで、>>みなさん“中央発令所”に|行かれましたよ」=
 #Misato
 「以上で本日のミーティングを|終了します」=We'll conclude our daily meeting there.
@@ -1355,8 +1355,8 @@
 　　なぞのシミ<sp:8>を手に入れた！=
 「何かの役に立つかな」=
 「だめだ・・・どうしても|一部しか採取できないな」=
-「・・・ん？<sp:8><wt:25>これは」=
-　弐号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　弐号機のコア<sp:8>を手に入れた！=Obtained Unit-02 Core!
 「何かの役に立つかな」=
 「あっ、加持さん。|お疲れさまです」=Ah, Kaji. Done for the day?
 「あっ、加持さん。|お疲れさまです」=Ah, Kaji. Nice to see you.
@@ -1539,23 +1539,23 @@
 「こんな姿を見ると、|本当にあどけないですよね。>>まだ１４なのに、世界の運命を|せおってるんだもんなあ」=Seeing them like this, they look so innocent.>>They're only 14 but the fate of the entire world>>rests on their shoulders.
 「さあ、<name>の育成を|しましょうか！」=Say, let's see how <name> is growing!
 #Maya
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Maya
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Makoto
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Makoto
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Shigeru
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Shigeru
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Kaji
 「葛城、シンジくんは|見つかったか？」=Katsuragi, did you ever find Shinji?
 #Misato
@@ -1687,7 +1687,7 @@
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」='Sigh' We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics,>>you think you could spare me one?
-複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give them an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「すまない、|いま持ち合わせていないんだ」=
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=
 「仕方ない、|部下に取り寄せさせよう」=
@@ -1703,11 +1703,11 @@
 「あっ！？<sp:8>こんなところから|Ｌ．Ｃ．Ｌが、もれてる。>>何か入れ物があれば・・・」=What!? It's leaking LCL.>>If only I had something to put it in...
 「あっ！？<sp:8>こんなところから|Ｌ．Ｃ．Ｌが、もれてる。>>そうだ、このビーカーで・・・」=What!? It's leaking LCL.>>I know! I can use the Beaker to...
 ビーカーは|Ｌ．Ｃ．Ｌで満たされた！=Filled the Beaker with LCL!
-レイのＬ．Ｃ．Ｌを手に入れた！=Obtained Rei's LCL!
+レイのＬ．Ｃ．Ｌを手に入れた！=Obtained Rei's LCL!#not consistent with bin_input.txt - ＣＬ３のＬＣＬ
 「これだけ、ビーカーに|入れておけば、>>もう、いいだろう」=
 「ん？>>何か、水てきが落ちるような|音がしたぞ？>>どこからだ・・・？」=Hm?>>That sounds like dripping water.>>Where's it coming from?
-「・・・ん？<sp:8><wt:25>これは」=
-　零号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　零号機のコア<sp:8>を手に入れた！=Obtained Unit-00 Core!
 「何かの役に立つかな」=
 　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.
 「すごい量のＬ．Ｃ．Ｌだな。|何か入れ物があれば・・・」=Such an abundance of LCL. If I had a container...
@@ -1849,7 +1849,7 @@
 #Shigeru
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
 「ああっ、|薬がありません・・・」=
-　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use a Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「そんな・・・|このままにしておくなんて！」=
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
@@ -1901,7 +1901,7 @@
 「アスカ、頼んだわ！|ここで止めるのよ！！」=I'm counting on you, Asuka! It must be stopped!!
 #Asuka
 「わかってる！|わたしにまかせといて！！=Got it! Leave it to me!!
-弐号機、出撃します！！」=Unit-02, commencing attack!!
+弐号機、出撃します！！」=Unit-02, sortied!!
 #Shigeru
 「弐号機、完全に次黙！！」=
 #Misato
@@ -2039,35 +2039,35 @@
 「レイのＬ．Ｃ．Ｌを|使います」=Use Rei's LCL.
 複合抗生剤<sp:8>を手に入れた！=Obtained Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Vitamin!
-汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
-エンドメタシン<sp:8>を手に入れた！=
-ＺブロッカーＡ<sp:8>を手に入れた！=
-ＺブロッカーＢ<sp:8>を手に入れた！=
-キープノイドＡ<sp:8>を手に入れた！=
-キープノイドＢ<sp:8>を手に入れた！=
-アップミンＩＱ<sp:8>を手に入れた！=
-アップミンＥＸ<sp:8>を手に入れた！=
-アップミンＡＴ<sp:8>を手に入れた！=
+汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
+エンドメタシン<sp:8>を手に入れた！=Obtained Zorbetacin!
+ＺブロッカーＡ<sp:8>を手に入れた！=Obtained Z-Blocker A!
+ＺブロッカーＢ<sp:8>を手に入れた！=Obtained Z-Blocker B!
+キープノイドＡ<sp:8>を手に入れた！=Obtained Staenoid A!
+キープノイドＢ<sp:8>を手に入れた！=Obtained Staenoid B!
+アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
+アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
+アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
 レンジアップＡ<sp:8>を手に入れた！=
 レンジアップＢ<sp:8>を手に入れた！=
-ベークライト<sp:8>を手に入れた！=
+ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
 化人散<sp:8>を手に入れた！=
 百獣丸<sp:8>を手に入れた！=
 物化湯<sp:8>を手に入れた！=
 複合抗生剤<sp:8>を手に入れた！=Obtained Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Vitamin!
-汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
-エンドメタシン<sp:8>を手に入れた！=
-ＺブロッカーＡ<sp:8>を手に入れた！=
-ＺブロッカーＢ<sp:8>を手に入れた！=
-キープノイドＡ<sp:8>を手に入れた！=
-キープノイドＢ<sp:8>を手に入れた！=
-アップミンＩＱ<sp:8>を手に入れた！=
-アップミンＥＸ<sp:8>を手に入れた！=
-アップミンＡＴ<sp:8>を手に入れた！=
+汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
+エンドメタシン<sp:8>を手に入れた！=Obtained Zorbetacin!
+ＺブロッカーＡ<sp:8>を手に入れた！=Obtained Z-Blocker A!
+ＺブロッカーＢ<sp:8>を手に入れた！=Obtained Z-Blocker B!
+キープノイドＡ<sp:8>を手に入れた！=Obtained Staenoid A!
+キープノイドＢ<sp:8>を手に入れた！=Obtained Staenoid B!
+アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
+アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
+アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
 レンジアップＡ<sp:8>を手に入れた！=
 レンジアップＢ<sp:8>を手に入れた！=
-ベークライト<sp:8>を手に入れた！=
+ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
 化人散<sp:8>を手に入れた！=
 百獣丸<sp:8>を手に入れた！=
 物化湯<sp:8>を手に入れた！=
