@@ -13,7 +13,7 @@
 「おっ、すき焼きかい」=Looks like sukiyaki tonight. Is that it?
 #Shinji
 「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know! Why don't you join us, Kaji?
-シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:56>YES<sp:16>NO
+シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「葛城が<sp:8>怒るからな、|また今度にしておくよ」=I doubt Katsuragi would be too happy to see me.>>How about a rain check?
 #Shinji
@@ -896,7 +896,7 @@
 #Asuka
 「当然！！<wt:50><sp:8>あっ、<wt:25>そうだ、|加持さん・・・=Totally!! <wt:50>Oh, <wt:25>I have an idea, Kaji...
 これから買い物に|つきあってくれません？」=Why don't you take me out shopping? To celebrate...
-アスカの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Asuka's invitation?|<ch:0><sp:56>YES<sp:16>NO
+アスカの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Asuka's invitation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「すまん。|まだ、仕事があるんだよ」=Sorry. I've still got a lot of work to do.
 #Asuka
@@ -1295,7 +1295,7 @@
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some special lock.>>I won't be using Elevator-3>>without some kind of key.
 「カギを手に入れる・・・か」=I don't have the key... Do I?
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:56>YES<sp:16>NO
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0> Floor-C Floor-D Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
@@ -1303,7 +1303,7 @@
 「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=
 ラッキー！！=
 しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 #Ritsuko
 「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=
 #Misato
@@ -1628,7 +1628,7 @@
 「ありがとう」=Thanks.
 コンピュータを起動した=Booted up computer.
 「新しいメールは、|来ていないみたいだな」=Doesn't look like I have any unread emails.
-朝９時まで<sp:8>ねますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Sleep until 9 AM?|<ch:0><sp:56>YES<sp:16>NO
+朝９時まで<sp:8>ねますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Sleep until 9 AM?|<ch:0><sp:59>Yes <sp:32>No
 「まだ、ねるのは|やめておこう」=Let's stay up a little longer.
 「今日は、もう|ねるとするか！」=Let's call it a day!
 「ふう、<wt:50>よくねた・・・」='Yawn' <wt:50>I slept great.
@@ -1687,7 +1687,7 @@
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」='Sigh' We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics,>>you think you could spare me one?
-複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give them an Antibiotic?|<ch:0><sp:56>YES<sp:16>NO
+複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give them an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「すまない、|いま持ち合わせていないんだ」=
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=
 「仕方ない、|部下に取り寄せさせよう」=
@@ -1795,7 +1795,7 @@
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>日向くん、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Makoto.
 #Makoto
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=Nice to meet you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:56>YES<sp:16>NO
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Makoto
@@ -1811,7 +1811,7 @@
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>青葉くん、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Shigeru.
 #Shigeru
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=Nice to meet you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:56>YES<sp:16>NO
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Shigeru
@@ -1849,12 +1849,12 @@
 #Shigeru
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
 「ああっ、|薬がありません・・・」=
-　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use a Antibiotic?|<ch:0><sp:56>YES<sp:16>NO
+　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use a Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「そんな・・・|このままにしておくなんて！」=
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
 「・・・・・・あっ！！」=...... Ah!!
-セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you to the title screen.>>Execute save?|<ch:0><sp:56>YES<sp:16>NO
+セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you to the title screen.>>Execute save?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「ど、どうした！|何が起こったんだ？」=Wh-What's going on!? What happened?
 #Shigeru
@@ -2005,7 +2005,7 @@
 #Asuka
 「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate was <perc>%!!>>Good luck trying to view them all!!
 「やったわね！|１００％！<sp:8>おめでとう！！」=
-このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:56>YES<sp:16>NO
+このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:59>Yes <sp:32>No
 #Maya
 「複合抗生剤を使います。>>はやく、よくなると|いいですね」=
 #Makoto
