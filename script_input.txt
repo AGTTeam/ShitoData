@@ -1337,7 +1337,7 @@
 「加持さん、これから|花火大会に行かない？」=So, um... Do you want to come watch the fireworks?
 アスカに<sp:2>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Asuka?|<ch:0><sp:56>YES<sp:16>NO
 #Kaji
-「悪い、|みんなで楽しんできてくれ」=I can't, sorry. But you have guys have fun without me.
+「悪い、|みんなで楽しんできてくれ」=I can't, sorry. But you guys have fun without me.
 #Asuka
 「なんだ、つまんな～い」=Seriously? You're no fun!
 #Kaji
