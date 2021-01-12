@@ -652,8 +652,8 @@
 #Fuyutsuki
 「うまいな」=Delicious.
 #Gendo
-「・・・ラーメンライス」=
-「・・・問題ない」=
+「・・・ラーメンライス」=... Ramen and a side of rice.
+「・・・問題ない」=... Is there a problem?
 「へいっ、いらっしゃい！」=Welcome! Welcome!
 「君にまた、頼み事ができた」=
 #Kaji
@@ -1107,20 +1107,20 @@
 #Maya
 「どうしようかなぁ・・・」=
 #Ritsuko
-「ＥＶＡの実機訓練中よ」=
+「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Misato
-「ＥＶＡの実機訓練中よ」=
+「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Fuyutsuki
-「ＥＶＡの実機訓練中だ」=
-「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=
+「ＥＶＡの実機訓練中だ」=We're in the middle of some practical Eva training.
+「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=You idiiot, Shinji!!>>
 「なんだよ～！>>アスカの方がぶつかって|きたんじゃないか！！」=
-「・・・恥を<sp:8>かかせおって」=
+「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
 #Misato
 「あちゃ～」=
 #Ritsuko
 「無様ね」=
 #Fuyutsuki
-「・・・恥を<sp:8>かかせおって」=
+「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
 「職員募集のポスター？|できあがってますよ。>>えっ、どんなかって？|どんなだと思います？=
 葛城一尉の水着姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
 アスカの耐熱用プラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
