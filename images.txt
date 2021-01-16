@@ -11,6 +11,7 @@ bank_09_02=c060,d990
 !FILE:bank_13.bin
 bank_13_01=f6c,17bc,27
 bank_13_02=4e60,5ee0
+bank_13_03=6b30,7dd0,7
 
 !FILE:bank_18.bin
 bank_18_01=a50,1200,8
