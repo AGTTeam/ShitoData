@@ -105,7 +105,7 @@
 ビーカー=Beaker
 ターミナルドグマのＬＣＬ=LCL from Terminal Dogma.
 が入っている。=Contains
-なぞのシミ=
+なぞのシミ=Corrosive
 ？？？=???
 第九のＤＡＴ=Cassette Tape
 ？？？=???
