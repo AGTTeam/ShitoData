@@ -27,7 +27,7 @@
 #Kaji
 「・・・シンジ君かな」=... Sounds like Shinji.
 「いつも話している|中学生の男の子が>>買い物に来てますよ」=
-「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's su<wt:50>per hot all year round,>>so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
+「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's SU<wt:50>PER hot all year round,>>so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
 「おそろいの服着た|女の子と男の子が>>“丘の上公園”の方に行ったよ。>>なんか、訳ありそうな|雰囲気だったよ。>>いいなあ、若い子は。|青春してて」=
 「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>Is there really anything to catch? <wt:50>At Ashinoko Lake?
 「夜は、立ちよみをする|お客さんが多くって・・・」=There are a lot of customers who come at night to peruse the magazines.
@@ -45,7 +45,7 @@
 #Asuka
 「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=
 #Kaji
-「・・・・・」=
+「・・・・・」=.....
 #Asuka
 「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=
 #Kaji
@@ -68,9 +68,9 @@
 「あきらめなさい、|男らしくないわよ」=No more of that. That's not very gentlemanly.
 #Misato
 「ハーイ、おまたせ～」=And dinner is served!
-「い、いただきまーす」='Gulp' Let's dig in.
+「い、いただきまーす」=*Gulp* Let's dig in.
 #Ritsuko
-「グッ」='Gag'
+「グッ」=*Gag*
 #Shinji
 「ハハハ、|お、おいしいですよ」=Haha... I-It's really good.
 #Misato
@@ -216,7 +216,7 @@
 #Hikari
 「フ、フケツよ！<sp:4>二人ともっ」=This is so indecent! Both of you!
 #Kaji
-「ふぅ。<wt:50>・・・とりあえず|育成室にでも戻るか・・・」=
+「ふぅ。<wt:50>・・・とりあえず|育成室にでも戻るか・・・」=*Sigh* I should probably head back to the Nurture Chamber...
 「・・・とりあえず|育成室にでも戻るか・・・」=I should probably check in on things in the Nurture Chamber for now.
 「ふう、どうするかな？」=Whew... Where to now?
 「・・・とりあえず|育成室にでも戻るか・・・」=I should probably check in on things in the Nurture Chamber for now.
@@ -224,28 +224,28 @@
 「当分、入れてもらえないな」=I probably shouldn't test my luck...
 「こんにちは。>>葛城さんの|お知り合いの方ですか？」=Hello.>>Are you an acquaintance of Ms. Misato?
 「ええ、まあ」=You could say that.
-「戦自の上層部は抑えた」=
-「これがディスク。>>金はダミーをとおして|渡るようにしてある」=
-「了解した。|それと、こちらからの仕事だ。>>マルドゥック機関を洗う。>>こちらからの連絡が入りしだい|動くようにしてくれ」=
-「わかった」=
-「こちらからの連絡が入りしだい|動くようにしてくれ」=
-「ある人物が|ターミナルドグマに関する>>情報をリークした。|さっそく、接触してくれ」=
-「どこで接触したらいいんだ」=
-「それは聞いていない。>>何らかの連絡が入るはずだ。|気をつけておいてくれ」=
-「何らかの連絡が入るはずだ。|気をつけておいてくれ」=
-「手をあげろ！！」=
-「！！」=
+「戦自の上層部は抑えた」=The defense force's top brass want results.
+「これがディスク。>>金はダミーをとおして|渡るようにしてある」=Money's being passed through dummy companies.>>It's all here on this Disk.
+「了解した。|それと、こちらからの仕事だ。>>マルドゥック機関を洗う。>>こちらからの連絡が入りしだい|動くようにしてくれ」=Understood.>>For the time being, you're to look into the Marduk Institute.>>Be ready to move the moment we contact you.
+「わかった」=Okay.
+「こちらからの連絡が入りしだい|動くようにしてくれ」=Be ready to move the moment we contact you.
+「ある人物が|ターミナルドグマに関する>>情報をリークした。|さっそく、接触してくれ」=Someone has leaked information relating to Terminal Dogma.>>You need to touch base at once.
+「どこで接触したらいいんだ」=Where's the meeting point?
+「それは聞いていない。>>何らかの連絡が入るはずだ。|気をつけておいてくれ」=That I don't know. They'll contact you first.>>Don't let your guard down.
+「何らかの連絡が入るはずだ。|気をつけておいてくれ」=They'll contact you first.>>Don't let your guard down.
+「手をあげろ！！」=Put your hands up where I can see them!!
+「！！」=!!
 #Kensuke
-「あれ？<sp:8>たしか|ＮＥＲＶの人でしたよね」=
+「あれ？<sp:8>たしか|ＮＥＲＶの人でしたよね」=Hey, you're from NERV, aren't you?
 #Kaji
-「そういう君はたしか、>>シンジくんと|同じクラスの・・・」=
+「そういう君はたしか、>>シンジくんと|同じクラスの・・・」=And if you know that, you must be in Shinji's class at school...
 #Kensuke
-「相田ケンスケです」=
+「相田ケンスケです」=The name's Kensuke Aida.
 #Kaji
-「おれは加持リョウジ、|よろしく。>>しかし、すごいな。>>いつも<sp:2>こんなこと|してるのかい？」=
+「おれは加持リョウジ、|よろしく。>>しかし、すごいな。>>いつも<sp:2>こんなこと|してるのかい？」=I'm Ryoji Kaji. Nice to meet you.>>Color me impressed, though. This isn't your first time, I assume.
 #Kensuke
-「はい、趣味ですから」=
-「第一小隊、突撃！！」=
+「はい、趣味ですから」=No. It's a hobby of mine.
+「第一小隊、突撃！！」=First Platoon, charge!!
 「これがブツだ。|後はあんたの活躍しだいだ。>>頼んだぞ」=Here's what you wanted. The rest will depend on you.>>Don't fail us now.
 　Ｈ・Ｄのカギを手に入れた！=Obtained HD Key!
 「後は<sp:8>あんたの活躍しだいだ。|頼んだぞ」=The rest will depend on you.>>Don't fail us now.
@@ -256,16 +256,16 @@
 「わかってるわ・・・。<wt:50>|やるわ、<wt:25>わたし！>>ミサトを|あっと言わせてやるのよ。=I know... <wt:50> I'll do it!>>I'll make Misato swallow her words.
 さあ、<wt:50>戻って練習よ！！！」=You coming? <wt:50>We've got training to do!!
 #Shinji
-「クスッ」='Chuckle'
+「クスッ」=*Chuckle*
 #Misato
-「セカンドインパクトを|起こした使徒を倒す。>>そのために|ＮＥＲＶに入ったわ。>>結局<sp:8>私はただ、>>父への復讐をしたいだけ|なのかもしれない。>>父の呪縛から|逃れるために・・・」=
+「セカンドインパクトを|起こした使徒を倒す。>>そのために|ＮＥＲＶに入ったわ。>>結局<sp:8>私はただ、>>父への復讐をしたいだけ|なのかもしれない。>>父の呪縛から|逃れるために・・・」=I have to destroy the angels, the cause of the Second Impact.>>That's why I joined NERV.>>Maybe it all boils down to me wanting revenge against my father.>>To free myself from his hold over me...
 #Shinji
-「ミサトさん・・・」=
+「ミサトさん・・・」=Ms. Misato...
 #Misato
-「話はそれだけ、<wt:50>じゃね」=
+「話はそれだけ、<wt:50>じゃね」=That's enough stories for today. <wt:50>See you later.
 #Shinji
-「僕がＥＶＡに乗るのは|何故なんだろう・・・。>>父の呪縛から逃れる・・・」=
-「そう、<wt:50>逃げちゃだめなんだ」=
+「僕がＥＶＡに乗るのは|何故なんだろう・・・。>>父の呪縛から逃れる・・・」=Is that why I pilot an Eva?>>To free myself from my father's hold over me?
+「そう、<wt:50>逃げちゃだめなんだ」=Right. Don't run away.
 「ここって|見はらしが<sp:4>いいから>>落ち込んでるときに|よく来るんです」=The view here is so nice.>>I often come here when I'm feeling depressed.
 #Kaji
 「俺で<sp:4>よかったら|話相手になりましょうか？」=Well, this must be your lucky day.>>I know just the thing to cheer you up.
@@ -278,7 +278,7 @@
 「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=
 #Toji
 「ケンスケ！！|はよせい、行くぞ」=
-二人を追いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+二人を追いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Follow them?|<ch:0><sp:59>Yes<sp:32>No
 #Kensuke
 「ハーイ、一枚１００円だよ！>>惣流・アスカ・ラングレーの|生写真が１００円！！」=Listen up for the deal of your lives!>>Candid photos of Asuka Langley Soryu! Just 1 dollar each!!
 「ネコもしゃくしも|アスカ、アスカ」=Photos of Asuka... Enough photos for everyone...
@@ -286,7 +286,7 @@
 「みんな、平和なもんや。>>写真にあの性格は|うつらへんもんな」=No one's biting.>>Nobody's interested in photos of someone like her.
 「一枚くださる？」=I'll take one.
 「ハイ、１００円・・・=Of course! That'll be 1...
-うわ！！」='Gulp'
+うわ！！」=*Gulp*
 #Asuka
 「あんたたち、上等なこと|してるじゃない！！」=I knew you two were up to something!!
 #Shinji
@@ -294,7 +294,7 @@
 #Kaji
 「アスカの保護者代理だよ」=I'm subbing in as Asuka's guardian.
 #Shinji
-「ミサトさんは？」=Where's Ms. Misato?
+「ミサトさんは？」=What about Ms. Misato?
 #Kaji
 「作戦主任は|いそがしいらしいよ」=I think she's busy with her strategy officer duties.
 #Hikari
@@ -320,59 +320,59 @@
 #Toji
 「か、加持さん、|ミサトさんとは・・・」=K-Kaji... Ms. Misato's old...
 #Hikari
-「鈴原！！|いいかげんにしなさいよ」=Toji!! Cut it out!
+「鈴原！！|いいかげんにしなさいよ」=Suzuhara!! Cut it out!
 #Toji
 「なんや、イインチョ、そない|引っ張ることないやろ！！>>加持さ～ん・・・」=What are... Class Rep, don't yank so hard!!>>Kaji, I'll...!
-「ハー、終わった、終わった。>>イインチョ、もう帰っても|ええんやろ？」=
+「ハー、終わった、終わった。>>イインチョ、もう帰っても|ええんやろ？」=Phew... Finally finished!>>Class Rep, I can go home now, right?
 #Hikari
-「う、<wt:25>うん・・・<wt:25>す、<wt:25>鈴原、<wt:25>|あ、<wt:25>明日も週番なんだから、>>ちゃんと、早く来なさいよ」=
+「う、<wt:25>うん・・・<wt:25>す、<wt:25>鈴原、<wt:25>|あ、<wt:25>明日も週番なんだから、>>ちゃんと、早く来なさいよ」=Y-<wt:25>Yeah... <wt:25>S-<wt:25>Suzuhara, <wt:25>um, <wt:25>you're  on duty tomorrow too,>>so please be here bright and early.
 #Toji
-「ハイ、ハイ。<sp:8>ほんま、|イインチョと結婚するやつは、>>シリにしかれるんやろな」=
+「ハイ、ハイ。<sp:8>ほんま、|イインチョと結婚するやつは、>>シリにしかれるんやろな」=I here ya, I here ya! Honestly, Class Rep, the guy who marries you,>>he's gonna be totally whipped.
 #Hikari
-「・・・そんなに・・・|うるさいかな・・・」=
+「・・・そんなに・・・|うるさいかな・・・」=... That... That's mean...
 #Toji
-「いや、ええ世話女房に|なるゆう意味や。>>ほな、お先に！！」=
+「いや、ええ世話女房に|なるゆう意味や。>>ほな、お先に！！」=No, I just mean you're going to be a really caring wife.>>Welp, see ya tomorrow!!
 #Hikari
-「あ、鈴原！！」=
-「・・・・・」=
+「あ、鈴原！！」=Ah, Suzuhara!!
+「・・・・・」=.....
 #Toji
-「ハー、終わった、終わった。>>イインチョ、|もうなにもないやろ、帰るで」=
+「ハー、終わった、終わった。>>イインチョ、|もうなにもないやろ、帰るで」=Phew... Finally finished!>>Class Rep, everything's done now, so out of here.
 #Hikari
-「う、<wt:25>うん・・・<wt:25>|あ、<wt:25>す、<wt:25>鈴原」=
+「う、<wt:25>うん・・・<wt:25>|あ、<wt:25>す、<wt:25>鈴原」=O-<wt:25>Okay... <wt:25>Hey, <wt:25>s-<wt:25>Suzuhara...
 #Toji
-「なんや、まだ何か|あるんかいな」=
+「なんや、まだ何か|あるんかいな」=What? Don't tell me there's something else you need me to do.
 #Hikari
-「あ、<wt:25>あのね、<wt:25>|おねえちゃんから>>『世界次没』っていう|映画のチケットを>>もらったんだけど・・・」=
+「あ、<wt:25>あのね、<wt:25>|おねえちゃんから>>『世界次没』っていう|映画のチケットを>>もらったんだけど・・・」=W-<wt:25>Well, <wt:25>my sister gave me these tickets to that new movie,>>"World in Ruin", and I thought that maybe...
 #Asuka
-「ヒカリ～、一緒に帰ろう！！=
-なによ、あんた、まだいるの」=
+「ヒカリ～、一緒に帰ろう！！=Hikari!! Let's walk home together!
+なによ、あんた、まだいるの」=What? Why are you still here?
 #Toji
-「大きなお世話や、|言われんでも、帰るわい」=
+「大きなお世話や、|言われんでも、帰るわい」=What's it to you? I was about to leave anyway.
 #Hikari
-「あっ・・・」=
+「あっ・・・」=Ah...
 #Asuka
-「あれ？|映画のチケットじゃない。=
-うわー『世界次没』|見たかったのよ。>>一緒に行こう」=
+「あれ？|映画のチケットじゃない。=What's that? Are those movie tickets?
+うわー『世界次没』|見たかったのよ。>>一緒に行こう」=Woah! "World in Ruin"! I really wanted to watch that!>>We can go watch it together!
 #Hikari
-「う、<wt:25>うん・・・」=
+「う、<wt:25>うん・・・」=O-<wt:25>Okay...
 #Asuka
-「そうなら、そうと|言ってくれればよかったのに」=
+「そうなら、そうと|言ってくれればよかったのに」=In that case, you should have told me.
 #Hikari
-「でも・・・」=
+「でも・・・」=But...
 #Asuka
-「しっかし、|ヒカリも物好きよね。>>あの熱血バカの|どこがいいの？」=
+「しっかし、|ヒカリも物好きよね。>>あの熱血バカの|どこがいいの？」=You know, you've got weird tastes too.>>What do you see in that hotheaded moron?
 #Hikari
-「・・・やさしいところ」=
+「・・・やさしいところ」=... He's really sweet.
 #Asuka
-「・・・そろそろ帰ろうか」=
+「・・・そろそろ帰ろうか」=I think we should get you home now.
 #Teacher
 「保護者の方ですか？|もう、みんな下校しましたよ」=Are you one of the students guardians? I'm afraid everyone's already gone home.
 #Kaji
-「よう！」=
+「よう！」=Yo!
 #Ritsuko
-「あら、加持くん、|こんなところに何の用？」=
+「あら、加持くん、|こんなところに何の用？」=Hi, Kaji. What are you doing here?
 #Kaji
-「オレも一応、|特殊監査部の一員なんでね」=
+「オレも一応、|特殊監査部の一員なんでね」=I'm a temporary member of the special inspections department, you know.
 #Ritsuko
 「その話は司令を通じて、|話がついてるはずだわ」=
 #Kaji
@@ -390,51 +390,51 @@
 「あんまりいじらないでね、|貴重なサンプルなんだから」=
 #Kaji
 「使徒の残骸だ・・・。<wt:50>|あれ、これは？」=The remains of one of those angels... <wt:50>Oh, what's that?
-　　Ｓ２サンプルを手に入れた！=Obtained S2 Engine!
+　　Ｓ２サンプルを手に入れた！=Obtained S² Sample!
 「使徒の残骸だ・・・」=The remains of one of those angels...
 「時々、赤木博士が|ここへ来て作業してますよ」=Dr. Akagi comes here to work on occasion.
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.
 #Shinji
-「あ、加持さん、|どうしたんですか」=
+「あ、加持さん、|どうしたんですか」=Oh, Kaji, what's going on?
 #Kaji
-「綾波は<sp:8>いないのか？|シンジくんたちは>>学校のプリントを|届けにきたんだろ？>>あがりこんで|何をやってるんだい？」=
+「綾波は<sp:8>いないのか？|シンジくんたちは>>学校のプリントを|届けにきたんだろ？>>あがりこんで|何をやってるんだい？」=Ayanami not home? You two came to give her her handouts from school, right?>>So you entered, and you're doing what exactly?
 #Shinji
-「え、<wt:50>あ、<wt:25>あの、<wt:25>|汚れていたんで・・・」=
+「え、<wt:50>あ、<wt:25>あの、<wt:25>|汚れていたんで・・・」=Er... <wt:50> U-<wt:25>Um... <wt:25>It was dirty, so...
 #Toji
-「よう聞いてくれました。>>こいつ、部屋が汚いんで|かたづけよう言うんです。>>男のすることやナイと|思いまへんか？」=
+「よう聞いてくれました。>>こいつ、部屋が汚いんで|かたづけよう言うんです。>>男のすることやナイと|思いまへんか？」=That's what I asked him.>>This guy tells me the place is dirty, so we should clean it up.>>But that's not a man's work. Don't you agree, Kaji?
 #Shinji
-「でも、ミサトさんに|嫌われるよ、<wt:50>そういうの」=
+「でも、ミサトさんに|嫌われるよ、<wt:50>そういうの」=But Ms. Misato hates guys who say stuff like that.
 #Toji
-「えっ・・・<wt:50>くぅーっ！<wt:25>|かまへん、<wt:25>ワシの信念や！」=
+「えっ・・・<wt:50>くぅーっ！<wt:25>|かまへん、<wt:25>ワシの信念や！」=But... <wt:50>Damn! So be it! <wt:25>It's the principle of the thing!
 #Kaji
-「ハハハハハハ」=
+「ハハハハハハ」=Hahahaha!
 #Rei
-「何？」=
+「何？」=Why?
 #Toji
-「お邪魔しとるで、|あれ、たまっとったプリント」=
+「お邪魔しとるで、|あれ、たまっとったプリント」=We let ourselves in. Those study guides have been piling up.
 #Kaji
-「これが更新された|Ｉ・Ｄカード」=
+「これが更新された|Ｉ・Ｄカード」=Here's your renewed ID Card.
 #Shinji
-「ごめん、勝手にかたづけたよ、|ゴミ以外さわってない」=
-「あ、<wt:50>ありがと」=
-「それじゃ、加持さん」=
+「ごめん、勝手にかたづけたよ、|ゴミ以外さわってない」=Sorry. I tidied up a bit. I didn't touch anything but the trash.
+「あ、<wt:50>ありがと」=Uh... <wt:50>Thank you.
+「それじゃ、加持さん」=Well, we're going to leave now.
 #Toji
-「ほな、さいなら」=
+「ほな、さいなら」=Right, see ya around!
 #Rei
-「ありがとう。>>感しゃの言葉、|・・・はじめての言葉。>>あの人にも言ったことが|なかったのに・・・」=
+「ありがとう。>>感しゃの言葉、|・・・はじめての言葉。>>あの人にも言ったことが|なかったのに・・・」="Thank you.">>Words of gratitude. The very first words.>>Words I had never spoken before, not even to him...
 #Kaji
-「インターフォンが|鳴らないな」=
-「カギは開いてるな・・・|無断で入るか」=
-「さて、用事も<sp:8>すんだし、|どうするかな」=
-「さて、用事も<sp:8>すんだし、|どうするかな」=
+「インターフォンが|鳴らないな」=The interphone doesn't work.
+「カギは開いてるな・・・|無断で入るか」=The door's unlocked... I guess I'll just go in.
+「さて、用事も<sp:8>すんだし、|どうするかな」=Well, that takes care of that. What now?
+「さて、用事も<sp:8>すんだし、|どうするかな」=Well, that takes care of that. What now?
 「加持さ～ん、これどう？」=What do you think of this, Kaji?
 「・・・ああ、|似合ってるんじゃないか」=... Yeah, it really suits you.
 #Misato
-「どう、似合う？」=
+「どう、似合う？」=So? How do I look?
 #Kaji
-「ああ、似合うよ」=
+「ああ、似合うよ」=Absolutely stunning.
 #Misato
-「へへ、じゃあ、|これにしよう」=
+「へへ、じゃあ、|これにしよう」=Hehe, okay, I'll go with this one!
 #Makoto
 「ホント、ズボラな人だな|葛城さんも。>>自分の洗濯ものくらい、|自分で取りに行きゃいいのに」=That Katsuragi is such a slob.>>As much laundry as she has, she should take care of it herself.
 #Ritsuko
@@ -493,43 +493,43 @@
 ビーカーに<sp:16>|魚を入れてもらった！=Put a fish in the Beaker!
 「釣った魚は、にいちゃんに|あげたので最後だよ！」=I'm all out of fish. I gave you my last one, mister!
 #Misato
-「ゴメン、<wt:50>ちょっちお手洗い」=
+「ゴメン、<wt:50>ちょっちお手洗い」=Sorry, <wt:50>I'll be in the ladies' room.
 #Kaji
-「とかいって、逃げるなよ」=
-「こうして３人で飲むのは|何年ぶりかな」=
+「とかいって、逃げるなよ」=You'd better not try to ditch us!
+「こうして３人で飲むのは|何年ぶりかな」=How many years has it been since the three of us went out drinking?
 #Ritsuko
-「ミサト、|なんだかはしゃいでるわね。>>飲み過ぎじゃない？」=
+「ミサト、|なんだかはしゃいでるわね。>>飲み過ぎじゃない？」=I think Misato has had enough.>>She's particularly bubbly tonight.
 #Kaji
-「浮かれる自分を|おさえようとして、>>また飲んでる。<wt:50>|でも、今日は逆かもな」=
+「浮かれる自分を|おさえようとして、>>また飲んでる。<wt:50>|でも、今日は逆かもな」=She drinks more when she's trying to rein herself in.>>Maybe it's the opposite tonight.
 #Ritsuko
-「やっぱり、一緒に|くらしてた人は違うわね。>>言葉の重みが」=
+「やっぱり、一緒に|くらしてた人は違うわね。>>言葉の重みが」=As someone who lived with her, you would certainly know her best.
 #Kaji
-「つきあってたといっても、|ヒールをはく前の話さ。>>俺もガキだったし」=
+「つきあってたといっても、|ヒールをはく前の話さ。>>俺もガキだったし」=We lived together, but that was before she started wearing heels.>>I was just a kid too.
 #Ritsuko
-「そうね。|ミサトがヒールをはくなんて、>>学生時代には|考えられなかったわ。=
-そうだ、<wt:50>|これ、渡しておくわ」=
+「そうね。|ミサトがヒールをはくなんて、>>学生時代には|考えられなかったわ。=Yes, I never would have pictured her like this back in college.
+そうだ、<wt:50>|これ、渡しておくわ」=I almost forgot. <wt:50>I wanted to give you this.
 #Kaji
-「なんだい？<sp:8>これ」=
+「なんだい？<sp:8>これ」=What's it for?
 #Ritsuko
-「今の仕事に役立つものよ」=
-　　汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
+「今の仕事に役立つものよ」=It should help with your work.
+　　汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
 #Misato
-「ひ・み・つのお話？」=
+「ひ・み・つのお話？」=Am I interrupting anything?
 #Kaji
-「おかえり」=
+「おかえり」=Hey, you're back.
 #Ritsuko
-「そろそろ、おいとまするわ」=
-（ミサトのことよろしく）=
+「そろそろ、おいとまするわ」=Well, I have to run.
+（ミサトのことよろしく）=(Good luck, Misato)
 #Misato
-「なんの話してたの？」=
+「なんの話してたの？」=So what were you two talking about?
 #Kaji
-「昔の<sp:8>は・な・し」=
+「昔の<sp:8>は・な・し」=The old days.
 #Misato
-「ふ～ん」=
+「ふ～ん」=Hmm...
 #Kaji
-「そろそろ行くかい？」=
+「そろそろ行くかい？」=Shall I walk you home?
 #Misato
-「そうね・・・。>>今日は、昔に戻れたみたいで|楽しかった・・・」=
+「そうね・・・。>>今日は、昔に戻れたみたいで|楽しかった・・・」=All right... Today was fun.>>I feel like I was teleported back to the past...
 #Kaji
 「１人かい？」=
 #Ritsuko
@@ -587,60 +587,60 @@
 「いえ、<wt:25>いえ、<wt:25>|なんでもないです、<wt:50>アハハハ。>>じゃ、失礼します」=
 #Kaji
 「お、<wt:25>おい・・・」=
-「あれ、一人かい」=
+「あれ、一人かい」=Oh, you here by yourself?
 #Makoto
-「はれ？<sp:8>加持ひゃん、|どうしたんれす？」=
+「はれ？<sp:8>加持ひゃん、|どうしたんれす？」=Huh? Kahjee, whut're you dooin' heer?
 #Kaji
-「だいぶ飲んでるな、|大丈夫か？」=
+「だいぶ飲んでるな、|大丈夫か？」=Somebody's been drinking. Everything all right?
 #Makoto
-「そうだ！！<sp:8>僕は、僕は|加持ひゃんに>>言わなきゃならないことが」=
+「そうだ！！<sp:8>僕は、僕は|加持ひゃんに>>言わなきゃならないことが」=A-Oh-Kay!!>>I've *hic* I've got sumthin' to say to you.
 #Kaji
-「被害を受けないうちに|退散するよ」=
-「あ～、逃げるな、加持さん！>>あなたは葛城一尉を|どう思ってるんすか！！>>彼女は、彼女はなあ|・・・ヒック」=
-「あら、|あなたもＮＥＲＶの方？」=
-「あなたも？」=
-「いえ、ここのＢＡＲには>>よくＮＥＲＶの方も|来ているから・・・。>>明日にでも、|もう一度来てみると<sp:8>いいわよ」=
+「被害を受けないうちに|退散するよ」=I'm going to leave before you say something you'll regret.
+「あ～、逃げるな、加持さん！>>あなたは葛城一尉を|どう思ってるんすか！！>>彼女は、彼女はなあ|・・・ヒック」=Hey! Get back heer, Kahjee!>>Whut do you think abowt Kaptin Kahchuragi?>>I lu *hic* luv *hic*>>.<wt:25>.<wt:25>.<wt:25> *hic*
+「あら、|あなたもＮＥＲＶの方？」=Oh, are you from NERV as well?
+「あなたも？」=You too?
+「いえ、ここのＢＡＲには>>よくＮＥＲＶの方も|来ているから・・・。>>明日にでも、|もう一度来てみると<sp:8>いいわよ」=No. It's just that a lot of NERV employees like to come here.>>I wouldn't mind seeing you here again tomorrow, though.
 「ＮＥＲＶの方が|いらしてる<sp:8>みたいですよ」=
 「なんだか、少し|飲み過ぎちゃったみたい」=
 「大丈夫ですか？|家まで送りますよ」=
 「・・・遠慮しておきます」=
 「・・・・・・」=
 「こんなに飲んだのは、|ひさしぶり」=
-「こんばんは」=
+「こんばんは」=Good evening.
 「いらっしゃいませ」=Welcome!
 #Maya
-「青葉さん、|かっこよかった～」=
+「青葉さん、|かっこよかった～」=Aoba, you looked great up there!
 #Shigeru
-「ひさしぶり<sp:2>だったんで|気持ちよかったス。>>マヤちゃん、送ってくよ」=
+「ひさしぶり<sp:2>だったんで|気持ちよかったス。>>マヤちゃん、送ってくよ」=It's been a while, but I admit it feels great.>>I'll take you home, Maka.
 #Maya
-「ありがとう」=
+「ありがとう」=Thanks.
 #Shigeru
-「それじゃ、失礼します」=
+「それじゃ、失礼します」=Thanks again for coming. See you later.
 #Maya
-「失礼します」=
+「失礼します」=See you tomorrow, Kaji.
 #Toji
-「よっしゃ、ケンスケ、|行くぞ！！」=
+「よっしゃ、ケンスケ、|行くぞ！！」=Alright, let's go, Kensuke!
 #Kensuke
-「ああ」=
-「た、<wt:50>ただいま」=
-「おかえりなさい」=
+「ああ」=Yeah.
+「た、<wt:50>ただいま」=I-<wt:50>I'm home.
+「おかえりなさい」=Welcome back.
 「こんにちは」=Hello.
-「た、<wt:50>ただいま」=
-「おかえりなさい」=
+「た、<wt:50>ただいま」=I-<wt:50>I'm home.
+「おかえりなさい」=Welcome back.
 #Asuka
-「フカヒレ<sp:4>チャーシュー|大盛り」=
+「フカヒレ<sp:4>チャーシュー|大盛り」=Shark fin with roast pork! Make it a large!
 #Rei
-「ニンニク<sp:4>ラーメン|チャーシューぬき」=
+「ニンニク<sp:4>ラーメン|チャーシューぬき」=I'll have the garlic ramen, hold the pork.
 #Misato
-「ネギラーメン」=
+「ネギラーメン」=Onion ramen over here!
 #Shinji
-「のりラーメン」=
+「のりラーメン」=Seaweed ramen for me, please.
 #Kaji
-「チャーシュー大盛り」=
-「よう」=
+「チャーシュー大盛り」=A large pork ramen for me as well.
+「よう」=Hi.
 #Ritsuko
-「あら、加持くん。>>加持くんも<sp:8>よく来るの？|ここ、おいしいものね。>>副司令も、|よく来るらしいわよ」=
-「おいしいわね」=
+「あら、加持くん。>>加持くんも<sp:8>よく来るの？|ここ、おいしいものね。>>副司令も、|よく来るらしいわよ」=Wasn't expecting to run into you here, Kaji.>>Do you come here often? The foods good, isn't it.>>Apparently, the Deputy Commander is no stranger around here either.
+「おいしいわね」=The food's fantastic, don't you think?
 #Fuyutsuki
 「お、<wt:25>君か。<wt:50>|よく来るのかね。>>内緒だが|実は、碇も<sp:8>よく来るんだ。>>以前、ＮＥＲＶ本部で出前を|頼んだんだが>>ついに、碇のもとに|たどりつけなかったらしい。>>それ以来な・・・」=Oh, <wt:25>it's you. <wt:50>You come here often?>>This stays between us, but Ikari frequents this place too.>>In the early days we would ask to have the food delivered to the NERV HQ,>>but the people they sent could never find their way.>>Ever since...
 #Kaji
@@ -652,28 +652,28 @@
 #Fuyutsuki
 「うまいな」=Delicious.
 #Gendo
-「・・・ラーメンライス」=
-「・・・問題ない」=
+「・・・ラーメンライス」=... Ramen and a side of rice.
+「・・・問題ない」=... Is there a problem?
 「へいっ、いらっしゃい！」=Welcome! Welcome!
-「君にまた、頼み事ができた」=
+「君にまた、頼み事ができた」=I have another task for you.
 #Kaji
-「・・・」=
+「・・・」=...
 #Gendo
-「葛城一尉から>>戦自の陽電子砲を接収したい|との申し出があった。>>そこでだ・・・」=
+「葛城一尉から>>戦自の陽電子砲を接収したい|との申し出があった。>>そこでだ・・・」=Captain Katsuragi has drawn up a requisition proposal>>for a defense force positron rifle.>>It's there...
 #Kaji
-「政府に|手をまわすわけですか」=
+「政府に|手をまわすわけですか」=Using your leverage over the government, is that it?
 #Gendo
-「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=
+「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=Yes. As well, I intend to...>>discretely hand over some Eva-related materials.
 #Kaji
-「情報操作したものをですね」=
+「情報操作したものをですね」=Information manipulation?
 #Gendo
-「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=
-　ＤＶＤディスク<sp:8>を手に入れた！=
+「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=Correct. There's no specific aim,>>but it could prove useful.
+　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD Disk!
 #Kaji
-「・・・」=
+「・・・」=...
 #Gendo
-「君のコンピュータの|シークレットアドレスに>>向こうからメールが|届いてるはずだ。>>話は以上だ」=
-「さっそく、|仕事にかかってくれ」=
+「君のコンピュータの|シークレットアドレスに>>向こうからメールが|届いてるはずだ。>>話は以上だ」=You should have received a an email at your secret address.>>You can access it from your computer.>>That's all.
+「さっそく、|仕事にかかってくれ」=I urge to get to the task at hand.
 #Fuyutsuki
 「本当に、|これでいいんだな・・・」=This looks to be a forcing move...
 #Gendo
@@ -698,11 +698,11 @@
 「碇司令の一人負けです」=Commander Ikari lost all on his own.
 「もう、いい加減、|やめたいなあ」=I've had enough. Let's call it quits.
 #Gendo
-「フフフ、この>>『サルでもわかる詰め将棋』|さえあれば・・・」=
+「フフフ、この>>『サルでもわかる詰め将棋』|さえあれば・・・」=Hmhmhm. Even with this copy of "Shogi for Dummies"...
 #Kaji
-（あれは副司令のもの|じゃないのか・・・？）=
+（あれは副司令のもの|じゃないのか・・・？）=(Isn't that the book the Deputy Commander's looking for?)
 #Gendo
-「何の用だ。<sp:8>私は忙しい」=
+「何の用だ。<sp:8>私は忙しい」=What do you need? I'm very busy.
 机の引き出しに<sp:8>カギが|掛かっている=
 机のカギで<sp:6>引き出しを開けた！=Opened drawer with Desk Key!
 #Kaji
@@ -710,21 +710,21 @@
 　　Ｅ３のカギを手に入れた！=Obtained E-3 Key!
 「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this.
 「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
-「・・・ん？<sp:8><wt:25>これは」=
-　初号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　初号機のコア<sp:8>を手に入れた！=Obtained Unit-01 Core!
 「何かの役に立つかな」=
 #Gendo
 「こんな時間に、何の用だ」=What are you doing at this hour?
-電話しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-トゥルルルル・・・・|トゥルルルル・・・・=
-「ハイ、葛城です。ただいま、|留守にしております。>>メッセージをお願いします」=
+電話しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Make a call?|<ch:0><sp:59>Yes<sp:32>No
+トゥルルルル・・・・|トゥルルルル・・・・=*Ring* *Ring*|*Ring* *Ring*
+「ハイ、葛城です。ただいま、|留守にしております。>>メッセージをお願いします」=Hello, I'm not home right now.>>Leave a message after the beep.
 #Kaji
-「葛城、|真実は君とともにある。>>・・・もう一度、|会えることがあったら、>>８年・・・あっ切れた・・・」=
-「・・・フッ、<wt:50>|これでいいのかもな・・・」=
-「よう、遅かったじゃないか」=
-「フウ。>>プロなら死んだかどうか、|確かめたほうがいい。>>おかげで命拾いしたが・・・。>>まだまだいける。=
-原作通りってわけには、|いかないさ！=
-とりあえず、|部屋に戻るか・・・」=
+「葛城、|真実は君とともにある。>>・・・もう一度、|会えることがあったら、>>８年・・・あっ切れた・・・」=Katsuragi, the truth is with you.>>If I see you again, ...>>I'll say... Oh, the call disconnected.
+「・・・フッ、<wt:50>|これでいいのかもな・・・」=Hmph... <wt:50>Maybe it's better this way...
+「よう、遅かったじゃないか」=Hi. What took you so long?
+「フウ。>>プロなら死んだかどうか、|確かめたほうがいい。>>おかげで命拾いしたが・・・。>>まだまだいける。=Ngh...>>A professional would make sure the target was really dead.>>I'm lucky to still be breathing...>>Looks like I've still got some living to do.
+原作通りってわけには、|いかないさ！=It'd be game over for all my plans if they really killed me off!
+とりあえず、|部屋に戻るか・・・」=Why don't I just head back to my room for now?
 「加持さん、赤木博士、|最近元気がないですね」=
 「そう？」=
 「疲れてるのかなあ、|加持さん、声かけてあげたら？>>“研究室”にいると|思いますよ」=
@@ -732,20 +732,20 @@
 #Misato
 「これから、|ラーメンを食べにいくの」=
 #Shinji
-「これから、みんなで>>ラーメンを|食べに行くんですよ。>>それにしても遅いなあ、|アスカたち。>>あ、そうだ！<sp:8>加持さんも|一緒に行きませんか？」=
-シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-「そうですか・・・」=
+「これから、みんなで>>ラーメンを|食べに行くんですよ。>>それにしても遅いなあ、|アスカたち。>>あ、そうだ！<sp:8>加持さんも|一緒に行きませんか？」=We're all supposed to be going out for ramen,>>but Ayanami and Asuka are late.>>Oh, you can come to if you want, Kaji.
+シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:59>Yes <sp:32>No
+「そうですか・・・」=I understand...
 #Misato
-「じゃあね」=
-「シンちゃん、|こんな奴誘うことないわよ」=
+「じゃあね」=We'll see you later then.
+「シンちゃん、|こんな奴誘うことないわよ」=Why are you inviting this jerk, Shinji?
 #Shinji
-「ミサトさん！！」=
+「ミサトさん！！」=Ms. Misato!!
 #Misato
-「なーんてね。>>じゃあ、加持、|アスカたち探してきてよ？>>ここで待ってるから」=
+「なーんてね。>>じゃあ、加持、|アスカたち探してきてよ？>>ここで待ってるから」=Kidding, kidding...>>Kaji, why don't you go look for the girls.>>We'll wait for them here.
 #Shinji
-「遅いな～」=
+「遅いな～」=They're really late.
 #Misato
-「はやく、探してきて」=
+「はやく、探してきて」=Find them and hurry back.
 「じゃあね」=
 「加持さん、今回の|ＮＥＲＶ職員募集のポスター、>>どんなのだか知ってますか？」=
 #Kaji
@@ -804,45 +804,45 @@
 #Asuka
 「これからシンジ達と|プールに行くつもりなんだ。>>よかったら加持さんも来て！|じゃあね！」=I'm going to the pool with the others.>>You come too, okay, Kaji? Later!
 #Kaji
-「ちょっと、食べすぎたな」=
+「ちょっと、食べすぎたな」=I might have eaten a little too much.
 #Asuka
+「加持さ～ん！！」=Kaji!!
+「帰るの？|それなら、一緒に帰ろう」=Going home? We should go together.
+#Kaji
+「いや、これから綾波の家に|届け物だ」=Not quite. I've got a delivery to make at Ayanami's place.
+#Asuka
+「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
+#Kaji
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
+#Asuka
+「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 「加持さ～ん！！」=
-「帰るの？|それなら、一緒に帰ろう」=
+「帰るの？|それなら、一緒に帰ろう」=Going home? We should go together.
 #Kaji
-「いや、これから綾波の家に|届け物だ」=
+「いや、これから綾波の家に|届け物だ」=Not quite. I've got a delivery to make at Ayanami's place.
 #Asuka
-「なによ、それ！>>加持さんまで|ファーストの家に行くの」=
+「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
 #Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
 #Asuka
-「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=
+「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 「加持さ～ん！！」=
-「帰るの？|それなら、一緒に帰ろう」=
+「帰るの？|それなら、一緒に帰ろう」=Going home? We should go together.
 #Kaji
-「いや、これから綾波の家に|届け物だ」=
+「いや、これから綾波の家に|届け物だ」=Not quite. I've got a delivery to make at Ayanami's place.
 #Asuka
-「なによ、それ！>>加持さんまで|ファーストの家に行くの」=
+「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
 #Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
 #Asuka
-「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=
-「加持さ～ん！！」=
-「帰るの？|それなら、一緒に帰ろう」=
+「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 #Kaji
-「いや、これから綾波の家に|届け物だ」=
-#Asuka
-「なによ、それ！>>加持さんまで|ファーストの家に行くの」=
-#Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=
-#Asuka
-「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=
-#Kaji
-「待った？」=
+「待った？」=Were you waiting long?
 #Misato
-「ううん。|じゃあ、行きましょう」=
+「ううん。|じゃあ、行きましょう」=No, not at all. Now let's get going.
 #Kaji
 「ふう、どうするかな？」=Whew... Where to now?
-「ふう。|少し飲み過ぎたかな」=
+「ふう。|少し飲み過ぎたかな」=Whew... I think I drank a little too much.
 「ふう、どうするかな？」=Whew... Where to now?
 「ふう、どうするかな？」=Whew... Where to now?
 「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the cage,>>and just after that she was in the vending area.
@@ -854,8 +854,8 @@
 #Kaji
 「いったい・・・？」=What do you...?
 #Rei
-「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third person...
-「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third person...
+「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third one...
+「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third one...
 「赤木博士から遺伝データの|分析を頼まれているんだ。>>申し訳ないが、|赤木博士のところから>>ＤＶＤディスクをとってきて|くれないかね？」=Dr. Akagi requested that I analyze some genetic data, but,>>and I hate to ask, but do you think you could get the DVD Disk from her for me?
 「よろしく、頼むよ」=I'd really appreciate it.
 「これだよ！<sp:8>ありがとう。>>そうだ！|お礼に、これを<sp:8>あげよう」=That's it! Thanks.>>I should do something for you... Take this!
@@ -913,12 +913,12 @@
 「へ・・・？」=Um...
 「綾波が二人・・・？=Two Ayanamis?
 疲れてるな、オレ」=I must not be getting enough sleep.
-「綾波、みんなが|ラーメン食べに行くと言って>>まってるぞ」=
+「綾波、みんなが|ラーメン食べに行くと言って>>まってるぞ」=Ayanami, everyone's getting ready to go out for ramen.>>They're waiting for you.
 #Rei
-「わたし、行かない」=
+「わたし、行かない」=I'm not going.
 #Asuka
-「あんた、まだ、|こんなとこにいたの！！=
-さあ、行くわよ！>>肉じゃないんだから|つきあいなさいよ」=
+「あんた、まだ、|こんなとこにいたの！！=There you are!
+さあ、行くわよ！>>肉じゃないんだから|つきあいなさいよ」=Alright, let's get going!>>They have vegetarian dishes, so no excuses.
 #Kaji
 「シンジくん、|何をしてるんだい？」=What are you up to Shinji?
 #Shinji
@@ -1043,36 +1043,36 @@
 #Makoto
 「赤木博士の指先には|神が宿ってますね」=God dwells in Dr. Akagi's fingertips.
 #Maya
-「あ～あ、ホント、|あこがれちゃう！！」='Blush' I really admire her!!
+「あ～あ、ホント、|あこがれちゃう！！」=*Blush* I really admire her!!
 「葛城一尉ですか？>>赤木博士と一緒に“実験場”で|ＥＶＡのテストを>>しているはずですけど」=
 #Shigeru
-「ターミナルドグマ周辺に|強力なＡＴフィールド！！」=
+「ターミナルドグマ周辺に|強力なＡＴフィールド！！」=A powerful AT Field has appeared around Terminal Dogma!!
 #Misato
-「使徒なの！！」=
+「使徒なの！！」=An angel!!
 #Ritsuko
-「ＥＶＡ発進を！！」=
+「ＥＶＡ発進を！！」=Launch the Evas!!
 #Misato
-「間に合わないわ！！>>日向くん、使徒が|ターミナルドグマに侵入したら、>>自爆装置を作動！！」=
+「間に合わないわ！！>>日向くん、使徒が|ターミナルドグマに侵入したら、>>自爆装置を作動！！」=They won't make it in time!!>>Hyuga, once the angel invades Terminal Dogma,,>>activate the self-destruct device!!
 #Makoto
-「了解！」=
+「了解！」=Understood!
 #Shigeru
-「使徒！！|ターミナルドグマに・・・>>！？<wt:64>|消失、<wt:64>消失です！！>>ＡＴフィールド、|消失しました！！」=
+「使徒！！|ターミナルドグマに・・・>>！？<wt:64>|消失、<wt:64>消失です！！>>ＡＴフィールド、|消失しました！！」=Terminal Dogma!! The angel...>>!? <wt:64>It's gone!!>>The AT Field vanished!!
 #Misato
-「・・・いったい|どういうことなの？」=
+「・・・いったい|どういうことなの？」=What the hell could have...?
 #Ritsuko
-「・・レ・・イ・・？」=
+「・・レ・・イ・・？」=... Rei...?
 #Misato
-「リツコ・・・何？」=
+「リツコ・・・何？」=What is it, Ritsuko?
 #Ritsuko
-「・・・いえ、|何でもないわ・・・」=
+「・・・いえ、|何でもないわ・・・」=... No, it's nothing...
 #Misato
-「リツコ、あなた・・・」=
+「リツコ、あなた・・・」=Ritsuko, you...
 #Ritsuko
-「・・・」=
+「・・・」=...
 #Shigeru
-「いったい・・・」=
+「いったい・・・」=What in the world...
 #Makoto
-「たすかった・・・」=
+「たすかった・・・」=We're okay...
 #Kaji
 「副司令、|どうなされました？」=Deputy Commander, has something happened?
 #Fuyutsuki
@@ -1083,51 +1083,51 @@
 「そうか・・・当然だろうな。|しかし、どこへやったかなあ。>>もし、見つけたら|教えてくれたまえ」=That's to be expected, I suppose. Nevertheless, I seem to have misplaced it somewhere.>>Let know if you come across it, will you?
 「うーむ、|どこへいったのだ・・・」=Hm... Where could I have placed it?
 #Shigeru
-「マヤちゃん、今日|ライブやるんだけど来ない？>>たしか早番だったよね」=
+「マヤちゃん、今日|ライブやるんだけど来ない？>>たしか早番だったよね」=So, Maya, I've got this gig today, and if I remember correctly,>>you're working an early shift today, so I thought you might want to come.
 #Maya
-「ええ、そうだけど。>>でも、青葉さんて本当に|バンドやってたんですね」=
+「ええ、そうだけど。>>でも、青葉さんて本当に|バンドやってたんですね」=Yeah, I'll go, Aoba.>>But I can't believe you're really going to be playing on stage.
 #Shigeru
-「どういう意味さ、それ。」=
+「どういう意味さ、それ。」=What's that supposed to mean?
 #Maya
-「あ、別に深い意味は|ないですよ。>>ほら、ここの仕事って|いそがしいじゃないですか。>>たまにしか家に帰れないし」=
+「あ、別に深い意味は|ないですよ。>>ほら、ここの仕事って|いそがしいじゃないですか。>>たまにしか家に帰れないし」=Oh, I didn't mean anything like that.>>I just thought you'd be too busy with work.>>We almost never get to go home as it is.
 #Shigeru
-「時間をみつけては|練習してるんだよ。>>学生のときは|ミュージシャンやろうかな>>なんて思ってたけど、|こんな時代だからな・・・」=
+「時間をみつけては|練習してるんだよ。>>学生のときは|ミュージシャンやろうかな>>なんて思ってたけど、|こんな時代だからな・・・」=I practice whenever I can find the time.>>When I was in school, I always thought I'd become a musician one day.>>Those were the days, huh?
 #Maya
-「フーン」=
+「フーン」=*Sigh* Yeah...
 #Shigeru
-「あ、加持さん、|加持さんもどうです？>>見に来てくださいよ、|ライブハウス、レインボウです」=
-シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-「そうですか・・・」=
-「よし、決まり！」=
+「あ、加持さん、|加持さんもどうです？>>見に来てくださいよ、|ライブハウス、レインボウです」=Hey, Kaji, what about you?>>I'd really like you to come too.>>It'll be at Club Rainbow.
+シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:59>Yes <sp:32>No
+「そうですか・・・」=Maybe some other time...
+「よし、決まり！」=Sweet! I'll look for you in the crowd!
 #Maya
-「あ、加持さん。>>青葉さんが、今日|ライブやるんだそうです」=
+「あ、加持さん。>>青葉さんが、今日|ライブやるんだそうです」=Oh, Kaji, it looks like Aoba's going to be playing a gig today.
 #Shigeru
-「加持さんもどうです？|見に来てくださいよ。>>ライブハウス、レインボウです」=
-シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+「加持さんもどうです？|見に来てくださいよ。>>ライブハウス、レインボウです」=Hey, Kaji, what about you?>>I'd really like you to come too.>>It'll be at Club Rainbow.
+シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:59>Yes <sp:32>No
 #Maya
 「どうしようかなぁ・・・」=
 #Ritsuko
-「ＥＶＡの実機訓練中よ」=
+「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Misato
-「ＥＶＡの実機訓練中よ」=
+「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Fuyutsuki
-「ＥＶＡの実機訓練中だ」=
-「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=
+「ＥＶＡの実機訓練中だ」=We're in the middle of some practical Eva training.
+「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=You idiiot, Shinji!!>>
 「なんだよ～！>>アスカの方がぶつかって|きたんじゃないか！！」=
-「・・・恥を<sp:8>かかせおって」=
+「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
 #Misato
-「あちゃ～」=
+「あちゃ～」=Crap!
 #Ritsuko
-「無様ね」=
+「無様ね」=So clumsy...
 #Fuyutsuki
-「・・・恥を<sp:8>かかせおって」=
-「職員募集のポスター？|できあがってますよ。>>えっ、どんなかって？|どんなだと思います？=
-葛城一尉の水着姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-アスカの耐熱用プラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-赤木博士のプラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-「すぐに<sp:8>わかりますから、|楽しみにしてて下さいよ」=
-「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=
-「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=
+「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
+「職員募集のポスター？|できあがってますよ。>>えっ、どんなかって？|どんなだと思います？=The staff recruitment poster? The design's been finalized.>>Huh? Who'd we go with for the model?>>Who do you think?
+葛城一尉の水着姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Captain Katsuragi in a swimsuit?|<ch:0><sp:59>Yes <sp:32>No
+アスカの耐熱用プラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Asuka in her D-Type plugsuit?|<ch:0><sp:59>Yes <sp:32>No
+赤木博士のプラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Dr. Akagi in a plugsuit?|<ch:0><sp:59>Yes <sp:32>No
+「すぐに<sp:8>わかりますから、|楽しみにしてて下さいよ」=You'll know soon enough. Just keep an eye out for it.
+「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
+「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
 「葛城一尉ですか？>>葛城一尉は|ミーティングのため>>“実験場”に行かれました」=Captain Katsuragi?>>She was headed to a meeting at the Test Site.
 #Misato
 「ん？<sp:8>どうかした？」=Hm? Everything all right?
@@ -1300,33 +1300,33 @@
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
 #Asuka
-「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=
-ラッキー！！=
-しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=
+「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=Hey, Kaji! <wt:64>Wait! Are you going too, Kaji!?
+ラッキー！！=Lucky!!
+しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=But what's the First doing?>>She's coming today, even if we have to drag her!!>>Help me look for her.
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 #Ritsuko
-「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=
+「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.
 #Misato
-「・・・アスカは|シンジくんに負けたと>>思っているのよ」=
+「・・・アスカは|シンジくんに負けたと>>思っているのよ」=... She can't stop thinking about losing to Shinji.
 #Kaji
-「アスカに問題発生か？」=
+「アスカに問題発生か？」=There a problem with Asuka?
 #Misato
-「そうなのよ、まいったわ」=
+「そうなのよ、まいったわ」=Yeah. She's totally given up.
 #Ritsuko
-「しばらくは様子を|見るしかないわね」=
+「しばらくは様子を|見るしかないわね」=For the time being, we'll just have to keep an eye on her.
 #Misato
-「・・・わかった」=
+「・・・わかった」=... All right.
 #Kaji
-「アスカと<sp:8>話をしてみるか」=
+「アスカと<sp:8>話をしてみるか」=Maybe I should try having a little talk with her.
 #Misato
-「アスカ？|家に戻ってると思うわよ」=
+「アスカ？|家に戻ってると思うわよ」=Asuka? I'm pretty sure she went home.
 #Ritsuko
-「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=
+「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=Asuka? She doesn't have any more tests scheduled for today,>>so she's probably gone back to Misato's Apartment, if I had to guess.
 「ＥＶＡの実機訓練があるんで、>>みなさん“中央発令所”に|行かれましたよ」=
 #Misato
 「以上で本日のミーティングを|終了します」=We'll conclude our daily meeting there.
 #Asuka
-「ハー、終わった、終わった」='Sigh' It's finally over.
+「ハー、終わった、終わった」=*Sigh* It's finally over.
 #Misato
 「そういえば、今日、芦ノ湖で|花火大会があるんだって。>>見にいかない？」=By the way,>>I heard there's going to be a fireworks display at Ashinoko Lake today.>>Wanna come?
 #Shinji
@@ -1355,8 +1355,8 @@
 　　なぞのシミ<sp:8>を手に入れた！=
 「何かの役に立つかな」=
 「だめだ・・・どうしても|一部しか採取できないな」=
-「・・・ん？<sp:8><wt:25>これは」=
-　弐号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　弐号機のコア<sp:8>を手に入れた！=Obtained Unit-02 Core!
 「何かの役に立つかな」=
 「あっ、加持さん。|お疲れさまです」=Ah, Kaji. Done for the day?
 「あっ、加持さん。|お疲れさまです」=Ah, Kaji. Nice to see you.
@@ -1364,108 +1364,108 @@
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|ジュースを買ってくるって>>出て行っちゃいましたよ」=The Second Children?>>She said something about going to the Lounge to buy some juice.
 #Ritsuko
-「ふう・・」=
+「ふう・・」=*Sigh*
 #Kaji
-「少しやせたかな<ch:6>・・・」=
+「少しやせたかな<ch:6>・・・」=I think you've lost some weight.
 #Ritsuko
-「そう・・・？」=
+「そう・・・？」=Oh?
 #Kaji
-「悲しい恋をしてるからだ」=
+「悲しい恋をしてるからだ」=You're in love, but it will end in tears.
 #Ritsuko
-「どうして|そんなことがわかるの・・・」=
-「それはね、<wt:50>涙の通り道に|ホクロのある人は・・・」=
-「加持くん、後ろ・・・」=
+「どうして|そんなことがわかるの・・・」=Really? And just how do you know that?
+「それはね、<wt:50>涙の通り道に|ホクロのある人は・・・」=Because people with a mole along where tears flow are...
+「加持くん、後ろ・・・」=Kaji. Behind you...
 #Asuka
-「・・・」=
+「・・・」=...
 #Kaji
-「・・・」=
+「・・・」=...
 #Misato
-「あんたなんか、|さっさと<sp:8>ドイツに>>帰っちまえばいいのよ！！」=
+「あんたなんか、|さっさと<sp:8>ドイツに>>帰っちまえばいいのよ！！」=The sooner you go back to Germany, the better!!
 #Kaji
-「・・・」=
+「・・・」=...
 #Ritsuko
-「あ～あ、|知らないわよ・・・」=
+「あ～あ、|知らないわよ・・・」=Hmph. You should have seen that coming.
 #Kaji
-「休憩かい？」=
+「休憩かい？」=Wanna go out for a little coffee?
 #Ritsuko
-「そっちは？<sp:8>仕事はいいの？」=
+「そっちは？<sp:8>仕事はいいの？」=You're not busy? Caught up on your work?
 #Kaji
-「ああ、一休みさ」=
+「ああ、一休みさ」=Yeah. I'm taking a little breather.
 #Ritsuko
-「じゃあ、ひまなんだ」=
+「じゃあ、ひまなんだ」=So you're free then.
 #Kaji
-「あ、それ、|俺を誘ってるの？」=
+「あ、それ、|俺を誘ってるの？」=Oh, is that a proposition I hear?
 #Ritsuko
-「残念でした。|私、また実験なのよ。>>それで、悪いんだけど、>>レイに更新されたＩＤカードを|渡して<sp:8>ほしいのよね。>>たしか、今日なら|家にいるはずよ。>>行ってくれる？」=
-リツコの依頼を受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
+「残念でした。|私、また実験なのよ。>>それで、悪いんだけど、>>レイに更新されたＩＤカードを|渡して<sp:8>ほしいのよね。>>たしか、今日なら|家にいるはずよ。>>行ってくれる？」=I'm afraid not. I've still got more tests to run.>>Sorry, but I also wanted to give Rei her renewed ID Card.>>She should be at home today. Could you go for me?
+リツコの依頼を受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Ritsuko's request?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
-「悪いけど、|俺もこれから忙しくてね」=
+「悪いけど、|俺もこれから忙しくてね」=Sorry, I can't. I can only spare a few minutes.
 #Ritsuko
-「そう、じゃあ、|ミサトにでも頼んでおくわ」=
+「そう、じゃあ、|ミサトにでも頼んでおくわ」=That's fine. I'll see about having Misato take care of it for me.
 #Kaji
-「わかった、届けるよ」=
+「わかった、届けるよ」=No problem. I'll deliver it.
 #Ritsuko
-「そう、ありがと」=
+「そう、ありがと」=Really? Thanks.
 「よろしく<sp:8>お願いね」=Thanks for the help.
-「明日の結婚式なんだけど、|何着ていく？」=
+「明日の結婚式なんだけど、|何着ていく？」=Decided what to wear to the wedding tomorrow?
 #Misato
-「ピンクのスーツはキヨミの|結婚式で着たばっかだし、>>紺のドレスはコトコのときに|着たし」=
+「ピンクのスーツはキヨミの|結婚式で着たばっかだし、>>紺のドレスはコトコのときに|着たし」=Well, I wore my pink suit to Kiyomi's wedding.>>And I just wore that navy blue one to Kotoko's.
 #Ritsuko
-「オレンジのやつは？|あれ<sp:8>なかなか似合うじゃない」=
+「オレンジのやつは？|あれ<sp:8>なかなか似合うじゃない」=What about that orange one? It looks pretty good on you.
 #Misato
-「あれね・・・。|あれは、ちょっち訳アリで」=
+「あれね・・・。|あれは、ちょっち訳アリで」=Oh, that one... There's a slight problem with it.
 #Ritsuko
-「きついの？」=
+「きついの？」=Too tight, huh?
 #Misato
-「・・・・・」=
+「・・・・・」=.....
 #Ritsuko
-「結婚祝いも|こう<sp:4>たてつづけだと>>バカにならないわね」=
+「結婚祝いも|こう<sp:4>たてつづけだと>>バカにならないわね」=With all these nonstop weddings, the gift money is really adding up.
 #Misato
-「チッ、三十路前だからって|どいつもこいつも>>あせりやがって」=
+「チッ、三十路前だからって|どいつもこいつも>>あせりやがって」=Everyone's anxious to get hitched before the big three-oh hits.
 #Ritsuko
-「おたがいに|『最後のひとり』には>>なりたくないわね」=
+「おたがいに|『最後のひとり』には>>なりたくないわね」=Yes, nobody wants to be the last one who's still single.
 #Misato
-「あれ、意外。|リツコにも結婚願望あんの？」=
+「あれ、意外。|リツコにも結婚願望あんの？」=Now, there's a surprise.>>I wouldn't have taken you for the marriage type, Ritsuko.
 #Ritsuko
-「まあね」=
-「加持くんは、出席？」=
+「まあね」=Well...
+「加持くんは、出席？」=Will you be going, Kaji?
 #Kaji
-「いや、でないよ」=
+「いや、でないよ」=Nah. I can't make it.
 #Ritsuko
-「そう。<sp:8>ユウコ、|ガッカリするわね。>>ところで|あなたと<sp:8>ミサトのは>>いつになるのかしら？」=
+「そう。<sp:8>ユウコ、|ガッカリするわね。>>ところで|あなたと<sp:8>ミサトのは>>いつになるのかしら？」=I understand, but Yuko will be disappointed.>>By the way, when are you and Misato planning on tying the knot?
 #Kaji
-「ハハハ」=
+「ハハハ」=Hahaha!
 #Ritsuko
-「あなたたちのは|いつになるのかしら？」=
+「あなたたちのは|いつになるのかしら？」=I wonder when yours will be.
 #Misato
-「明日は<sp:8>でるの？」=
+「明日は<sp:8>でるの？」=You going tomorrow?
 #Kaji
-「いや、ちょっと|でれないな」=
+「いや、ちょっと|でれないな」=No, I'll be tied up all day tomorrow.
 #Misato
-「なによ、|つきあい悪いわね。>>ま、しょうがないか。=
-あっ、今日これから暇？」=
-ミサトに<sp:8>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=
-「あ、そう。<sp:8>じゃあいいわ」=
-「じゃあ、|買い物つきあってよ」=
+「なによ、|つきあい悪いわね。>>ま、しょうがないか。=What? What terrible social etiquette.>>Well, whatever, I guess.
+あっ、今日これから暇？」=Oh, yeah! Are you free now?
+ミサトに<sp:8>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Misato?|<ch:0><sp:59>Yes <sp:32>No
+「あ、そう。<sp:8>じゃあいいわ」=Oh, okay. That's fine.
+「じゃあ、|買い物つきあってよ」=Okay, come on! We're going shopping.
 #Kaji
 「中央病院の先生に|ＤＶＤディスクを>>持ってくるように|頼まれたんだけど」=The doctor in the Clinic asked if I'd come get the DVD Disk from you.
 #Ritsuko
 「ええ、そこのデスクの上に|あるから。<sp:8>頼むわね」=Right. It's on that desk there. Go ahead and take it.
 　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD Disk!
-「ＤＶＤディスクは、ちゃんと|届けてくれた？」=
+「ＤＶＤディスクは、ちゃんと|届けてくれた？」=Were you able to deliver the DVD Disk?
 #Kaji
-「よう、お疲れさん！！」=
+「よう、お疲れさん！！」=Hey, how's it going?
 #Ritsuko
-「あら、ちょうどよかった。>>これからミサトと|飲みに行くんだけど、>>一緒に<sp:8>どう？」=
+「あら、ちょうどよかった。>>これからミサトと|飲みに行くんだけど、>>一緒に<sp:8>どう？」=Oh, great timing!>>I was getting ready to go out for some drinks with Misato.>>Would you care to join us?
 #Kaji
-「ああ、つきあうよ」=
+「ああ、つきあうよ」=It would be my honor.
 #Misato
-「リツコ、行くわよ=
-なに？<sp:8>なんで、|あんたがいるのよ」=
+「リツコ、行くわよ=Let's get going, Ritsuko!
+なに？<sp:8>なんで、|あんたがいるのよ」=What? What are you doing here?
 #Ritsuko
-「加持くんも|さそったのよ。>>いいじゃない、たまには|昔を思い出して」=
+「加持くんも|さそったのよ。>>いいじゃない、たまには|昔を思い出して」=I invited Kaji to come along.>>It'll be nice reminisce about the old days, don't you think?
 #Misato
-「まあ、いいわ。|じゃ、行きましょ」=
+「まあ、いいわ。|じゃ、行きましょ」=Alright, fine.|Well, are we going?
 #Ritsuko
 「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?
 #Kaji
@@ -1509,22 +1509,22 @@
 #Shigeru
 「薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=The medication might not be effective,>>but we must treat it immediately!
 #Makoto
-「加持さん。<wt:50>|葛城一尉からの通信です」=
+「加持さん。<wt:50>|葛城一尉からの通信です」=Kaji, <wt:50>there's a transmission coming in from Captain Katsuragi.
 #Misato
-「仕事中ごめんなさい。>>加持、今日、|シンジくんに会った？」=
+「仕事中ごめんなさい。>>加持、今日、|シンジくんに会った？」=Sorry, Kaji. I know you're busy with work, but have you seen Shinji at all today?
 #Kaji
-「いや、会ってないけど。>>シンジくんに|何かあったのか？」=
+「いや、会ってないけど。>>シンジくんに|何かあったのか？」=No, I haven't.>>Did something happen to him?
 #Misato
-「・・・そう、わかった。>>・・・もし、シンジくんから|連絡があったら教えて。>>中央発令所にいるから」=
+「・・・そう、わかった。>>・・・もし、シンジくんから|連絡があったら教えて。>>中央発令所にいるから」=Okay... Thanks...>>If Shinji calls, let me know, okay?>>He's needed in the Command Center.
 #Kaji
-「お、おい」=
+「お、おい」=H-Hey!
 #Makoto
-「何かあったんでしょうか？」=
+「何かあったんでしょうか？」=Something must have happened.
 #Kaji
-「・・・・・・」=
-「加持さん、碇司令が>>“総司令室”に|来てほしいとのことです」=
-「わかった」=
-「早急に来てほしいとの|ことでした」=
+「・・・・・・」=......
+「加持さん、碇司令が>>“総司令室”に|来てほしいとのことです」=Kaji, Commander Ikari has requested for you to come to his office.
+「わかった」=Understood.
+「早急に来てほしいとの|ことでした」=He wanted you to come immediately.
 #Shigeru
 「加持さん。|碇司令からの<sp:8>伝令の方が>>いらっしゃってますよ」=
 #Maya
@@ -1539,23 +1539,23 @@
 「こんな姿を見ると、|本当にあどけないですよね。>>まだ１４なのに、世界の運命を|せおってるんだもんなあ」=Seeing them like this, they look so innocent.>>They're only 14 but the fate of the entire world>>rests on their shoulders.
 「さあ、<name>の育成を|しましょうか！」=Say, let's see how <name> is growing!
 #Maya
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Maya
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Makoto
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Makoto
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Shigeru
-「加持さん、|セカンドチルドレンから>>通信です」=
+「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
 「加持さん。|・・・あ、ありがとう。>>それがいいたかっただけ、|じゃあ」=
 #Shigeru
-「？<wt:50>？<wt:50>？」=
+「？<wt:50>？<wt:50>？」=?<wt:50>?<wt:50>?
 #Kaji
 「葛城、シンジくんは|見つかったか？」=Katsuragi, did you ever find Shinji?
 #Misato
@@ -1593,20 +1593,20 @@
 #Shigeru
 「加持さん、お帰りなさい」=Welcome back, Kaji.
 「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Hurry back, all right?>>It would be bad news if <name> dies.
-コンピュータを起動した>>コンピュータに|メールが届いている=
-「北東地区の“野原”で待つ|・・・内務省」=
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
+「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>Ministry of Interior
 #Kaji
-「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=
-コンピュータを起動した>>コンピュータに|メールが届いている=
-「北東地区の“野原”で待つ|・・・内務省」=
-「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=
-コンピュータを起動した>>コンピュータに|メールが届いている=
-「“換気口”で待つ」=
-「・・・あんた、バカよ！！>>・・・でも、よかった。|生きていてくれて」=
-コンピュータを起動した>>コンピュータに|メールが届いている=
-「ユウコです。>>私たちの結婚式に|出席か欠席か返事をください。>>待ってます」=
-「あ、そういえば、|ハガキが<sp:8>きてたな。=
-残念だけど、行けないな。|欠席・・・っと」=
+「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
+「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>--Ministry of Interior
+「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
+「“換気口”で待つ」=Rendezvous in Ventilation.
+「・・・あんた、バカよ！！>>・・・でも、よかった。|生きていてくれて」=You're such an idiot!!>>But... I'm glad you're alive.
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
+「ユウコです。>>私たちの結婚式に|出席か欠席か返事をください。>>待ってます」=It's Yuko.>>I need to know if you will be attending the wedding ceremony.>>RSVP absent or attending.
+「あ、そういえば、|ハガキが<sp:8>きてたな。=Oh, that means I must have received an invitation.
+残念だけど、行けないな。|欠席・・・っと」=I'm afraid I can't go. Absent... Send.
 #Ritsuko
 「大丈夫？」=Feeling better?
 #Kaji
@@ -1619,7 +1619,7 @@
 「ミサトが心配してたわよ。>>ミサトには過労って|言ってあるから、<wt:50>それじゃ」=Misato was worried.>>I told her you were just overworked. <wt:50>See you around.
 #Kaji
 「・・・恐ろしい料理だった」=That food really might have killed me though.
-コンピュータを起動した>>コンピュータに|メールが届いている=
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
 「Ｈ・Ｄのカギのコピーを|入手した。>>北東地区の“野原”で待つ|・・・内務省」=
 「あ、加持さん！>>加持さんのＩ・Ｄカードが|再発行されましたよ」=There you are, Kaji!>>Your ID Card has been reissued.
 　Ｉ・Ｄカードを受け取った！=Received ID Card!
@@ -1634,19 +1634,19 @@
 「ふう、<wt:50>よくねた・・・」='Yawn' <wt:50>I slept great.
 「まだ、ねる時間じゃ|ないな」=Probably not time for bed yet.
 #PenPen
-「ぎゅわ？」=
+「ぎゅわ？」=Gwah?
 #Kaji
-「おっ、おい・・・」<wt:40>=
+「おっ、おい・・・」<wt:40>=H-Hey! <wt:40>...
 #PenPen
-「ぎゅわ？」=
-「　<sp:6>！　」=
+「ぎゅわ？」=Gwah?
+「　<sp:6>！　」=<sp:6>!
 #Kaji
-「おっ、おい・・・」<wt:40>=
+「おっ、おい・・・」<wt:40>=H-Hey! <wt:40>...
 #PenPen
-「ぎゅわ？」=
-「　<sp:6>！　」=
+「ぎゅわ？」=Gwah?
+「　<sp:6>！　」=<sp:6>!
 #Kaji
-「・・・・・・？」=
+「・・・・・・？」=......?
 #Asuka
 「なんで兵器に|心なんているのよ・・・」=Why does a weapon even need a heart...?
 #Kaji
@@ -1681,13 +1681,13 @@
 #Kaji
 「ファーストチルドレンが|どこへ行ったか、>>知らないか？」=
 「ファーストチルドレン|ですか？>>中央病院へ|向かったみたいですよ」=
-「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」='Sigh' These fatigues,>>I've really got to send them out for cleaning before long...
+「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」=*Sigh* These fatigues,>>I've really got to send them out for cleaning before long...
 「誰かに洗ってもらえば？」=What if someone else washed them for you?
 「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to>>send their clothes out for cleaning...
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
-「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」='Sigh' We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
+「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=*Sigh* We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics,>>you think you could spare me one?
-複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give them an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「すまない、|いま持ち合わせていないんだ」=
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=
 「仕方ない、|部下に取り寄せさせよう」=
@@ -1695,19 +1695,19 @@
 　活性ビタミンを<sp:6>手に入れた！=Obtained Vitamin!
 「ありがとうございます！>>これで修復作業の|めどが立ちました！」=
 #Rei
-「わたし、何人目かしら・・・」=
-「わたし、何人目かしら・・・」=
-「わたし、何人目かしら・・・」=
-「わたし、何人目かしら・・・」=
+「わたし、何人目かしら・・・」=How many came before me?
+「わたし、何人目かしら・・・」=How many came before me?
+「わたし、何人目かしら・・・」=How many came before me?
+「わたし、何人目かしら・・・」=How many came before me?
 #Kaji
 「あっ！？<sp:8>こんなところから|Ｌ．Ｃ．Ｌが、もれてる。>>何か入れ物があれば・・・」=What!? It's leaking LCL.>>If only I had something to put it in...
 「あっ！？<sp:8>こんなところから|Ｌ．Ｃ．Ｌが、もれてる。>>そうだ、このビーカーで・・・」=What!? It's leaking LCL.>>I know! I can use the Beaker to...
 ビーカーは|Ｌ．Ｃ．Ｌで満たされた！=Filled the Beaker with LCL!
-レイのＬ．Ｃ．Ｌを手に入れた！=Obtained Rei's LCL!
+レイのＬ．Ｃ．Ｌを手に入れた！=Obtained Rei's LCL!#not consistent with bin_input.txt - ＣＬ３のＬＣＬ
 「これだけ、ビーカーに|入れておけば、>>もう、いいだろう」=
 「ん？>>何か、水てきが落ちるような|音がしたぞ？>>どこからだ・・・？」=Hm?>>That sounds like dripping water.>>Where's it coming from?
-「・・・ん？<sp:8><wt:25>これは」=
-　零号機のコア<sp:8>を手に入れた！=
+「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
+　零号機のコア<sp:8>を手に入れた！=Obtained Unit-00 Core!
 「何かの役に立つかな」=
 　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.
 「すごい量のＬ．Ｃ．Ｌだな。|何か入れ物があれば・・・」=Such an abundance of LCL. If I had a container...
@@ -1826,8 +1826,8 @@
 「２１時か。|勤務時間が終わる。>>育成室に<sp:8>戻らなきゃ|いけないな」=2100 hours, huh? That's the end of work hours.>>I need to get back to the Nurture Chamber.
 「２１時か。|勤務時間が終わるな」=2100 hours, huh? That's the end of work hours.
 「そろそろ|日もくれるし、戻るか」=
-キーンコーン|カーンコーン>>「下校時間になりました。>>のこっている|生徒は帰りましょう」=
-「そろそろ帰るか」=
+キーンコーン|カーンコーン>>「下校時間になりました。>>のこっている|生徒は帰りましょう」=*Ding* *Dong*|*Ding* *Dong*>>That's the final bell. Any students that are still here can go home.
+「そろそろ帰るか」=You ready to go home?
 「すいません、お客さん。|店、しめたいんですけど」=
 「そうか、|それじゃ、帰るか」=
 #Maya
@@ -1849,7 +1849,7 @@
 #Shigeru
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
 「ああっ、|薬がありません・・・」=
-　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use a Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「そんな・・・|このままにしておくなんて！」=
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
@@ -1901,7 +1901,7 @@
 「アスカ、頼んだわ！|ここで止めるのよ！！」=I'm counting on you, Asuka! It must be stopped!!
 #Asuka
 「わかってる！|わたしにまかせといて！！=Got it! Leave it to me!!
-弐号機、出撃します！！」=Unit-02, commencing attack!!
+弐号機、出撃します！！」=Unit-02, sortied!!
 #Shigeru
 「弐号機、完全に次黙！！」=
 #Misato
@@ -1950,47 +1950,47 @@
 えっ？」=Come again?
 ＴＯ　ＢＥ|　ＣＯＮＴＩＮＵＥＤ．．．=TO BE|CONTINUED...
 #Shigeru
-「メルキオール、バルタザール|ハッキングされました！！>>カスパーにも侵入を開始！！」=
-「大丈夫、１秒近くも|余裕があるわ！！」=
+「メルキオール、バルタザール|ハッキングされました！！>>カスパーにも侵入を開始！！」=Melchior and Balthasar have been taken over!!>>They're hacking further into Casper!!
+「大丈夫、１秒近くも|余裕があるわ！！」=Don't worry. We have almost a whole second to spare.
 #Ritsuko
-「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=
+「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=Misato, I can't ever remember when your horrid coffee tasted so wonderful.
 「僕は君にあうために|生まれてきたのかもしれない」=Perhaps I was born to one day meet you.
 「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction>>and have the future bestowed upon it.
-「さあ、行こう。>>今日、この日のために|おまえはいたのだ、レイ」=
-「はい」=
+「さあ、行こう。>>今日、この日のために|おまえはいたのだ、レイ」=Let's go.>>This is the day you were born for, Rei.
+「はい」=Yes, sir.
 #PenPen
-「アギャー、アギャー」=
+「アギャー、アギャー」=Gwah, gwawah!
 #Kaji
-「え、一緒に来たいって？|しょうがないなあ・・・」=
+「え、一緒に来たいって？|しょうがないなあ・・・」=What's that? You want to stay with me?>>I guess I don't really have much of a choice...
 「ただいま」=
 #Gendo
-「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=
+「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=You've successfully raised all the angels... Your mission is complete.>>Excellent work.
 #Misato
-「おめでとう」=
+「おめでとう」=Congratulations!
 #Ritsuko
-「おめでとう」=
+「おめでとう」=Congratulations.
 #Shinji
-「加持さん、|おめでとうございます」=
+「加持さん、|おめでとうございます」=Congratulations, Kaji!
 #Asuka
-「さっすが、加持さん」=
+「さっすが、加持さん」=As expected from you, Kaji!
 #Rei
-「おめでとう」=
+「おめでとう」=Congratulations.
 #Hikari
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #Kensuke
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #Toji
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #PenPen
-「アギャー」=
+「アギャー」=Gwawaa!
 #Makoto
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #Shigeru
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #Maya
-「おめでとうございます」=
+「おめでとうございます」=Congratulations!
 #Fuyutsuki
-「おめでとう」=
+「おめでとう」=Congratulations.
 #Ritsuko
 「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>.>>I'll register it in the Photo Album.
 「今回の使徒の|育成データです」=Here's the recorded data from this test.
@@ -2039,35 +2039,35 @@
 「レイのＬ．Ｃ．Ｌを|使います」=Use Rei's LCL.
 複合抗生剤<sp:8>を手に入れた！=Obtained Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Vitamin!
-汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
-エンドメタシン<sp:8>を手に入れた！=
-ＺブロッカーＡ<sp:8>を手に入れた！=
-ＺブロッカーＢ<sp:8>を手に入れた！=
-キープノイドＡ<sp:8>を手に入れた！=
-キープノイドＢ<sp:8>を手に入れた！=
-アップミンＩＱ<sp:8>を手に入れた！=
-アップミンＥＸ<sp:8>を手に入れた！=
-アップミンＡＴ<sp:8>を手に入れた！=
+汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
+エンドメタシン<sp:8>を手に入れた！=Obtained Zorbetacin!
+ＺブロッカーＡ<sp:8>を手に入れた！=Obtained Z-Blocker A!
+ＺブロッカーＢ<sp:8>を手に入れた！=Obtained Z-Blocker B!
+キープノイドＡ<sp:8>を手に入れた！=Obtained Staenoid A!
+キープノイドＢ<sp:8>を手に入れた！=Obtained Staenoid B!
+アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
+アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
+アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
 レンジアップＡ<sp:8>を手に入れた！=
 レンジアップＢ<sp:8>を手に入れた！=
-ベークライト<sp:8>を手に入れた！=
+ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
 化人散<sp:8>を手に入れた！=
 百獣丸<sp:8>を手に入れた！=
 物化湯<sp:8>を手に入れた！=
 複合抗生剤<sp:8>を手に入れた！=Obtained Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Vitamin!
-汚染中和剤<sp:8>を手に入れた！=Obtained Neutralizer!
-エンドメタシン<sp:8>を手に入れた！=
-ＺブロッカーＡ<sp:8>を手に入れた！=
-ＺブロッカーＢ<sp:8>を手に入れた！=
-キープノイドＡ<sp:8>を手に入れた！=
-キープノイドＢ<sp:8>を手に入れた！=
-アップミンＩＱ<sp:8>を手に入れた！=
-アップミンＥＸ<sp:8>を手に入れた！=
-アップミンＡＴ<sp:8>を手に入れた！=
+汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
+エンドメタシン<sp:8>を手に入れた！=Obtained Zorbetacin!
+ＺブロッカーＡ<sp:8>を手に入れた！=Obtained Z-Blocker A!
+ＺブロッカーＢ<sp:8>を手に入れた！=Obtained Z-Blocker B!
+キープノイドＡ<sp:8>を手に入れた！=Obtained Staenoid A!
+キープノイドＢ<sp:8>を手に入れた！=Obtained Staenoid B!
+アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
+アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
+アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
 レンジアップＡ<sp:8>を手に入れた！=
 レンジアップＢ<sp:8>を手に入れた！=
-ベークライト<sp:8>を手に入れた！=
+ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
 化人散<sp:8>を手に入れた！=
 百獣丸<sp:8>を手に入れた！=
 物化湯<sp:8>を手に入れた！=
