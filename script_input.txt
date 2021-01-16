@@ -2003,7 +2003,7 @@
 データを上書きします。=
 前の画面に戻ります。=
 #Asuka
-「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate was <perc>%!!>>Good luck trying to view them all!!
+「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate|was <perc>%!!>>Good luck trying to view them all!!
 「やったわね！|１００％！<sp:8>おめでとう！！」=
 このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:59>Yes <sp:32>No
 #Maya
