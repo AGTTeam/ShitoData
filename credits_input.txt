@@ -1,274 +1,282 @@
-
-
-
-
-
-
-＜ＢＡＮＤＡＩ＞
-
-
-
-
-
-▼ＰＲＯＤＵＣＥＲ
-
-
-
-　　ＴＡＫＥＯ
-　　　　　　　ＩＳＯＧＡＩ
-
-
-
-
-▼ＡＳＳＩＳＴ
-　　　　　　　ＷＯＲＫ
-
-
-
-　　ＮＯＢＵＹＵＫＩ
-　　　　　　　ＴＡＮＡＫＡ
-
-
-
-　　ＹＵＳＵＫＥ
-　　　　　　　ＳＡＳＡＫＩ
-
-
-
-
-▼ＭＡＲＫＥＴＩＮＧ
-
-
-
-　　ＨＩＲＯＳＨＩ
-　　　　　　ＳＨＩＭＡＤＡ
-
-
-
-　　ＴＵＹＯＳＨＩ
-　　　　　　　　　ＳＡＴＯ
-
-
-
-　　ＴＡＫＡＨＩＲＯ
-　　　　　　ＳＡＳＡＮＯＩ
-
-
-
-　　ＮＡＯＭＩ　　ＡＩＫＯ
-
-
-
-
-▼ＳＡＬＥＳ
-
-
-
-　　ＮＡＯＫＩ
-　　　　　　　ＴＯＹＡＭＡ
-
-
-
-　　ＭＡＳＡＨＩＲＯ
-　　　　　　ＮＩＳＨＩＤＡ
-
-
-
-
-
-＜ＧＡＩＮＡＸ＞
-
-
-
-
-▼ＰＲＯＤＵＣＥＲ
-
-
-
-　　ＹＡＳＵＨＩＲＯ
-　　　　　　　ＴＡＫＥＤＡ
-
-
-
-▼ＡＳＳＩＳＴＡＮＴ
-　　　　　ＰＲＯＤＵＣＥＲ
-
-
-
-　　ＹＵＭＩＫＯ
-　　　　　　　　ＯＧＵＲＡ
-
-
-
-▼ＰＲＯＤＵＣＴＩＯＮ
-
-
-
-　　ＴＯＳＨＩＨＩＲＯ
-　　　　　　　　　ＭＯＲＩ
-
-
-
-▼ＡＤＶＩＳＥＲ
-
-
-
-　　ＨＩＲＯＫＩ　ＳＡＴＯ
-
-
-
-
-
-＜ＳＯＦＴ　ＭＡＣＨＩＮＥ＞
-
-
-
-
-
-▼ＤＩＲＥＣＴＩＯＮ
-
-
-
-　　ＭＵＮＥＫＡＺＵ
-　　　ＭＡＴＳＵＹＯＳＨＩ
-
-
-
-　　ＨＡＪＩＭＥ　ＮＡＲＡ
-
-
-
-　　ＮＡＯＫＩ
-　　　　　　ＳＡＳＨＩＤＡ
-
-
-
-▼ＰＲＯＧＲＡＭ
-
-
-
-　　ＭＵＮＥＫＡＺＵ
-　　　ＭＡＴＳＵＹＯＳＨＩ
-
-
-
-
-▼ＴＯＯＬ　ＰＲＯＧＲＡＭ
-
-
-
-　　ＫＡＺＵＹＡ
-　　　　　　　ＹＡＭＡＤＡ
-
-
-
-
-▼ＧＲＡＰＨＩＣ
-
-
-
-　　ＨＡＪＩＭＥ　ＮＡＲＡ
-
-
-
-　　ＴＯＳＨＩＡＫＩ
-　　　　　　　ＯＣＨＩＡＩ
-
-
-
-　　ＫＡＯＲＩ
-　　　　　　　ＷＡＴＡＢＥ
-
-
-
-　　ＮＡＯＫＩ
-　　　　　　　ＭＵＲＡＴＡ
-
-
-
-
-▼ＰＬＡＮＮＩＮＧ
-
-
-
-　　ＮＡＯＫＩ
-　　　　　　ＳＡＳＨＩＤＡ
-
-
-
-　　ＫＯＪＩＲＯ　ＥＮＤＯ
-
-
-
-
-▼ＳＯＵＮＤ
-
-
-
-　　ＮＯＲＩＨＩＫＯ
-　　　　　　ＴＯＧＡＳＨＩ
-
-
-
-
-▼ＤＥＳＩＧＮ
-
-
-
-　　ＹＵＫＩＨＩＳＡ
-　　　　　　　ＦＵＪＩＴＡ
-
-
-
-
-▼ＳＰＥＣＩＡＬ
-　　　　　ＴＨＡＮＫＳ
-
-
-
-　　ＤＯＲＡＧＯＮ
-　　　　　　　ＳＵＺＵＫＩ
-
-
-
-　　ＹＡＳＵＭＩ
-　　　　　ＨＯＲＩＵＣＨＩ
-
-
-
-　　ＳＨＩＮＪＩ
-　　　　　　　ＨＡＲＡＤＡ
-
-
-
-　　ＳＨＵＮ　　　ＳＡＴＯ
-
-
-
-　　ＭＡＣＨＩＫＯ
-　　　　　　　　ＴＵＫＵＩ
-
-
-
-　　ＡＩ・ＳＹＳＴＥＭ
-　　　　　　　　ＴＯＫＹＯ
-
-
-
-▼ＥＮＧＬＩＳＨ
-　　　　ＴＲＡＮＳＬＡＴＩＯＮ
-
-ＡＧＴ　ＴＥＡＭ
-
-ＬＥＡＤ＆ＧＲＡＰＨＩＣＳ
-　　　　　　　ＦＲＯＧＡＴＲ
-
-ＴＲＡＮＳＬＡＴＩＯＮ
-　　　　　　　ＨＡＲＩＢＥＡＵ
-
-ＨＡＣＫＩＮＧ
-　　　　　　　ＩＬＬＩＤＡＮ
-
-ＰＲＯＯＦＲＥＡＤＩＮＧ
-　　　　　　　ＳＯＭＥＯＮＥ
-　　　　　　　ＥＬＳＥ？
+　　
+　　
+　　
+　　
+　　
+　　
+＜BANDAI＞　　
+　　
+　　
+　　
+　　
+　　
+▼ Producer　　
+　　
+　　
+　　
+　　Takeo Isogai　　
+　　
+　　
+　　
+　　
+▼ Assist Work　　
+　　
+　　
+　　
+　　Nobuyuki Tanaka　　
+　　
+　　
+　　
+　　Yusuke Sasaki　　
+　　
+　　
+　　
+　　
+▼ Marketing　　
+　　
+　　
+　　
+　　Hiroshi Shimada　　
+　　
+　　
+　　
+　　Tuyoshi Sato　　
+　　
+　　
+　　
+　　Takahiro Sasanoi　　
+　　
+　　
+　　
+　　Naomi Aiko　　
+　　
+　　
+　　
+　　
+▼ Sales　　
+　　
+　　
+　　
+　　Naoki Toyama　　
+　　
+　　
+　　
+　　Masahiro Nishida　　
+　　
+　　
+　　
+　　
+　　
+　　
+＜GAINAX＞　　
+　　
+　　
+　　
+　　
+▼ Producer　　
+　　
+　　
+　　
+　　Yasuhiro Takeda　　
+　　
+　　
+　　
+　　
+▼ Assistant Producer　　
+　　
+　　
+　　
+　　Yumiko Ogura　　
+　　
+　　
+　　
+　　
+▼ Production　　
+　　
+　　
+　#spacing ends here
+　　Toshihiro Mori　
+　
+　
+　
+　
+▼ Adviser　
+　
+　
+　
+　　Hiroki Sato　
+　
+　
+　
+　
+　
+　
+＜SOFT MACHINE＞　
+　
+　
+　
+　
+　
+▼ Direction　
+　
+　
+　
+　　Munekazu Matsuyoshi　
+　
+　
+　
+　　Hajime Nara　
+　
+　
+　
+　　Naoki Sashida　
+　
+　
+　
+　
+▼ Programming　
+　
+　
+　
+　　Munekazu Matsuyoshi　
+　
+　
+　
+　
+▼ Tool Programming　
+　
+　
+　
+　　Kazuya Yamada　
+　
+　
+　
+　
+▼ Graphic　
+　
+　
+　
+　　Hajime Nara　
+　
+　
+　
+　　Toshiaki Ochiai　
+　
+　
+　
+　　Kaori Watabe　
+　
+　
+　
+　　Naoki Murata　
+　
+　
+　
+　
+▼ Planning　
+　
+　
+　
+　　Naoki Sashida　
+　
+　
+　
+　　Kojiro Endo　
+　
+　
+　
+　
+▼ Sound　
+　
+　
+　
+　　Norihiko Togashi　
+　
+　
+　
+　
+▼ Design　
+　
+　
+　
+　　Yukihisa Fujita　
+　
+　
+　
+　
+▼ Special Thanks　
+　
+　
+　
+　　Doragon Suzuki　
+　
+　
+　
+　　Yasumi Horiuchi　
+　
+　
+　
+　　Shinji Harada　
+　
+　
+　
+　　Shun Sato　
+　
+　
+　
+　　Machiko Tukui　
+　
+　
+　
+　　AI-SYSTEM Tokyo　
+　
+　
+　
+　
+　
+＜AGT TEAM＞　
+　
+　
+　
+　
+　
+▼ Lead, Graphics　
+　
+　
+　
+　　frogatr　
+　
+　
+　
+　
+　
+▼ Translation　
+　
+　
+　
+　　Haribeau　
+　
+
+　
+　
+　
+▼ Hacking　
+　
+　
+　
+　　Illidan　
+　
+　
+　
+　
+　
+▼ Proofreading　
+　
+　
+　
+　　Proof1　
+　
+　
+　
+　　Proof2　
+　
