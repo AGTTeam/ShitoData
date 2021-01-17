@@ -89,7 +89,7 @@
 電解率調節に役立つ薬=Aids regulation of Electrolysis rates
 ベークライト=Bakelite
 使徒を休眠状態にする薬=Puts angel into a dormant state
-化人散=Huresan
+化人散=Huresa
 進化に影響を与える漢方薬=Chinese herbs which affect evolution
 百獣丸=Hajuma
 進化に影響を与える漢方薬=Chinese herbs which affect evolution
@@ -141,14 +141,14 @@
 中間形態=Pupa
 まゆ=Cocoon
 成体=Mature
-使徒のデータを見ることが=
-できます。=
-ＭＡＧＩ画面に戻ります。=
-上書きするデータを=
-選んでください=
-前の画面に戻ります=
+使徒のデータを見ることが=View angel
+できます。=data
+ＭＡＧＩ画面に戻ります。=To MAGI screen
+上書きするデータを=Select location to
+選んでください=save data
+前の画面に戻ります=Go back a screen
 使徒を選んでください=
-前の画面に戻ります=
+前の画面に戻ります=Go back a screen
 !FILE:bank_1d.bin
 ▼サキエル=▼Sachiel
 セカンドインパクトから=
