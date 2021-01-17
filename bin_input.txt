@@ -52,14 +52,14 @@
 ミサトの家=Apt. Misato
 丘の上公園=Park
 第壱中学校=School
-仮設小屋=
+仮設小屋=Cabin
 野原=Field
 レイの団地=Apt. Rei
 ゲート=Gate
 芦ノ湖=Lake
 クリーニング屋=Laundromat
 ＢＡＲ=Bar
-新箱根湯本=
+新箱根湯本=Station
 ラーメン屋台=Ramen Stand
 複合抗生剤=Antibiotic
 病気を回復する薬=Heals maladies
