@@ -151,14 +151,14 @@
 前の画面に戻ります=Go back a screen
 !FILE:bank_1d.bin
 ▼サキエル=▼Sachiel
-セカンドインパクトから=
+セカンドインパクトから=An angel who attacked 15 years after the Second Impact. It self-destructed after its core was destroyed by the bersek Unit-01.
 １５年をへて襲来した=
 使徒。=
 暴走した初号機により、=
 コアを破壊された後、=
 自爆。=
 ▼シャムシエル=▼Shamshel
-サキエル襲来より=
+サキエル襲来より=Appearing three weeks after the attack by Sachiel, it died after its core was destroyed by Unit-01's Progressive Knife. A sample of it was recovered by NERV.
 ３週間をへてあらわれ、=
 初号機のプログレッシブ=
 ナイフによってコアを破=
@@ -166,15 +166,14 @@
 ネルフにサンプルとして=
 回収された。=
 ▼ラミエル=▼Ramiel
-ジオフロント直上から=
-ネルフ本部の直接攻撃を=
+ジオフロント直上から=Attacked the NERV headquarters from directly above the Geofront, but was defeated with a positron rifle through the coordinated attack of Units-00 and 01.
 行うが、零号機、初号機=
 共同の「ヤシマ作戦」=
 によって、ポジトロン=
 スナイパーライフルの=
 直撃をうけ次黙。=
 ▼ガギエル=▼Gaghiel
-旧伊東沖にて、アダム、=
+旧伊東沖にて、アダム、=Attacked the UN fleet transporting Adam and Unit-02 off the coast of the former Ito. Destroyed after two unmanned battleships shot and self-destructed from within the angel.
 弐号機を運搬する国連軍=
 艦隊を襲撃。=
 弐号機により開口したと=
