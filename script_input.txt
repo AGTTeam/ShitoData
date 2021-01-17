@@ -1788,8 +1788,8 @@
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Maya
-「<name>ちゃんですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=<name>, is it? That's a wonderful name!>>Good luck raising him, Kaji!!>>I'll do my best to help out as well.>>Now why don't we see how little <name> is doing?
-「Ｌ．Ｃ．Ｌへの、|<name>ちゃん投入は>>終了しています。>>育成を開始してください」=<name> has been inserted into the LCL.>>Please begin the nurturing process.
+「<name>ちゃんですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=<name>, is it?|That's a wonderful name!>>Good luck raising him, Kaji!!>>I'll do my best to help out as well.>>Now why don't we see how little|<name> is doing?
+「Ｌ．Ｃ．Ｌへの、|<name>ちゃん投入は>>終了しています。>>育成を開始してください」=<name> has been inserted|into the LCL.>>Please begin the nurturing process.
 マコトを選択しました。=Selected Makoto.
 #Ritsuko
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>日向くん、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Makoto.
@@ -1803,9 +1803,9 @@
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Makoto
-「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=<name>, huh? That's a fine name.>>Now why don't we check in on <name>?
+「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=<name>, huh?|That's a fine name.>>Now why don't we check in on|<name>?
 #Shigeru
-「Ｌ．Ｃ．Ｌへの、|<name>投入は>>終了しています。>>育成を開始してください」=<name> has been inserted into the LCL.>>You may begin the nurturing process.
+「Ｌ．Ｃ．Ｌへの、|<name>投入は>>終了しています。>>育成を開始してください」=<name> has been inserted|into the LCL.>>You may begin the nurturing process.
 シゲルを選択しました。=Selected Shigeru.
 #Ritsuko
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>青葉くん、|よろしく頼むわね」=You can ask the technician for any further details.>>Now then, I'll leave it to you, Shigeru.
@@ -1819,7 +1819,7 @@
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Shigeru
-「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=<name>? I like it.>>Let's look and see how <name> is doing.
+「<name>ですか、|いい名前ですね。>>それでは、<name>の|様子を見てみましょう」=<name>? I like it.>>Let's look and see how|<name> is doing.
 #Kaji
 「９時か。|勤務時間が始まる。>>育成室に<sp:8>戻らなきゃ|いけないな」=9 o'clock, huh? Working hours have started.>>I need to get back to the Nurture Chamber.
 「９時か。|勤務時間が始まるな」=9 o'clock, huh? Working hours have started.
