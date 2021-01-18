@@ -43,13 +43,13 @@
 #Shinji
 「ハ、ハイ」=O-Okay.
 #Asuka
-「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=
+「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=Why are you here!? You're here to cheer me up, is that it!?>>Well, you can shove it! All you see is Ms. Misato!
 #Kaji
 「・・・・・」=.....
 #Asuka
-「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=
+「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=Nobody needs me to pilot Unit-02 anymore.>>The amazing Shinji will save the world!>>Nobody needs me now!!>>And I don't need your pity...
 #Kaji
-「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=
+「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=That's enough!! Listen here, Asuka.>>You're not some mirror whose sole purpose is to reflect the expectations of those around you.>>A person's strength isn't something that's born by comparing oneself to others.>>It comes from inside. Nobody will believe in you if you don't believe in yourself!!>>That's it. That's all I wanted to say...
 「ん？|・・・なつかしい写真だな」=Hm? ... Now that's a picture that brings back memories.
 「オレも葛城も|ガキだったな・・・」=Katsuragi and I were just kids back then...
 #Shinji
@@ -273,11 +273,11 @@
 「・・・・・・」=......
 「ごめんなさい。|・・・１人にして下さい」=Excuse me, but I want to be left alone.
 #Toji
-「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=
+「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at the New Hakone Station!>>I bet he's thinking about leaving. It sounds like Ms. Misato was yelling at him.>>Something about he shouldn't be piloting the Eva if his heart isn't in it.>>That guy can't do anything by himself!
 #Kensuke
-「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=
+「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=So he isn't going to be piloting the Eva anymore, huh?
 #Toji
-「ケンスケ！！|はよせい、行くぞ」=
+「ケンスケ！！|はよせい、行くぞ」=Kensuke!! Hurry up! Let's go!
 二人を追いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Follow them?|<ch:0><sp:59>Yes<sp:32>No
 #Kensuke
 「ハーイ、一枚１００円だよ！>>惣流・アスカ・ラングレーの|生写真が１００円！！」=Listen up for the deal of your lives!>>Candid photos of Asuka Langley Soryu! Just 1 dollar each!!
@@ -374,20 +374,20 @@
 #Kaji
 「オレも一応、|特殊監査部の一員なんでね」=I'm a temporary member of the special inspections department, you know.
 #Ritsuko
-「その話は司令を通じて、|話がついてるはずだわ」=
+「その話は司令を通じて、|話がついてるはずだわ」=Everything has already been approved by the Commander.
 #Kaji
-「ま、肩書きを利用した|一般見学だよ、>>気にしないでくれ」=
+「ま、肩書きを利用した|一般見学だよ、>>気にしないでくれ」=I'm just using my title to take a little field trip. That's all.>>There's nothing to fret over.
 #Ritsuko
-「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=
+「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=This is incredibly valuable data.>>I am very much looking forward to seeing the results of the genetic analysis.
 #Kaji
-「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=
+「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, but I hear some pretty strong criticisms of you.
 #Ritsuko
-「まあね。気にしないわ、|そんなことは」=
+「まあね。気にしないわ、|そんなことは」=I know. I'm not concerned with that sort of thing.
 #Kaji
-「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=
+「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=I'm not surprised...>>If you're ever in need of some advice, I'll be there for you, as an old friend.
 #Ritsuko
-「加持くんのほうこそ|何かと大変なんじゃない？>>ま、好意は受け取っとく。|・・・ありがと」=
-「あんまりいじらないでね、|貴重なサンプルなんだから」=
+「加持くんのほうこそ|何かと大変なんじゃない？>>ま、好意は受け取っとく。|・・・ありがと」=I imagine things aren't exactly easy for you either, Kaji.>>Well, thanks for worrying about me anyway.
+「あんまりいじらないでね、|貴重なサンプルなんだから」=Don't mess around with it too much. That's a valuable sample.
 #Kaji
 「使徒の残骸だ・・・。<wt:50>|あれ、これは？」=The remains of one of those angels... <wt:50>Oh, what's that?
 　　Ｓ２サンプルを手に入れた！=Obtained S² Sample!
@@ -567,26 +567,26 @@
 #Kaji
 「フーン」=I see.
 #Maya
-「あ、<wt:25>あの、<wt:50>加持さんて、>>いろいろな女の人と<sp:8>おつきあい|なさってるんですよね？」=A-<wt:25>And you come here to...>>pick up women, right?
+「あ、<wt:25>あの、<wt:50>加持さんて、>>いろいろな女の人と<sp:8>おつきあい|なさってるんですよね？」=U-<wt:25>Um, <wt:50>Kaji,>>you've been with many women, haven't you?
 #Kaji
 「ひどいな、<wt:25>そりゃ噂だよ」=You wound me. <wt:25>That's only a nasty rumor.
 #Maya
-「でも、恋愛とか|おくわしそうですよね」=
+「でも、恋愛とか|おくわしそうですよね」=But you seem to be experienced in matters of love.
 #Kaji
-「まあ、<wt:50>人なみ」=
+「まあ、<wt:50>人なみ」=No more than the average person.
 #Maya
-「あの、<wt:50>あこがれと恋って|ちがいますか？」=
+「あの、<wt:50>あこがれと恋って|ちがいますか？」=And, um, <wt:50>is there a difference between love and admiration?
 #Kaji
-「さあ、<wt:25>それは|君が<sp:8>どう思うかじゃないかな。>>マヤちゃん、<wt:50>君、<wt:25>恋をしてるね」=
+「さあ、<wt:25>それは|君が<sp:8>どう思うかじゃないかな。>>マヤちゃん、<wt:50>君、<wt:25>恋をしてるね」=I wonder... <wt:25>What an interesting thing to think about.>>Maya, <wt:50>you wouldn't be <wt:25>in love, would you?
 #Maya
-「い、<wt:25>いえ、<wt:50>あ、<wt:25>あの、<wt:50>|そ、そうじゃなく、>>いわゆる一般論・・・」=
-「あ、<wt:25>あの、<wt:25>道ならぬ恋って|どう思います？」=
+「い、<wt:25>いえ、<wt:50>あ、<wt:25>あの、<wt:50>|そ、そうじゃなく、>>いわゆる一般論・・・」=N-<wt:25>No, <wt:50>I-<wt:25>I...>>Th-That's not it. Just a random thought...
+「あ、<wt:25>あの、<wt:25>道ならぬ恋って|どう思います？」=And, u-<wt:25>um, <wt:25>what about forbidden love?
 #Kaji
-「へ？<sp:8><wt:50>ひょっとして不倫でも|してるのかい？」=
+「へ？<sp:8><wt:50>ひょっとして不倫でも|してるのかい？」=What? <wt:50>You're not talking about an affair, are you?
 #Maya
-「いえ、<wt:25>いえ、<wt:25>|なんでもないです、<wt:50>アハハハ。>>じゃ、失礼します」=
+「いえ、<wt:25>いえ、<wt:25>|なんでもないです、<wt:50>アハハハ。>>じゃ、失礼します」=No, <wt:25>no, <wt:25>forget I said anything. <wt:50>Ahaha... Um, excuse me.
 #Kaji
-「お、<wt:25>おい・・・」=
+「お、<wt:25>おい・・・」=H-<wt:25>Hey...
 「あれ、一人かい」=Oh, you here by yourself?
 #Makoto
 「はれ？<sp:8>加持ひゃん、|どうしたんれす？」=Huh? Kahjee, whut're you dooin' heer?
@@ -943,15 +943,15 @@
 #Kaji
 「・・・大丈夫かな」=... I'm sure he'll be fine.
 「あ、マヤちゃん」=Hey, Maya.
-「せっかく、ここの|迎撃システムが完成するのに、>>祝賀パーティーの<sp:6>一つも|予定されていないとは>>ＮＥＲＶって|おカタい組織だねぇ」=I can't get over how stuffy this organization is.>>NERV's missile interception systems are completed,>>and there wasn't even the slightest talk of a celebratory party or anything.
+「せっかく、ここの|迎撃システムが完成するのに、>>祝賀パーティーの<sp:6>一つも|予定されていないとは>>ＮＥＲＶって|おカタい組織だねぇ」=This place's interception systems are finally nearly done,>>but nobody's throwing a party to celebrate the occasion?>>NERV sure is a prudish outfit.
 #Maya
-「碇司令が<sp:6>ああですもの」=That's Commander Ikari for you.
+「碇司令が<sp:6>ああですもの」=Because Commander Ikari is.
 #Kaji
-「君はどうなのかな？」=Why don't the two of us do a little celebrating right now?
+「君はどうなのかな？」=And what about you?
 #Maya
-「いいんですか、加持さん。>>葛城さんや<sp:6>赤木センパイに|言っちゃいますよ？」=Would that be okay, Kaji? I'll have to tell Katsuragi and Akagi, you know.
+「いいんですか、加持さん。>>葛城さんや<sp:6>赤木センパイに|言っちゃいますよ？」=Careful, Kaji. I'll tell Misato and Dr. Akagi.
 #Kaji
-「その前に<sp:6>その口を<sp:6>ふさ・・・」=I'll have to give you something to tell them th...
+「その前に<sp:6>その口を<sp:6>ふさ・・・」=Not if I cover your lips with mine first.
 「いっ！？」=Misato! I...
 #Misato
 「あ～ら、うちの若いコに|手を出さないで>>く<wt:20>・だ<wt:20>・さ<wt:20>・る！！」=I'll ask nicely, so remove your hands from that girl>>PL<wt:20>EA<wt:20>SE<wt:20>!!
@@ -1112,8 +1112,8 @@
 「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Fuyutsuki
 「ＥＶＡの実機訓練中だ」=We're in the middle of some practical Eva training.
-「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=You idiiot, Shinji!!>>
-「なんだよ～！>>アスカの方がぶつかって|きたんじゃないか！！」=
+「バカシンジ！！>>あたしの弐号機に|なんてことするのよ！>>突然はりきるから|こんなことになるのよ！！」=You idiiot, Shinji!!>>Look what you did to my Eva!>>You couldn't control yourself, and now this happens!!
+「なんだよ～！>>アスカの方がぶつかって|きたんじゃないか！！」=What are you talking about!?>>You're the one that bumped into me, Asuka!!
 「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
 #Misato
 「あちゃ～」=Crap!
@@ -1157,13 +1157,13 @@
 「仕事は<sp:8>いいのかね？」=Your work is continuing smoothly, I hope.
 #Gendo
 「ムダな時間は<sp:8>ないはずだ」=You shouldn't be wasting time.
-「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=
+「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=The angel wreckage?>>Yeah, Group 1 is making a big stink about it.>>The rest of us in Groups 2, 3, and 4 aren't getting ourselves involved with it.
 #Kaji
-「さめてるなあ」=
-「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=
-「リッちゃん、いや、>>赤木博士は|その残骸のところ？」=
-「ええ、北東地区の|“仮設小屋”です」=
-「兵器開発の方にもっと予算を|さいてほしいよなぁ」=
+「さめてるなあ」=You don't seem too concerned.
+「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=You got that right.>>The form and attack method of all the angels so far have been entirely unique each time, you know?
+「リッちゃん、いや、>>赤木博士は|その残骸のところ？」=And Ritsuko, er, Dr. Akagi, is she at the wreckage?
+「ええ、北東地区の|“仮設小屋”です」=Yeah. They've set up a makeshift Cabin.
+「兵器開発の方にもっと予算を|さいてほしいよなぁ」=I wish they'd spare a little more of the budget for weapons development.#context
 「お疲れ。>>上の連中が、すごい<sp:8>すごいって|騒いでたぜ」=Look who it is.>>You know, the group upstairs was talking non-stop about how amazing you are.
 #Ritsuko
 「そう・・・、でも、|年齢かしらね、>>思考力が落ちてるわ」=Is that so... I'm getting older though.>>I don't think as fast as I used to.
@@ -1180,7 +1180,7 @@
 「さて、後かたづけしないと」=Well, I need to get this cleaned up.
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Ah, Kaji.>>Dr. Akagi is here right now.
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=If Dr. Akagi catches you fiddling with MAGI without her permission,>>she will be furious!
-「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us, but>>I saw the First Children talking to Casper!!>>
+「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us, but>>I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
 「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.
 
@@ -1691,7 +1691,7 @@
 「すまない、|いま持ち合わせていないんだ」=Sorry. I don't have any on me right now.
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=All right. No worries.>>I'll send one of my subordinates out for some.
 「仕方ない、|部下に取り寄せさせよう」=No worries. I'll send one of my subordinates out for some.
-「ありがとうございます！>>いや、これで修復作業の|めどが立ちました！>>お礼といっては<sp:8>なんですが、|これを受け取って下さい」=You're a lifesaver!>>
+「ありがとうございます！>>いや、これで修復作業の|めどが立ちました！>>お礼といっては<sp:8>なんですが、|これを受け取って下さい」=You're a lifesaver!>>This should get our restoration work back on track!>>I don't know how to thank you, but please accept this.
 　活性ビタミンを<sp:6>手に入れた！=Obtained Vitamin!
 「ありがとうございます！>>これで修復作業の|めどが立ちました！」=Thank you!>>This should help to get our reparations back on track!
 #Rei
