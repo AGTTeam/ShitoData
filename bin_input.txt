@@ -89,11 +89,11 @@
 電解率調節に役立つ薬=Aids regulation of Electrolysis rates
 ベークライト=Bakelite
 使徒を休眠状態にする薬=Puts angel into a dormant state
-化人散=Huresa
+化人散=Hugusa
 進化に影響を与える漢方薬=Chinese herbs which affect evolution
-百獣丸=Hajuma
+百獣丸=Magusa
 進化に影響を与える漢方薬=Chinese herbs which affect evolution
-物化湯=Wuhuta
+物化湯=Orgusa
 進化に影響を与える漢方薬=Chinese herbs which affect evolution
 ビーカー=Beaker
 空のビーカー=Empty
