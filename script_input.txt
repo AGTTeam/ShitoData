@@ -1854,7 +1854,7 @@
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
 「・・・・・・あっ！！」=...... Ah!!
-セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you to the title screen.>>Execute save?|<ch:0><sp:59>Yes <sp:32>No
+セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you|to the title screen.>>Execute save?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「ど、どうした！|何が起こったんだ？」=Wh-What's going on!? What happened?
 #Shigeru
