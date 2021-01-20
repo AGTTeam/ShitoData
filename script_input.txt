@@ -845,8 +845,8 @@
 「ふう。|少し飲み過ぎたかな」=Whew... I think I drank a little too much.
 「ふう、どうするかな？」=Whew... Where to now?
 「ふう、どうするかな？」=Whew... Where to now?
-「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the cage,>>and just after that she was in the vending area.
-「？？？|あるくのが<sp:8>はやいのかな？」=??? Maybe she walks fast.
+「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the cage,>>and just after that she was in the Lounge.
+「？？？|あるくのが<sp:8>はやいのかな？」=Hm...|Maybe she just walks fast.
 「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card... <wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.
 「綾波」=Ayanami.
 #Rei
@@ -868,7 +868,7 @@
 「大切に使うんだぞ」=Use it with caution.
 「どうした？|体の調子でも悪くしたかい？」=Is something the matter? Do you feel sick?
 「どうしました？」=Is there something wrong?
-「いや、君みたいに<sp:8>きれいな|看護婦さんが<sp:8>いるなんて、>>全然知らなかったよ。>>よかったら、こんど|一緒に食事でも<sp:8>どう？」=Not at all.>>Only, I didn't know there were any beautiful nurses like you around here.>>What do say you and I go out for dinner sometime?
+「いや、君みたいに<sp:8>きれいな|看護婦さんが<sp:8>いるなんて、>>全然知らなかったよ。>>よかったら、こんど|一緒に食事でも<sp:8>どう？」=Not at all.>>Only, I didn't know we had a beautiful nurse like you here.>>What do say you and I go out for dinner sometime?
 「・・・遠慮しておきます」=... I'll pass.
 「・・・・・・」=......
 「ごめんなさい」=Sorry.
@@ -954,7 +954,7 @@
 「その前に<sp:6>その口を<sp:6>ふさ・・・」=Not if I cover your lips with mine first.
 「いっ！？」=Misato! I...
 #Misato
-「あ～ら、うちの若いコに|手を出さないで>>く<wt:20>・だ<wt:20>・さ<wt:20>・る！！」=I'll ask nicely, so remove your hands from that girl>>PL<wt:20>EA<wt:20>SE<wt:20>!!
+「あ～ら、うちの若いコに|手を出さないで>>く<wt:20>・だ<wt:20>・さ<wt:20>・る！！」=I'll ask nicely.|Now remove your hands from that girl,>>PL<wt:20>EA<wt:20>SE<wt:20>!!
 #Kaji
 「ははっ、<wt:50>はははは・・・」=Hahah, <wt:50>Hahahaha...
 #Misato
@@ -1134,7 +1134,7 @@
 #Maya
 「加持さん、お疲れさまです。>><name>ちゃん、|元気にしてますか？」=This is a welcome visit, Kaji.>>And how is little <name> doing?
 #Makoto
-「あっ、加持さん。>><name>の様子は|どうですか？」=Ah, Kaji. Is <name> still healthy?
+「あっ、加持さん。>><name>の様子は|どうですか？」=Ah, Kaji. Is <name>>>still doing well?
 #Shigeru
 「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is his growth progressing well?
 「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?
@@ -1152,7 +1152,7 @@
 #Kaji
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　　　机のカギを拾った！=Picked up Desk Key!
-「どこかの机のカギみたいだ。|碇司令の・・・か？」=Looks like some kind of desk key. Commander Ikari's maybe?
+「どこかの机のカギみたいだ。|碇司令の・・・か？」=Looks like some kind of Desk Key. Commander Ikari's maybe?
 #Fuyutsuki
 「仕事は<sp:8>いいのかね？」=Your work is continuing smoothly, I hope.
 #Gendo
@@ -1180,7 +1180,7 @@
 「さて、後かたづけしないと」=Well, I need to get this cleaned up.
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Ah, Kaji.>>Dr. Akagi is here right now.
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=If Dr. Akagi catches you fiddling with MAGI without her permission,>>she will be furious!
-「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us, but>>I saw the First Children talking to Casper!!>>Then Casper started glitching out...
+「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us,>>but I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
 「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.
 
@@ -1475,11 +1475,11 @@
 マコトを選択しました。=Selected Makoto.
 シゲルを選択しました。=Selected Shigeru.
 #Maya
-「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's check in on little <name>.
+「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's check in on|little <name>.
 #Makoto
-「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>の様子を|見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's see how <name> is doing.
+「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>の様子を|見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's see how <name>|is doing.
 #Shigeru
-「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>の様子を|見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's see how <name> is holding up.
+「おはようございます。>>今日も１日|よろしく<sp:8>お願いします。>>それでは、<name>の様子を|見てみましょう」=Good morning.>>I look forward to working with you again today.>>Now then, let's see how <name>|is holding up.
 #Maya
 「今日の勤務を終わります。|お疲れ様でした」=That's the end of my shift for the day. See you tomorrow.
 #Makoto
@@ -1677,7 +1677,7 @@
 「それもそうだな」=That's true, I guess.
 #Shinji
 「・・・・・・・」=.......
-「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor, but>>I heard that those blackouts that happen sometimes>>are caused by Dr. Akagi's tests...>>I guess even she isn't immune to failure.
+「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor,>>but I heard that those blackouts that happen sometimes>>are caused by Dr. Akagi's tests...>>I guess even she isn't immune to failure.
 #Kaji
 「ファーストチルドレンが|どこへ行ったか、>>知らないか？」=Any idea where the First Children went?
 「ファーストチルドレン|ですか？>>中央病院へ|向かったみたいですよ」=The First Children?>>It looked like she was headed to the Clinic.
@@ -1691,7 +1691,7 @@
 「すまない、|いま持ち合わせていないんだ」=Sorry. I don't have any on me right now.
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=All right. No worries.>>I'll send one of my subordinates out for some.
 「仕方ない、|部下に取り寄せさせよう」=No worries. I'll send one of my subordinates out for some.
-「ありがとうございます！>>いや、これで修復作業の|めどが立ちました！>>お礼といっては<sp:8>なんですが、|これを受け取って下さい」=You're a lifesaver!>>This should get our restoration work back on track!>>I don't know how to thank you, but please accept this.
+「ありがとうございます！>>いや、これで修復作業の|めどが立ちました！>>お礼といっては<sp:8>なんですが、|これを受け取って下さい」=You're a lifesaver!>>This should get our reparation work back on track!>>I don't know how to thank you, but please accept this.
 　活性ビタミンを<sp:6>手に入れた！=Obtained Vitamin!
 「ありがとうございます！>>これで修復作業の|めどが立ちました！」=Thank you!>>This should help to get our reparations back on track!
 #Rei
@@ -1774,7 +1774,7 @@
 #Kaji
 「なるほど」=I see.
 #Ritsuko
-「それと、あなたに|アシスタントとして>>オペレーターが１人つくわ。>>次の３人から選んでちょうだい」=You will also be assigned a technician to assist you.>>Please select one of these three.
+「それと、あなたに|アシスタントとして>>オペレーターが１人つくわ。>>次の３人から選んでちょうだい」=You will also be assigned a technician to assist you.>>Please select one.
 <ch:0>オペレーターを選択して下さい。<unk1>=<ch:0>Please select a technician.<unk1>#grey
 マヤを選択しました。=Selected Maya.
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask Maya here for any further details.>>Now then, I'll leave it to you, Maya.#left
@@ -1831,26 +1831,26 @@
 「すいません、お客さん。|店、しめたいんですけど」=Excuse me, sir. It's closing time, so...
 「そうか、|それじゃ、帰るか」=I understand. Well, I guess I'll head home.
 #Maya
-「加持さん！！>><name>ちゃんが|危険な状態です！>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
+「加持さん！！>><name>ちゃんが|危険な状態です！>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical|condition!>>Please come to the Nurture Chamber. Quickly!
 #Makoto
-「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
+「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical|condition!>>Please come to the Nurture Chamber. Quickly!
 #Shigeru
-「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical condition!>>Please come to the Nurture Chamber. Quickly!
+「加持さん！！|<name>が危険な状態です。>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical|condition!>>Please come to the Nurture Chamber. Quickly!
 #Maya
-「加持さん！！|<name>ちゃんが>>危険な状態です！」=Kaji!! <name> is in critical condition!
+「加持さん！！|<name>ちゃんが>>危険な状態です！」=Kaji!! <name> is in critical|condition!
 #Makoto
-「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical condition!
+「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical|condition!
 #Shigeru
-「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical condition!
+「加持さん！！|<name>が危険な状態です！」=Kaji!! <name> is in critical|condition!
 #Maya
-「加持さん！！>><name>ちゃんが|危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
+「加持さん！！>><name>ちゃんが|危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
 #Makoto
-「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
+「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
 #Shigeru
-「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical condition!>>The medication might not be effective,>>but we must treat him immediately!
+「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
 「ああっ、|薬がありません・・・」=Oh, no! The medicinal reserves haven't are empty.
 　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
-「そんな・・・|このままにしておくなんて！」=That would mean... You're really going to leave it like this!?
+「そんな・・・|このままにしておくなんて！」=That would mean... You're really going to let it suffer like this!?
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
 「・・・・・・あっ！！」=...... Ah!!
@@ -2048,12 +2048,12 @@
 アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
 アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
 アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
-レンジアップＡ<sp:8>を手に入れた！=
-レンジアップＢ<sp:8>を手に入れた！=
+レンジアップＡ<sp:8>を手に入れた！=Obtained Regulin A!
+レンジアップＢ<sp:8>を手に入れた！=Obtained Regulin B!
 ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
-化人散<sp:8>を手に入れた！=
-百獣丸<sp:8>を手に入れた！=
-物化湯<sp:8>を手に入れた！=
+化人散<sp:8>を手に入れた！=Obtained Hugusa!
+百獣丸<sp:8>を手に入れた！=Obtained Magusa!
+物化湯<sp:8>を手に入れた！=Obtained Orgusa!
 複合抗生剤<sp:8>を手に入れた！=Obtained Antibiotic!
 活性ビタミン<sp:8>を手に入れた！=Obtained Vitamin!
 汚染中和剤<sp:8>を手に入れた！=Obtained Purifier!
@@ -2065,12 +2065,12 @@
 アップミンＩＱ<sp:8>を手に入れた！=Obtained IQ VitamUP!
 アップミンＥＸ<sp:8>を手に入れた！=Obtained EX VitamUP!
 アップミンＡＴ<sp:8>を手に入れた！=Obtained AT VitamUP!
-レンジアップＡ<sp:8>を手に入れた！=
-レンジアップＢ<sp:8>を手に入れた！=
+レンジアップＡ<sp:8>を手に入れた！=Obtained Regulin A!
+レンジアップＢ<sp:8>を手に入れた！=Obtained Regulin B!
 ベークライト<sp:8>を手に入れた！=Obtained Bakelite!
-化人散<sp:8>を手に入れた！=
-百獣丸<sp:8>を手に入れた！=
-物化湯<sp:8>を手に入れた！=
+化人散<sp:8>を手に入れた！=Obtained Hugusa!
+百獣丸<sp:8>を手に入れた！=Obtained Magusa!
+物化湯<sp:8>を手に入れた！=Obtained Orgusa!
 #Maya
 「加持さん！！|<name>ちゃんが<ch:8>・・・<ch:4>」=Kaji!! <name>, he's<ch:8>...<ch:4>
 #Makoto
