@@ -1,18 +1,18 @@
 !FILE:bank_11.bin
 #Kaji
-「シンジくん、|夕食の買い出しかい？」=Shinji. Missing a few ingredients for tonight's dinner?
+「シンジくん、|夕食の買い出しかい？」=Shinji! Missing a few ingredients for tonight's dinner?#start of convenience store
 #Shinji
 「あ、加持さん。=Oh, Kaji.
 今日はちがうんです。|ミサトさんが<sp:8>ビールがない、>>ビールがないって|騒ぐもんだから・・・。>>加持さんからも|言ってやってください」=Not exactly.>>Ms. Misato keeps whining that we're all out of beer, but...>>Could you talk to her for me, Kaji?
 #Kaji
-「わかったよ。<wt:25>|ったく、<wt:25>しょうがないな」=Sure thing. <wt:25> Honestly, Katsuragi...
-「シンジくん、|夕食の買い出しかい？」=Shinji. Doing some last minute grocery shopping?
+「わかったよ。<wt:25>|ったく、<wt:25>しょうがないな」=Sure thing. <wt:25>|Honestly, Katsuragi...
+「シンジくん、|夕食の買い出しかい？」=Shinji! Doing some last minute grocery shopping?
 #Shinji
 「あ、加持さん。>>そうなんですよ、|今日<sp:8>僕が夕食当番なんです」=Oh, Kaji.>>Yeah. It's my turn to make dinner tonight.
 #Kaji
 「おっ、すき焼きかい」=Looks like sukiyaki tonight. Is that it?
 #Shinji
-「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know! Why don't you join us, Kaji?
+「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know!|Why don't you join us, Kaji?
 シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「葛城が<sp:8>怒るからな、|また今度にしておくよ」=I doubt Katsuragi would be too happy to see me.>>How about a rain check?
@@ -20,22 +20,22 @@
 「残念だな。|それじゃ、また今度ですね」=I understand. Next time then, I guess.
 「残念だな。|それじゃ、また今度ですね」=I understand. Next time then, I guess.
 #Kaji
-「そうかい、<wt:25>悪いなあ。<wt:25>|じゃあ、ごちそうになるよ」=Now there's an idea. <wt:25>I'm sure she won't mind.>>It would be my pleasure.
+「そうかい、<wt:25>悪いなあ。<wt:25>|じゃあ、ごちそうになるよ」=Now there's an idea.|<wt:25>I'm sure she won't mind.>>It would be my pleasure.
 #Shinji
 「それじゃ、行きましょう」=Great. Let's get going.
-「よく夕方に、|中学生くらいの男の子が>>買い物に来るんですよ。>>いつも、生活用品とか|調味料などを>>買っていくんですよ。>>あんな年齢なのに、>>一人ぐらしでも|してるんですかねぇ。>>えらいなぁ」=There's this junior high school student who comes here all the time.>>He's always buying daily necessities and basic cooking ingredients.>>Despite his age, you'd think he lived alone.>>He's a remarkable kid, eh?
+「よく夕方に、|中学生くらいの男の子が>>買い物に来るんですよ。>>いつも、生活用品とか|調味料などを>>買っていくんですよ。>>あんな年齢なのに、>>一人ぐらしでも|してるんですかねぇ。>>えらいなぁ」=There's this middle school student who comes here all the time.>>He's always buying daily necessities and basic cooking ingredients.>>Despite his age, you'd think he lived alone.>>He's a remarkable kid, eh?
 #Kaji
 「・・・シンジ君かな」=... Sounds like Shinji.
-「いつも話している|中学生の男の子が>>買い物に来てますよ」=That junior high school boy that I'm always talking about is doing some shopping.#context
+「いつも話している|中学生の男の子が>>買い物に来てますよ」=You know that middle school boy that I'm always talking about?>>He's here doing some shopping right now.#context
 「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's SU<wt:50>PER hot all year round,>>so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
-「おそろいの服着た|女の子と男の子が>>“丘の上公園”の方に行ったよ。>>なんか、訳ありそうな|雰囲気だったよ。>>いいなあ、若い子は。|青春してて」=
-「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>Is there really anything to catch? <wt:50>At Ashinoko Lake?
+「おそろいの服着た|女の子と男の子が>>“丘の上公園”の方に行ったよ。>>なんか、訳ありそうな|雰囲気だったよ。>>いいなあ、若い子は。|青春してて」=There was a boy and girl in matching clothes heading to Hilltop Park.>>They seemed pretty eager to get there too.>>The time of youth...|What I wouldn't give to be young again...
+「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>You believe that!?|<wt:50>Is there really anything to catch down there?
 「夜は、立ちよみをする|お客さんが多くって・・・」=There are a lot of customers who come at night to peruse the magazines.
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Do you mind? I'm reading.
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Could you please not read over my shoulder?
-「・・・ねぇ、早く|帰ろうよぉ」=... Come on, let's go already.
+「・・・ねぇ、早く|帰ろうよぉ」=... Come on, let's go already.#end of convenience store
 #Shinji
-「何すんだよ、|いたいじゃないかぁ！」=What are you doing? That hurts, you know!
+「何すんだよ、|いたいじゃないかぁ！」=What are you doing? That hurts, you know!#start of Misato's apartment
 #Asuka
 「もぉ～、いやっ！|やってらんない」=Screw this! I'm out of here!
 #Kaji
@@ -223,7 +223,7 @@
 「うう、<wt:50>えらい目にあったな」=Ow... <wt:50>That seemed uncalled for.
 「当分、入れてもらえないな」=I probably shouldn't test my luck...
 「こんにちは。>>葛城さんの|お知り合いの方ですか？」=Hello.>>Are you an acquaintance of Ms. Misato?
-「ええ、まあ」=You could say that.
+「ええ、まあ」=You could say that.#end of Misato's apartment
 「戦自の上層部は抑えた」=The defense force's top brass want results.
 「これがディスク。>>金はダミーをとおして|渡るようにしてある」=Money's being passed through dummy companies.>>It's all here on this Disk.
 「了解した。|それと、こちらからの仕事だ。>>マルドゥック機関を洗う。>>こちらからの連絡が入りしだい|動くようにしてくれ」=Understood.>>For the time being, you're to look into the Marduk Institute.>>Be ready to move the moment we contact you.
@@ -847,7 +847,7 @@
 「ふう、どうするかな？」=Whew... Where to now?
 「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the cage,>>and just after that she was in the Lounge.
 「？？？|あるくのが<sp:8>はやいのかな？」=Hm...|Maybe she just walks fast.
-「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card... <wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.
+「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card...|<wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.
 「綾波」=Ayanami.
 #Rei
 「あなたは誰？」=Who are you?
@@ -868,8 +868,8 @@
 「大切に使うんだぞ」=Use it with caution.
 「どうした？|体の調子でも悪くしたかい？」=Is something the matter? Do you feel sick?
 「どうしました？」=Is there something wrong?
-「いや、君みたいに<sp:8>きれいな|看護婦さんが<sp:8>いるなんて、>>全然知らなかったよ。>>よかったら、こんど|一緒に食事でも<sp:8>どう？」=Not at all.>>Only, I didn't know we had a beautiful nurse like you here.>>What do say you and I go out for dinner sometime?
-「・・・遠慮しておきます」=... I'll pass.
+「いや、君みたいに<sp:8>きれいな|看護婦さんが<sp:8>いるなんて、>>全然知らなかったよ。>>よかったら、こんど|一緒に食事でも<sp:8>どう？」=Not at all.>>Only, I didn't know we had a beautiful nurse like you here.>>What do you say you and I go out for dinner sometime?
+「・・・遠慮しておきます」=... <wt:50>I'll pass.
 「・・・・・・」=......
 「ごめんなさい」=Sorry.
 #Asuka
@@ -1134,9 +1134,9 @@
 #Maya
 「加持さん、お疲れさまです。>><name>ちゃん、|元気にしてますか？」=This is a welcome visit, Kaji.>>And how is little <name> doing?
 #Makoto
-「あっ、加持さん。>><name>の様子は|どうですか？」=Ah, Kaji. Is <name>>>still doing well?
+「あっ、加持さん。>><name>の様子は|どうですか？」=Ah, Kaji. Is <name>|still doing well?
 #Shigeru
-「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is his growth progressing well?
+「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is <name>'s|growth progressing well?
 「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?
 #Fuyutsuki
 「空調が止まったな」=The ventilation shut off.
@@ -1293,7 +1293,7 @@
 Ｅフロアを選択しました。=Selected Floor-E.
 「あ、加持さん。|お疲れさまです」=Oh, Kaji. How's it going?
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=Captain Katsuragi and Dr. Akagi were discussing the upcoming wedding.>>I wonder if they're at the age where they're starting to think about settling down.>>Where are they?>>They said they were going to Dr. Akagi's Office.
-「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's a special lock.>>I won't be using Elevator-3 without some kind of key.
+「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator-3 without a key.
 「カギを手に入れる・・・か」=Where might I get my hands on a Key?
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-D     Back
@@ -1632,7 +1632,7 @@
 「まだ、ねるのは|やめておこう」=Let's stay up a little longer.
 「今日は、もう|ねるとするか！」=Let's call it a day!
 「ふう、<wt:50>よくねた・・・」='Yawn' <wt:50>I slept great.
-「まだ、ねる時間じゃ|ないな」=Probably not time for bed yet.
+「まだ、ねる時間じゃ|ないな」=Probably not time for bed just yet.
 #PenPen
 「ぎゅわ？」=Gwah?
 #Kaji
@@ -1683,7 +1683,7 @@
 「ファーストチルドレン|ですか？>>中央病院へ|向かったみたいですよ」=The First Children?>>It looked like she was headed to the Clinic.
 「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」=*Sigh* These fatigues,>>I've really got to send them out for cleaning before long...
 「誰かに洗ってもらえば？」=What if someone else washed them for you?
-「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to>>send their clothes out for cleaning...
+「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.|Even Katsuragi and Dr. Akagi>>could stand to send their clothes out for cleaning...
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=*Sigh* We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics,>>you think you could spare me one?
@@ -1738,14 +1738,14 @@
 「これは・・・・・」=Is that...?
 「とりあえず、ＮＥＲＶは|私が考えているほど>>甘くない・・・、|ということね」=I guess there really is more to NERV than I thought...
 #Kaji
-「まったく、エライ目に|あいましたよ。>>コイツのおかげでね」=You wouldn't believe what I had to go through.>>And all just to get this.#left
+「まったく、エライ目に|あいましたよ。>>コイツのおかげでね」=You wouldn't believe everything I had to go through.>>And all just to get this.
 #Gendo
 「・・・・・」= .....
 #Kaji
 「すでに<sp:8>ここまで|復元されています。>>硬化ベークライトで|固めてありますが生きてます。>>間違いなく」=It's already restored itself this far.>>It's frozen inside dura-bakelite, but it's still alive.>>Without a doubt...
-「人類補完計画の要ですね」=This is the keystone of the Human|Instrumentality Project, isn't it?#left
+「人類補完計画の要ですね」=This is the keystone of the Human|Instrumentality Project, isn't it?
 「ああ。<wt:50>|最初の人間、<wt:50>アダムだよ」=Yes. <wt:50>The first human, <wt:50>Adam.
-「アダム・・・」=Adam...#left
+「アダム・・・」=Adam...
 #Gendo
 「ところで、君には<sp:8>まだ|やってもらいたいことがある」=Now, there's something else I'd like you to do for me.
 #Kaji
@@ -1757,7 +1757,7 @@
 #Gendo
 「そうだ」=Correct.
 #Kaji
-「ハハ、<wt:50>|使徒をつくれと・・・」=Hmph. <wt:50>Creating an angel...
+「ハハ、<wt:50>|使徒をつくれと・・・」=Hmph.|<wt:50>Creating an angel, huh?
 #Gendo
 「・・・」=...
 #Kaji
@@ -1765,8 +1765,8 @@
 #Gendo
 「すでに準備はできている。>>後は赤木くんの指示に|したがってくれ」=Preparations have already been made.>>Akagi will provide you with further instructions.
 #Ritsuko
-「それじゃ、行きましょう。|加持くん」=Shall we go then, Kaji?#left
-「ここが育成室。>>Ｌ．Ｃ．Ｌ水槽を２４時間|監視しているわ。>>ほとんどの機能は|ＭＡＧＩの管制下にあるの」=This is the Nurture Chamber.>>The LCL tanks are monitored here around the clock.>>MAGI oversees most functions.#left
+「それじゃ、行きましょう。|加持くん」=Shall we go then, Kaji?
+「ここが育成室。>>Ｌ．Ｃ．Ｌ水槽を２４時間|監視しているわ。>>ほとんどの機能は|ＭＡＧＩの管制下にあるの」=This is the Nurture Chamber.>>The LCL tanks are monitored here around the clock.>>MAGI oversees most functions.
 #Kaji
 「それじゃ、|オレは何をするんだい？」=So where do I come in?
 #Ritsuko
@@ -1777,19 +1777,19 @@
 「それと、あなたに|アシスタントとして>>オペレーターが１人つくわ。>>次の３人から選んでちょうだい」=You will also be assigned a technician to assist you.>>Please select one.
 <ch:0>オペレーターを選択して下さい。<unk1>=<ch:0>Please select a technician.<unk1>#grey
 マヤを選択しました。=Selected Maya.
-「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask Maya here for any further details.>>Now then, I'll leave it to you, Maya.#left
+「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask Maya here for any further details.>>Now then, I'll leave it to you, Maya.
 #Maya
-「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=I look forward to working with you.>>Shall I explain the method for raising the angel?#left
+「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=I look forward to working with you.>>Shall I explain the method for raising the angel?
 育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Maya
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Maya
-「<name>ちゃんですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=<name>, is it?|That's a wonderful name!>>Good luck raising him, Kaji!!>>I'll do my best to help out as well.>>Now let's see how little|<name> is doing.#left
-「Ｌ．Ｃ．Ｌへの、|<name>ちゃん投入は>>終了しています。>>育成を開始してください」=<name> has been inserted|into the LCL.>>Please begin the nurturing process.#left
+「<name>ちゃんですか。|いい名前ですね！>>加持さん！！|がんばって育てましょうね。>>私も<sp:8>お手伝いします。>>それでは、<name>ちゃんの|様子を見てみましょう」=<name>, is it?|That's a wonderful name!>>Good luck raising him, Kaji!!>>I'll do my best to help out as well.>>Now let's see how little|<name> is doing.
+「Ｌ．Ｃ．Ｌへの、|<name>ちゃん投入は>>終了しています。>>育成を開始してください」=<name> has been inserted|into the LCL.>>Please begin the nurturing process.
 マコトを選択しました。=Selected Makoto.
 #Ritsuko
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>日向くん、|よろしく頼むわね」=You can ask Makoto here for any further details.>>Now then, I'll leave it to you, Makoto.
@@ -1799,7 +1799,7 @@
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Makoto
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Makoto
@@ -1815,7 +1815,7 @@
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Shigeru
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Shigeru
