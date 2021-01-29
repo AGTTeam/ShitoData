@@ -35,27 +35,27 @@
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Could you please not read over my shoulder?
 「・・・ねぇ、早く|帰ろうよぉ」=... Come on, let's go already.#end of convenience store
 #Shinji
-「何すんだよ、|いたいじゃないかぁ！」=What are you doing? That hurts, you know!#start of Misato's apartment
+「何すんだよ、|いたいじゃないかぁ！」=What are you doing?|That hurts, you know!#start of Misato's apartment
 #Asuka
 「もぉ～、いやっ！|やってらんない」=Screw this! I'm out of here!
 #Kaji
-「シンジ君、追いかけろよ。|これも仕事さ」=Go after her, Shinji. That's part of the job.
+「シンジ君、追いかけろよ。|これも仕事さ」=Go after her, Shinji.|That's part of the job.
 #Shinji
 「ハ、ハイ」=O-Okay.
 #Asuka
-「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=Why are you here!? You're here to cheer me up, is that it!?>>Well, you can shove it! All you see is Ms. Misato!
+「何しにきたのよ！！|なぐさめてくれるの？>>いいわよ！！>>加持さんはミサトしか|見てないんでしょ！！」=Why are you here!? You're here to cheer me up, is that it!?>>Well, you can shove it!|All you see is Ms. Misato!
 #Kaji
 「・・・・・」=.....
 #Asuka
 「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=Nobody needs me to pilot Unit-02 anymore.>>The amazing Shinji will save the world!>>Nobody needs me now!!>>And I don't need your pity...
 #Kaji
-「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=That's enough!! Listen here, Asuka.>>You're not some mirror whose sole purpose is to reflect the expectations of those around you.>>A person's strength isn't something that's born by comparing oneself to others.>>It comes from inside. Nobody will believe in you if you don't believe in yourself!!>>That's it. That's all I wanted to say...
-「ん？|・・・なつかしい写真だな」=Hm? ... Now that's a picture that brings back memories.
+「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=That's enough!!|Listen here, Asuka.>>You're not some mirror whose sole purpose is to reflect the expectations of those around you.>>A person's strength isn't something that's born by comparing oneself to others.>>It comes from inside. Nobody will believe in you if you don't believe in yourself!!>>That's it. That's all I wanted to say...
+「ん？|・・・なつかしい写真だな」=Hm? Now that's a picture that brings back memories.
 「オレも葛城も|ガキだったな・・・」=Katsuragi and I were just kids back then...
 #Shinji
 「ただいま」=I'm back!
 #Misato
-「シンちゃん、おかえり。|買ってきてくれた？>>やっぱり|風呂あがりには・・・」=I'm so happy you're home, Shinji. You bought it, right?>>I just got out of the bath, so...
+「シンちゃん、おかえり。|買ってきてくれた？>>やっぱり|風呂あがりには・・・」=I'm so happy you're home, Shinji.|You bought it, right?>>I just got out of the bath, so...
 「ぎゃー！！」=What are you...!?
 #Kaji
 「てれるような間じゃ・・・」=Don't be shy. It's not like I haven't...
@@ -99,7 +99,7 @@
 「シンちゃ～ん、お帰りぃ～。|お腹ペコペコよぉ～」=There you are, Shinji! I'm starving!
 「げっ、なに、この男は！！」=Huh? Why is he here!?
 #Shinji
-「コンビニで会ったんですよ。>>だから、|食事にさそったんですよ」=We ran into each other at the convenience store, and I invited him for dinner.
+「コンビニで会ったんですよ。>>だから、|食事にさそったんですよ」=We ran into each other at the Convenience Store, and I invited him for dinner.
 #Kaji
 「というわけだ、悪いな！」=Sorry for the intrusion.
 #Misato
@@ -111,7 +111,7 @@
 「二人だけで<sp:8>あきちゃったから|ヒカリを連れて来ちゃった」=It was getting boring with just the two of us, so I brought Hikari along with me.
 「なによ！！>>加持さんを<sp:8>よんで、|すき焼きなんて聞いてないわよ！>>ひど～い！！」=How come nobody told me Kaji was coming over for the sukiyaki!?>>That's so rude!!
 #Kaji
-「たまたま、コンビニで|シンジくんと会ったんだよ」=It wasn't planned. I ran into Shinji at the convenience store.
+「たまたま、コンビニで|シンジくんと会ったんだよ」=It wasn't planned. I ran into Shinji at the Convenience Store.
 #Misato
 「ま、いいじゃないの。|洞木さんも食べていってよ」=No harm, no foul. And Hikari is welcome to eat with us.
 #Hikari
@@ -127,7 +127,7 @@
 #Toji
 「なんや、その言いぐさは！」=Who made you the boss!?
 #Kaji
-「まあまあ、鈴原くんたちも|一緒にどうだい。>>たくさんの方が楽しいだろ、|こういうの」=All right, all right. Why don't the two of you join us? The more the merrier, I'd say.
+「まあまあ、鈴原くんたちも|一緒にどうだい。>>たくさんの方が楽しいだろ、|こういうの」=All right. That's enough you two.>>Why don't you boys join us? The more the merrier, I'd say.
 #Toji
 「ほんまでっか！|では遠慮なく」=You really mean it!? How could I refuse?
 #Kensuke
@@ -163,13 +163,13 @@
 あれ、なんで|こんなにいっぱい・・・」=Huh? When did all these people get here?
 #Misato
 「まあ、いいじゃない。=Isn't it great?
-いっただきま～す！！」=Now let's dig in!!
+いっただきま～す！！」=Now, let's dig in!!
 #Asuka
 「あたしの肉とらないでよ、|バカ！」=Get your hands off! That piece is mine, idiot!
 #Toji
 「なんやと、これはワシのや、|ネギ食え、ネギ」=Says who!? It's mine! You can eat the onion!
 #Ritsuko
-「シンジくんの味つけは|関東風ね」=You cooked this the way they do in the Kanto, right?
+「シンジくんの味つけは|関東風ね」=You cooked this the way they do in Kanto, right?
 #Shinji
 「はい」=Yes.
 #Misato
@@ -190,7 +190,7 @@
 「帰れ、帰れ」=You can show yourself out.
 #Shinji
 「あ、加持さん。>>やっぱりベートーベンの|第九は名曲ですよね。>>よかったら加持さんも|聞いてください。>>これ、プレゼントしますよ」=Hey, Kaji.>>Beethoven's 9th really is a masterpiece.>>You can have this if you want to listen to it.>>Go ahead. Take it.
-　　第九のＤＡＴを手にいれた！=Obtained Cassette Tape!
+　　第九のＤＡＴを手にいれた！=Obtained Cassette!
 「やっぱりベートーベンの|第九は名曲ですよね」=Beethoven's 9th really is a masterpiece, don't you agree?
 #PenPen
 「くわっ！|くわわあぁーっ！」=Kwa! Kwawaaa!
@@ -200,7 +200,7 @@
 ペンペンに魚をあげた。=Gave the fish to Pen Pen.
 #PenPen
 「クワッ、クワッ」=Kwa! Kwa!
-　　ペンペンの羽を手に入れた！=Obtained Pen Pen's Feather!
+　　ペンペンの羽を手に入れた！=Obtained Feather!
 「クワッ、クワッ」=Kwa! Kwa!
 #Toji
 「なんで、イインチョが|ここにおるんや」=So what's the Class Rep doing here?
