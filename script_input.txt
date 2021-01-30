@@ -29,7 +29,7 @@
 「いつも話している|中学生の男の子が>>買い物に来てますよ」=You know that middle school boy that I'm always talking about?>>He's here doing some shopping right now.#context
 「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's SU<wt:50>PER hot all year round,>>so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
 「おそろいの服着た|女の子と男の子が>>“丘の上公園”の方に行ったよ。>>なんか、訳ありそうな|雰囲気だったよ。>>いいなあ、若い子は。|青春してて」=There was a boy and girl in matching clothes heading to Hilltop Park.>>They seemed pretty eager to get there too.>>The time of youth...|What I wouldn't give to be young again...
-「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>You believe that!?|<wt:50>Is there really anything to catch down there?
+「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>You believe that!?<wt:50> Is there really anything to catch down there?
 「夜は、立ちよみをする|お客さんが多くって・・・」=There are a lot of customers who come at night to peruse the magazines.
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Do you mind? I'm reading.
 「・・・。<sp:8>立ちよみの|ジャマしないで下さいよ」=... Could you please not read over my shoulder?
