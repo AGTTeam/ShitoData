@@ -1,3 +1,6 @@
+!FILE:bank_01.bin
+bank_01_01=dcb4,e040,2
+
 !FILE:bank_07.bin
 bank_07_01=70f0,89c0,1,1
 
