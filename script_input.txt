@@ -224,7 +224,7 @@
 「当分、入れてもらえないな」=I probably shouldn't test my luck...
 「こんにちは。>>葛城さんの|お知り合いの方ですか？」=Hello.>>Are you an acquaintance of Ms. Misato?
 「ええ、まあ」=You could say that.#end of Misato's apartment
-「戦自の上層部は抑えた」=The defense force's top brass want results.
+「戦自の上層部は抑えた」=The defense force's top brass want results.#start of field
 「これがディスク。>>金はダミーをとおして|渡るようにしてある」=Money's being passed through dummy companies.>>It's all here on this Disk.
 「了解した。|それと、こちらからの仕事だ。>>マルドゥック機関を洗う。>>こちらからの連絡が入りしだい|動くようにしてくれ」=Understood.>>For the time being, you're to look into the Marduk Institute.>>Be ready to move the moment we contact you.
 「わかった」=Okay.
@@ -242,16 +242,16 @@
 #Kensuke
 「相田ケンスケです」=The name's Kensuke Aida.
 #Kaji
-「おれは加持リョウジ、|よろしく。>>しかし、すごいな。>>いつも<sp:2>こんなこと|してるのかい？」=I'm Ryoji Kaji. Nice to meet you.>>Color me impressed, though. This isn't your first time, I assume.
+「おれは加持リョウジ、|よろしく。>>しかし、すごいな。>>いつも<sp:2>こんなこと|してるのかい？」=I'm Ryoji Kaji.|Nice to meet you.>>Color me impressed, though. This isn't your first time, I assume.
 #Kensuke
 「はい、趣味ですから」=No. It's a hobby of mine.
 「第一小隊、突撃！！」=First Platoon, charge!!
 「これがブツだ。|後はあんたの活躍しだいだ。>>頼んだぞ」=Here's what you wanted. The rest will depend on you.>>Don't fail us now.
 　Ｈ・Ｄのカギを手に入れた！=Obtained HD Key!
 「後は<sp:8>あんたの活躍しだいだ。|頼んだぞ」=The rest will depend on you.>>Don't fail us now.
-「時々、ここで|サバイバルゲームをしている>>子供がいるよ。>>そこに張ってあるテントは|その子のモノだよ」=There's a kid who comes here sometimes to play some sort of "Survival Game".>>He's the one who put that tent up over there.
+「時々、ここで|サバイバルゲームをしている>>子供がいるよ。>>そこに張ってあるテントは|その子のモノだよ」=There's a kid who comes here sometimes to play some sort of "Survival Game".>>He's the one who put that tent up over there.#end of field
 #Shinji
-「・・・あの」=Um...
+「・・・あの」=Um...#start of park
 #Asuka
 「わかってるわ・・・。<wt:50>|やるわ、<wt:25>わたし！>>ミサトを|あっと言わせてやるのよ。=I know... <wt:50> I'll do it!>>I'll make Misato swallow her words.
 さあ、<wt:50>戻って練習よ！！！」=You coming? <wt:50>We've got training to do!!
@@ -262,18 +262,18 @@
 #Shinji
 「ミサトさん・・・」=Ms. Misato...
 #Misato
-「話はそれだけ、<wt:50>じゃね」=That's enough stories for today. <wt:50>See you later.
+「話はそれだけ、<wt:50>じゃね」=That's enough stories for today. <wt:50>I'll see you later.
 #Shinji
 「僕がＥＶＡに乗るのは|何故なんだろう・・・。>>父の呪縛から逃れる・・・」=Is that why I pilot an Eva?>>To free myself from my father's hold over me?
-「そう、<wt:50>逃げちゃだめなんだ」=Right. Don't run away.
+「そう、<wt:50>逃げちゃだめなんだ」=Right. <wt:50>Don't run away.
 「ここって|見はらしが<sp:4>いいから>>落ち込んでるときに|よく来るんです」=The view here is so nice.>>I often come here when I'm feeling depressed.
 #Kaji
 「俺で<sp:4>よかったら|話相手になりましょうか？」=Well, this must be your lucky day.>>I know just the thing to cheer you up.
 「・・・遠慮しておきます」=Buzz off, creep!
 「・・・・・・」=......
-「ごめんなさい。|・・・１人にして下さい」=Excuse me, but I want to be left alone.
+「ごめんなさい。|・・・１人にして下さい」=Excuse me, but I want to be left alone.#end of park
 #Toji
-「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at the New Hakone Station!>>I bet he's thinking about leaving. It sounds like Ms. Misato was yelling at him.>>Something about he shouldn't be piloting the Eva if his heart isn't in it.>>That guy can't do anything by himself!
+「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at New Hakone Station!>>I bet he's thinking about leaving. It sounds like Ms. Misato was yelling at him.>>Something about he shouldn't be piloting an Eva if his heart isn't in it.>>That guy can't do anything by himself!#start of school
 #Kensuke
 「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=So he isn't going to be piloting the Eva anymore, huh?
 #Toji
@@ -298,13 +298,13 @@
 #Kaji
 「作戦主任は|いそがしいらしいよ」=I think she's busy with her strategy officer duties.
 #Hikari
-「碇くん、碇くん。>>この人が<sp:8>アスカが<sp:8>よく噂してる|加持さん？」=Shinji, Shinji.>>Is this the Kaji that Asuka's always talking about?
+「碇くん、碇くん。>>この人が<sp:8>アスカが<sp:8>よく噂してる|加持さん？」=Ikari, Ikari.>>Is this the Kaji that Asuka's always talking about?
 #Toji
 「ゲーッ！！ちゅうことは|ミサトさんの昔の・・・」=Wait! That would mean he's Ms. Misato's...
 #Shinji
 「うん、ＮＥＲＶで|はたらいている>>加持リョウジさん」=Yeah, this is Ryoji Kaji. He works at NERV too.
 #Kaji
-「よろしく。|アスカのやつ、>>悪い噂を流してるんじゃ|ないだろうね？」=Nice to meet you. Now, these things Asuka always saying...>>She's not slandering my good name, is she?
+「よろしく。|アスカのやつ、>>悪い噂を流してるんじゃ|ないだろうね？」=Nice to meet you. Now, these things Asuka's always saying...>>She's not slandering my good name, is she?
 #Hikari
 「ちがいますよ。>>もう、最高だ、最高だって|うるさい<sp:2>くらいですよ」=Not at all.>>It's more like she won't shut up about how perfect and amazing you are.
 #Toji
@@ -336,9 +336,9 @@
 「あ、鈴原！！」=Ah, Suzuhara!!
 「・・・・・」=.....
 #Toji
-「ハー、終わった、終わった。>>イインチョ、|もうなにもないやろ、帰るで」=Phew... Finally finished!>>Class Rep, everything's done now, so out of here.
+「ハー、終わった、終わった。>>イインチョ、|もうなにもないやろ、帰るで」=Phew... Finally finished!>>Class Rep, everything's done now, so I'm out of here.
 #Hikari
-「う、<wt:25>うん・・・<wt:25>|あ、<wt:25>す、<wt:25>鈴原」=O-<wt:25>Okay... <wt:25>Hey, <wt:25>s-<wt:25>Suzuhara...
+「う、<wt:25>うん・・・<wt:25>|あ、<wt:25>す、<wt:25>鈴原」=O-<wt:25>Okay... <wt:25>Hey, <wt:25>S-<wt:25>Suzuhara...
 #Toji
 「なんや、まだ何か|あるんかいな」=What? Don't tell me there's something else you need me to do.
 #Hikari
@@ -366,7 +366,7 @@
 #Asuka
 「・・・そろそろ帰ろうか」=I think we should get you home now.
 #Teacher
-「保護者の方ですか？|もう、みんな下校しましたよ」=Are you one of the students guardians? I'm afraid everyone's already gone home.
+「保護者の方ですか？|もう、みんな下校しましたよ」=Are you one of the students' guardians?>>I'm afraid everyone's already gone home.#end of school
 #Kaji
 「よう！」=Yo!
 #Ritsuko
