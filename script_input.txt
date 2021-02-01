@@ -368,7 +368,7 @@
 #Teacher
 「保護者の方ですか？|もう、みんな下校しましたよ」=Are you one of the students' guardians?>>I'm afraid everyone's already gone home.#end of school
 #Kaji
-「よう！」=Yo!
+「よう！」=Yo!#start of cabin
 #Ritsuko
 「あら、加持くん、|こんなところに何の用？」=Hi, Kaji. What are you doing here?
 #Kaji
@@ -380,11 +380,11 @@
 #Ritsuko
 「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=This is incredibly valuable data.>>I am very much looking forward to seeing the results of the genetic analysis.
 #Kaji
-「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, but I hear some pretty strong criticisms of you.
+「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation,>>but I've been hearing some harsh words about you around the water cooler.
 #Ritsuko
 「まあね。気にしないわ、|そんなことは」=I know. I'm not concerned with that sort of thing.
 #Kaji
-「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=I'm not surprised...>>If you're ever in need of some advice, I'll be there for you, as an old friend.
+「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=I'm not surprised...>>If you're ever in need of some advice, I'll be there for you...>>As an old friend.
 #Ritsuko
 「加持くんのほうこそ|何かと大変なんじゃない？>>ま、好意は受け取っとく。|・・・ありがと」=I imagine things aren't exactly easy for you either, Kaji.>>Well, thanks for worrying about me anyway.
 「あんまりいじらないでね、|貴重なサンプルなんだから」=Don't mess around with it too much. That's a valuable sample.
@@ -393,15 +393,15 @@
 　　Ｓ２サンプルを手に入れた！=Obtained S² Sample!
 「使徒の残骸だ・・・」=The remains of one of those angels...
 「時々、赤木博士が|ここへ来て作業してますよ」=Dr. Akagi comes here to work on occasion.
-「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.
+「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.#end of cabin
 #Shinji
-「あ、加持さん、|どうしたんですか」=Oh, Kaji, what's going on?
+「あ、加持さん、|どうしたんですか」=Oh, Kaji, what's going on?#start of Rei's apartment
 #Kaji
-「綾波は<sp:8>いないのか？|シンジくんたちは>>学校のプリントを|届けにきたんだろ？>>あがりこんで|何をやってるんだい？」=Ayanami not home? You two came to give her her handouts from school, right?>>So you entered, and you're doing what exactly?
+「綾波は<sp:8>いないのか？|シンジくんたちは>>学校のプリントを|届けにきたんだろ？>>あがりこんで|何をやってるんだい？」=Ayanami not home?>>You two came to give her her handouts from school, right?>>So you entered uninvited, and you're doing what exactly?
 #Shinji
-「え、<wt:50>あ、<wt:25>あの、<wt:25>|汚れていたんで・・・」=Er... <wt:50> U-<wt:25>Um... <wt:25>It was dirty, so...
+「え、<wt:50>あ、<wt:25>あの、<wt:25>|汚れていたんで・・・」=Er... <wt:50>U-<wt:25>Um... <wt:25>It was dirty, so...
 #Toji
-「よう聞いてくれました。>>こいつ、部屋が汚いんで|かたづけよう言うんです。>>男のすることやナイと|思いまへんか？」=That's what I asked him.>>This guy tells me the place is dirty, so we should clean it up.>>But that's not a man's work. Don't you agree, Kaji?
+「よう聞いてくれました。>>こいつ、部屋が汚いんで|かたづけよう言うんです。>>男のすることやナイと|思いまへんか？」=That's what I asked him.>>This guy tells me the place is dirty and that we should clean it up.>>But that's not a man's work. You agree, don't you, Kaji?
 #Shinji
 「でも、ミサトさんに|嫌われるよ、<wt:50>そういうの」=But Ms. Misato hates guys who say stuff like that.
 #Toji
@@ -426,27 +426,27 @@
 「インターフォンが|鳴らないな」=The interphone doesn't work.
 「カギは開いてるな・・・|無断で入るか」=The door's unlocked... I guess I'll just go in.
 「さて、用事も<sp:8>すんだし、|どうするかな」=Well, that takes care of that. What now?
-「さて、用事も<sp:8>すんだし、|どうするかな」=Well, that takes care of that. What now?
-「加持さ～ん、これどう？」=What do you think of this, Kaji?
+「さて、用事も<sp:8>すんだし、|どうするかな」=Well, that takes care of that. What now?#end of Rei's apartment
+「加持さ～ん、これどう？」=What do you think of this, Kaji?#start of clothing store
 「・・・ああ、|似合ってるんじゃないか」=... Yeah, it really suits you.
 #Misato
 「どう、似合う？」=So? How do I look?
 #Kaji
 「ああ、似合うよ」=Absolutely stunning.
 #Misato
-「へへ、じゃあ、|これにしよう」=Hehe, okay, I'll go with this one!
+「へへ、じゃあ、|これにしよう」=Hehe, okay, I'll go with this one!#end of clothing store
 #Makoto
-「ホント、ズボラな人だな|葛城さんも。>>自分の洗濯ものくらい、|自分で取りに行きゃいいのに」=That Katsuragi is such a slob.>>As much laundry as she has, she should take care of it herself.
+「ホント、ズボラな人だな|葛城さんも。>>自分の洗濯ものくらい、|自分で取りに行きゃいいのに」=That Katsuragi is such a slob.>>As much laundry as she has, she should take care of it herself.#start of laundromat
 #Ritsuko
 「これじゃ、|毎回のクリーニング代も>>バカにならないわよね」=From now on, I'm not letting my laundry pile up so much.#context
 #Maya
-「せめて、自分で|お洗濯できる時間くらい>>ほしいですね」=I'd at least like to have enough time to do my own laundry.#context
+「せめて、自分で|お洗濯できる時間くらい>>ほしいですね」=Maybe then I'd even have enough time to do my own.#context
 #Fuyutsuki
-「こういう時に|ひとりが身にしみるな・・・」=These are the moments that I feel the most alone...
+「こういう時に|ひとりが身にしみるな・・・」=These are the moments that I feel the most alone...#end of laundromat
 #Misato
-「ここ、あな場なのよ。|ねっ、誰もいないでしょう」=This is a nice, secluded spot.>>We'll probably have it all to ourselves.
+「ここ、あな場なのよ。|ねっ、誰もいないでしょう」=This is a nice, secluded spot.>>We'll probably have it all to ourselves.#start of lake
 #Kaji
-「ほんと、これなら落ち着いて|花火が見られるなぁ」=Agreed. We should be able to relax>>and watch the fireworks in peace.
+「ほんと、これなら落ち着いて|花火が見られるなぁ」=Agreed. We should be able to relax and watch the fireworks in peace.
 #Shinji
 「アスカは浴衣とか|着ないの？」=You're not going to wear a yukata, Asuka?
 #Asuka
@@ -454,7 +454,7 @@
 #Shinji
 「ミサトさんは？」=What about you, Ms. Misato?
 #Misato
-「あたしもね、<wt:50>ちょっち|ああいうのはね・・・」=What she said... <wt:50>It's the same for me, I think...
+「あたしもね、<wt:50>ちょっち|ああいうのはね・・・」=What she said... <wt:50>It's the same for me... I think.
 #Kaji
 「一人じゃ、着れないもんな」=Don't know how to put one on on your own?
 #Misato
@@ -481,7 +481,7 @@
 #Kaji
 「あ、<wt:25>ああ。<wt:50>|綾波が浴衣を着てた」=Y-<wt:25>Yeah. <wt:50>Ayanami was wearing a yukata.
 #Asuka
-「何よ<sp:8>それ」=What's that supposed to mean?
+「何よ<sp:8>それ」=Are you trying to tell us something?
 #Misato
 「ま、いいじゃない。<wt:50>|ほら、また上がった」=Let's forget about that. <wt:50>Look! It's not over yet!
 「芦ノ湖のこの場所は、よく|魚が<sp:8>釣れるんだよ」=This is the best fishing spot on Ashinoko Lake.
@@ -491,9 +491,9 @@
 「何か入れ物になる物を|もってきな」=I understand, mister.>>Well, if you find something to put it in...
 「おっ、<wt:25>にいちゃん！<wt:25>|魚もってくかい？」=Hey, mister! <wt:25> You came for a fish, right?
 ビーカーに<sp:16>|魚を入れてもらった！=Put a fish in the Beaker!
-「釣った魚は、にいちゃんに|あげたので最後だよ！」=I'm all out of fish. I gave you my last one, mister!
+「釣った魚は、にいちゃんに|あげたので最後だよ！」=I'm all out of fish. I gave you my last one, mister!#end of lake
 #Misato
-「ゴメン、<wt:50>ちょっちお手洗い」=Sorry, <wt:50>I'll be in the ladies' room.
+「ゴメン、<wt:50>ちょっちお手洗い」=Sorry, <wt:50>I'll be in the ladies' room.#start of bar
 #Kaji
 「とかいって、逃げるなよ」=You'd better not try to ditch us!
 「こうして３人で飲むのは|何年ぶりかな」=How many years has it been since the three of us went out drinking?
@@ -607,9 +607,9 @@
 「・・・・・・」=......
 「こんなに飲んだのは、|ひさしぶり」=I haven't drank that much in a long time.
 「こんばんは」=Good evening.
-「いらっしゃいませ」=Welcome!
+「いらっしゃいませ」=Welcome!#end of bar
 #Maya
-「青葉さん、|かっこよかった～」=Aoba, you looked great up there!
+「青葉さん、|かっこよかった～」=Aoba, you looked great up there!#start of concert
 #Shigeru
 「ひさしぶり<sp:2>だったんで|気持ちよかったス。>>マヤちゃん、送ってくよ」=It's been a while, but I admit it feels great.>>I'll take you home, Maka.
 #Maya
@@ -617,18 +617,18 @@
 #Shigeru
 「それじゃ、失礼します」=Thanks again for coming. See you later.
 #Maya
-「失礼します」=See you tomorrow, Kaji.
+「失礼します」=See you tomorrow, Kaji.#end of concert
 #Toji
-「よっしゃ、ケンスケ、|行くぞ！！」=Alright, let's go, Kensuke!
+「よっしゃ、ケンスケ、|行くぞ！！」=Alright, let's go, Kensuke!#start of train station
 #Kensuke
 「ああ」=Yeah.
 「た、<wt:50>ただいま」=I-<wt:50>I'm home.
 「おかえりなさい」=Welcome back.
 「こんにちは」=Hello.
 「た、<wt:50>ただいま」=I-<wt:50>I'm home.
-「おかえりなさい」=Welcome back.
+「おかえりなさい」=Welcome back.#end of train station
 #Asuka
-「フカヒレ<sp:4>チャーシュー|大盛り」=Shark fin with roast pork! Make it a large!
+「フカヒレ<sp:4>チャーシュー|大盛り」=Shark fin with roast pork! Make it a large!#start of ramen stand
 #Rei
 「ニンニク<sp:4>ラーメン|チャーシューぬき」=I'll have the garlic ramen, hold the pork.
 #Misato
@@ -654,7 +654,7 @@
 #Gendo
 「・・・ラーメンライス」=... Ramen and a side of rice.
 「・・・問題ない」=... Is there a problem?
-「へいっ、いらっしゃい！」=Welcome! Welcome!
+「へいっ、いらっしゃい！」=Welcome! Welcome!#end of ramen stand
 「君にまた、頼み事ができた」=I have another task for you.
 #Kaji
 「・・・」=...
@@ -663,7 +663,7 @@
 #Kaji
 「政府に|手をまわすわけですか」=Using your leverage over the government, is that it?
 #Gendo
-「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=Yes. As well, I intend to...>>discretely hand over some Eva-related materials.
+「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=Yes. As well, I intend to...>>discreetly hand over some Eva-related materials.
 #Kaji
 「情報操作したものをですね」=Information manipulation?
 #Gendo
