@@ -741,13 +741,13 @@
 #Shinji
 「ミサトさん！！」=Ms. Misato!!
 #Misato
-「なーんてね。>>じゃあ、加持、|アスカたち探してきてよ？>>ここで待ってるから」=Kidding, kidding...>>Kaji, why don't you go look for the girls.>>We'll wait for them here.
+「なーんてね。>>じゃあ、加持、|アスカたち探してきてよ？>>ここで待ってるから」=Kidding, kidding...>>Kaji, why don't you go look for the girls?>>We'll wait for them here.
 #Shinji
 「遅いな～」=They're really late.
 #Misato
 「はやく、探してきて」=Find them and hurry back.
 「じゃあね」=Later.
-「加持さん、今回の|ＮＥＲＶ職員募集のポスター、>>どんなのだか知ってますか？」=Kaji, do you know who wound up being used for the staff recruitment poster?
+「加持さん、今回の|ＮＥＲＶ職員募集のポスター、>>どんなのだか知ってますか？」=Kaji, do you know who they ended up using for the staff recruitment poster?
 #Kaji
 「いや、知らない。|たしか・・・去年は>>マヤちゃんが|モデルをやったんだよね」=No idea. Although...>>Maya was the model they went with last year, wasn't she?
 「今年のポスターも|出来上がってるらしいですよ。>>“中央発令所”に行けば、>>詳しいことが|わかると思いますけど」=Well, I heard that this year's poster is ready for printing.>>I bet you could get a peek at it if you went to the Command Center.
@@ -782,7 +782,7 @@
 「シンジくん、|誰も君に強要はしない。>>自分で考え、自分で決めろ。|ま、後悔のないようにな。=Nobody can force you, Shinji.>>Think for yourself, and decide for yourself.>>No regrets.
 それじゃ、俺はこれで・・」=Well, ciao!
 #Ritsuko
-「加持くん、>>話を聞いたからには|逃がさないわよ。>>私もさそわれてるのよ」=Kaji>>You're not getting off that easy.>>If I have to go, so do you.
+「加持くん、>>話を聞いたからには|逃がさないわよ。>>私もさそわれてるのよ」=You're not getting off the hook that easy, Kaji>>If I have to go, so do you.
 #Kaji
 「へ？」=Huh?
 #Ritsuko
@@ -791,7 +791,7 @@
 「許してくれ、|葛城の手料理だけは～」=Come on! This is Katsuragi's home cooking we're talking about...
 「なんか、仕事でイヤなこと|とかあると、>>“ＢＡＲ”に、飲みに|行ってる人って>>けっこう多いみたいですね。>>私も今夜あたり|行ってみようかなぁ」=I feel like there are a lot of people>>who go bar hopping when things are rough at work.>>Maybe I should make the rounds tonight.
 「いらっしゃいませ」=Welcome!
-「ふう。<sp:8>疲れたので、|少し休憩しています。>>えっ？<sp:8>少しじゃなくて|ずっといる<sp:4>じゃないかって？>>いやだなあ。|少しですよ、少し」=Phew. I'm beat, so I'm gonna take a short break.>>Huh? What do you mean, I'm always on break?>>That's not true. I swear this is my first one today.#end of cafeteria
+「ふう。<sp:8>疲れたので、|少し休憩しています。>>えっ？<sp:8>少しじゃなくて|ずっといる<sp:4>じゃないかって？>>いやだなあ。|少しですよ、少し」=Phew. I'm beat. I think I might take a quick nap.>>Huh? What do you mean, I'm always taking naps?>>That's not true. I swear this is my first one today.#end of cafeteria
 #Asuka
 「あっ、加持さ～ん！」=You made it, Kaji!#start of pool
 「どう？<wt:50><sp:8>似合ってるでしょ」=So? Looks good on me, doesn't it?
@@ -813,7 +813,7 @@
 #Asuka
 「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
 #Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well?>>Who would that be?
 #Asuka
 「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 「加持さ～ん！！」=Kaji!!
@@ -823,7 +823,7 @@
 #Asuka
 「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
 #Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well?>>Who would that be?
 #Asuka
 「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 「加持さ～ん！！」=Kaji!!
@@ -833,7 +833,7 @@
 #Asuka
 「なによ、それ！>>加持さんまで|ファーストの家に行くの」=Is this a joke!?>>You're going to the First's apartment too?
 #Kaji
-「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well.>>Who's that?
+「なんだ、俺以外にも|誰か綾波のところに>>行ってるのか？」=You mean someone else is going there as well?>>Who would that be?
 #Asuka
 「シンジたちよ。>>学校のプリント届けるとか|言ってた。>>あ～つまんない！！」=Shinji and Toji.>>They said they had to drop off all her handouts from school.>>Argh! You're all so lame!!
 #Kaji
@@ -865,7 +865,7 @@
 （こんなもの<sp:8>もらって|どうしろって<sp:8>いうんだよ！）=(What am I supposed to do with this?)
 「何を言うんだ！！>>科学の基礎は|実験による実証だ。>>君も、それで科学する心を|やしないたまえ！！」=Nonsense!!>>Substantiation through experimentation is the foundation of science.>>Use it to nourish your scientific curiosity!
 「はあ・・・」=Right...
-「大切に使うんだぞ」=Use it with caution.
+「大切に使うんだぞ」=Don't let all the power that Beaker provides go to your head.
 「どうした？|体の調子でも悪くしたかい？」=Is something the matter? Do you feel sick?
 「どうしました？」=Is there something wrong?
 「いや、君みたいに<sp:8>きれいな|看護婦さんが<sp:8>いるなんて、>>全然知らなかったよ。>>よかったら、こんど|一緒に食事でも<sp:8>どう？」=Not at all.>>Only, I didn't know we had a beautiful nurse like you here.>>What do you say you and I go out for dinner sometime?
@@ -881,7 +881,7 @@
 #Kaji
 「葛城とのケンカの原因は？」=What were they fighting about?
 #Asuka
-「ケンカとも|言えないんだけど・・・>>ミサトに怒鳴られただけだから。>>そのまま家を|とび出しちゃったのよね。>>あいつ、いつでも|情緒不安定だから。>>なんで、あんなやつが|ＥＶＡに乗れるのかしら？」=I wouldn't really call it a fight...>>Misato was the one doing all the yelling.>>And then he just ran out.>>He's always so sensitive and emotional.>>How come a guy like that gets to pilot an Eva?
+「ケンカとも|言えないんだけど・・・>>ミサトに怒鳴られただけだから。>>そのまま家を|とび出しちゃったのよね。>>あいつ、いつでも|情緒不安定だから。>>なんで、あんなやつが|ＥＶＡに乗れるのかしら？」=I wouldn't really call it a fight...>>Misato was the one doing all the yelling.>>And then he just ran out. He's always so sensitive and emotional.>>How come a guy like that gets to pilot an Eva?
 #Kaji
 「そうか・・・」=Hm...
 #Asuka
@@ -892,7 +892,7 @@
 #Asuka
 「今日は絶好調！！|アイ<sp:8>アム<sp:8>ＮＯ．１！！」=I am in perfect form today!! Ich bin die Nummer 1!!
 #Kaji
-「そうか、シンクロテストの|結果がよかったんだな」=I take it your synchronization test went well?
+「そうか、シンクロテストの|結果がよかったんだな」=I take it your synchronization test went well.
 #Asuka
 「当然！！<wt:50><sp:8>あっ、<wt:25>そうだ、|加持さん・・・=Totally!! <wt:50>Oh, <wt:25>I have an idea, Kaji...
 これから買い物に|つきあってくれません？」=Why don't you take me out shopping? To celebrate...
@@ -904,12 +904,12 @@
 「あ～あ、つまんないの」=You're no fun.
 「ラッキー！！|早く行こう！！」=It's my lucky day!! Come on! Let's go!!
 #Kaji
-「やっぱり、自販機も|使えないのかな・・・」<wt:40>=The vending machines are working either...<wt:40>
+「やっぱり、自販機も|使えないのかな・・・」<wt:40>=The vending machines aren't working either...<wt:40>
 「おっと・・・」=Woah...
 #Rei
 「・・・・」=....
 #Kaji
-「綾波か」=Is that you Ayanami?
+「綾波か」=Is that you, Ayanami?
 「へ・・・？」=Um...
 「綾波が二人・・・？=Two Ayanamis?
 疲れてるな、オレ」=I must not be getting enough sleep.
@@ -917,7 +917,7 @@
 #Rei
 「わたし、行かない」=I'm not going.
 #Asuka
-「あんた、まだ、|こんなとこにいたの！！=There you are!
+「あんた、まだ、|こんなとこにいたの！！=There you are!!
 さあ、行くわよ！>>肉じゃないんだから|つきあいなさいよ」=Alright, let's get going!>>They have vegetarian dishes, so no excuses.
 #Kaji
 「シンジくん、|何をしてるんだい？」=What are you up to Shinji?
@@ -926,11 +926,11 @@
 #Kaji
 「シンジくん！」=Shinji!
 #Shinji
-「あ、加持さん！<wt:25><sp:8>すいません、|気がつかなかった・・・」=Oh, Kaji! <wt:25>Sorry, I didn't see you there...
+「あ、加持さん！<wt:25><sp:8>すいません、|気がつかなかった・・・」=Oh, Kaji! <wt:25>Sorry, I didn't hear you...
 #Kaji
 「いったい、|何をしてるんだい？」=What the heck are you doing?
 #Shinji
-「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=I have syncronization practice Asuka today,>>so I was trying to visualize in my mind.
+「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=I have synchronization practice with Asuka today,>>so I was trying to visualize in my mind.
 #Kaji
 「そうか。<sp:8>がんばって、>>アスカにいいところを|見せてやれよ」=Got it. Good luck.>>And you show Asuka who leads.
 #Shinji
@@ -962,7 +962,7 @@
 #Kaji
 「あぶない|ところだった・・・」=That was a close one...#end of lounge
 #Misato
-「・・・シンジ君、|今朝から姿が見えないのよ」=... I haven't seen any sign of Shinji since this morning.
+「・・・シンジ君、|今朝から姿が見えないのよ」=... I haven't seen any sign of Shinji since this morning.#start of command center
 #Ritsuko
 「何か心あたりはあるの？>>きのう、手料理でも|食べさせたんじゃない？」=And you have no idea why he might have left?>>You made dinner last night, didn't you? Maybe he couldn't stomach it anymore.
 #Misato
@@ -1044,7 +1044,7 @@
 「赤木博士の指先には|神が宿ってますね」=God dwells in Dr. Akagi's fingertips.
 #Maya
 「あ～あ、ホント、|あこがれちゃう！！」=*Blush* I really admire her!!
-「葛城一尉ですか？>>赤木博士と一緒に“実験場”で|ＥＶＡのテストを>>しているはずですけど」=Captain Katsuragi?>>She should be at the Test Site.>>They're testing the Evas.
+「葛城一尉ですか？>>赤木博士と一緒に“実験場”で|ＥＶＡのテストを>>しているはずですけど」=Captain Katsuragi?>>She should be in the Test Chamber.>>They're testing the Evas.
 #Shigeru
 「ターミナルドグマ周辺に|強力なＡＴフィールド！！」=A powerful AT Field has appeared around Terminal Dogma!!
 #Misato
@@ -1128,7 +1128,7 @@
 「すぐに<sp:8>わかりますから、|楽しみにしてて下さいよ」=You'll know soon enough. Just keep an eye out for it.
 「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
 「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
-「葛城一尉ですか？>>葛城一尉は|ミーティングのため>>“実験場”に行かれました」=Captain Katsuragi?>>She was headed to a meeting at the Test Site.
+「葛城一尉ですか？>>葛城一尉は|ミーティングのため>>“実験場”に行かれました」=Captain Katsuragi?>>She was headed to a meeting in the Test Chamber.
 #Misato
 「ん？<sp:8>どうかした？」=Hm? Everything all right?
 #Maya
@@ -1137,9 +1137,9 @@
 「あっ、加持さん。>><name>の様子は|どうですか？」=Ah, Kaji. Is <name>|still doing well?
 #Shigeru
 「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is <name>'s|growth progressing well?
-「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?
+「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?#end of command center
 #Fuyutsuki
-「空調が止まったな」=The ventilation shut off.
+「空調が止まったな」=The ventilation shut off.#start of commander's seat
 #Gendo
 「ああ・・・」=Indeed...
 #Fuyutsuki
@@ -1156,8 +1156,8 @@
 #Fuyutsuki
 「仕事は<sp:8>いいのかね？」=Your work is continuing smoothly, I hope.
 #Gendo
-「ムダな時間は<sp:8>ないはずだ」=You shouldn't be wasting time.
-「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=The angel wreckage?>>Yeah, Group 1 is making a big stink about it.>>The rest of us in Groups 2, 3, and 4 aren't getting ourselves involved with it.
+「ムダな時間は<sp:8>ないはずだ」=You shouldn't be wasting time.#end of commander's seat
+「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=The angel wreckage?>>Yeah, Group 1 is making a big stink about it.>>The rest of us in Groups 2, 3, and 4 aren't getting ourselves involved with it.#start of lab
 #Kaji
 「さめてるなあ」=You don't seem too concerned.
 「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=You got that right.>>The form and attack method of all the angels so far have been entirely unique each time, you know?
@@ -1182,7 +1182,7 @@
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=If Dr. Akagi catches you fiddling with MAGI without her permission,>>she will be furious!
 「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us,>>but I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
-「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.
+「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.#end of lab
 
 
 !FILE:bank_12.bin
