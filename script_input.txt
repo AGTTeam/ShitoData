@@ -1107,7 +1107,7 @@
 #Maya
 「どうしようかなぁ・・・」=That's too bad.#context
 #Ritsuko
-「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.#start of test chamber
+「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Misato
 「ＥＶＡの実機訓練中よ」=We're in the middle of some practical Eva training.
 #Fuyutsuki
@@ -1186,12 +1186,12 @@
 
 
 !FILE:bank_12.bin
-「あっ！<sp:8>そのエレベーター|ちょっと待ってぇ～！」=Wait! Hold the elevator!
+「あっ！<sp:8>そのエレベーター|ちょっと待ってぇ～！」=Wait! Hold the elevator!#start of halls
 #Misato
 「ゲッ！」=You!
 #Kaji
 「よう！」=Hey, you!
-「そう、毎度、毎度|人の顔を見るたびに>>イライラしなさんなよ！|顔にシワよるぜ」=Hey, you shouldn't frown so much!>>It'll give you wrinkles.
+「そう、毎度、毎度|人の顔を見るたびに>>イライラしなさんなよ！|顔にシワよるぜ」=You shouldn't frown so much, you know!>>It'll give you wrinkles.
 #Misato
 「大きなお世話よ！！」=I'll get right on that!!
 #Kaji
@@ -1206,11 +1206,11 @@
 #Kaji
 「・・・・・」=.....
 「さて、どこに行こうか」=Now, where was I going?
-「こんちまた、|ご機嫌ナナメだね」=Hello again... Well, somebody's grumpy.
+「こんちまた、|ご機嫌ナナメだね」=Hello again...|Well, somebody's grumpy.
 #Misato
 「来た早々<sp:8>あんたの顔、|見たからよ」=Only because I saw your ugly mug!
 #Kaji
-「つれないねぇ」=You wound me.
+「つれないねぇ」=That hurts.
 #Misato
 「あら？」=What's going on?
 #Kaji
@@ -1221,7 +1221,7 @@
 #Kaji
 「リッちゃんが今日の実験で|ミスったのかな？」=Maybe Ritchan botched another experiment.
 #Misato
-「しょうがない、|上から出ましょう。<sp:8>ほら！」=Well, we can't do anything about it from here.>>We'll go out the top.|Come on now!
+「しょうがない、|上から出ましょう。<sp:8>ほら！」=Well, we can't do anything about it from here.>>We'll go out the top.|Give me a boost!
 #Kaji
 「ハ？」=Huh?
 #Misato
@@ -1232,7 +1232,7 @@
 「うっさいわね！！」=Shut it!
 「あれ？<sp:8>直った。=Feel that? We're moving again.
 ・・うわっ！」=... Woah!
-「フケツ」=So indecent...
+「フケツ」=Get a room!
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-B     Floor-C     Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
@@ -1245,7 +1245,7 @@
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
 「近々、職員の募集を|するらしいですよ。>>いま事務局が>>告知のポスターを|つくってるらしいんですよ。>>今年は誰がモデルを|やるんですかね？」=I hear we're going to be recruiting new staff soon.>>Which means the secretariat will be making an announcement poster.>>I wonder who will be the model this year.
-「あっ、加持さん！|ポスターのモデルは誰でした？>>えっ！<wt:25>|<ch:6>赤木・・・博士・・・？>>そ、そうですか。|いや、あまりに意外なもので。>>ちょっとビックリでした」=Hey, Kaji! Who ended up being the model for the poster?>>What!? <wt:25><ch:6>Dr.<wt:25>Akagi<wt:25>?>>R-Really? No, I'm not complaining. I just wasn't expecting it.
+「あっ、加持さん！|ポスターのモデルは誰でした？>>えっ！<wt:25>|<ch:6>赤木・・・博士・・・？>>そ、そうですか。|いや、あまりに意外なもので。>>ちょっとビックリでした」=Hey, Kaji! Who ended up being the model for the poster?>>What!? <wt:25><ch:6>Dr.<wt:25>Akagi<wt:25>?>>R-Really? No, I'm not complaining. I just wasn't expecting that.
 「赤木博士・・・・・・」=Dr. Akagi......
 「近々、芦ノ湖で|花火大会があるそうですよ。>>私、すごく楽しみに|してるんです！」=There's a fireworks show coming up at Ashinoko Lake.>>It's gonna be so much fun!
 「仕事が忙しくて、|花火大会に行けませんでした。>>ちょ～ショックですぅ～。|行きたかったなぁ」=I missed the fireworks display because I was so busy with work.>>I was totally bummed out! I really wanted to go!
@@ -1265,9 +1265,9 @@
 「おっ！？」=Well, look at that!
 「やっと、なおったみたいだな。=Looks like the issue's been resolved.
 たすかった。|これで他のフロアに行ける」=Thank goodness. Now I can go to another floor.
-「今、インターネットに|はまってまして。>>毎日、家に帰ってから|メールのチェックするのが>>楽しみでしょうがないんですよ。>>加持さんも、メールはこまめに|チェックした方がいいですよ」=I'm crazy about the Internet these days.>>All I can think about all day is>>the moment I go home and check my email.>>You should be sure to check your email frequently as well, Kaji.
-「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the hall on Floor-E.
-「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this ramen stand>>that's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
+「今、インターネットに|はまってまして。>>毎日、家に帰ってから|メールのチェックするのが>>楽しみでしょうがないんですよ。>>加持さんも、メールはこまめに|チェックした方がいいですよ」=I'm crazy about the Internet these days.>>All I can think about all day is going home to check my email.>>You should be sure to check your email frequently as well, Kaji.
+「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the Hall on Floor-E.
+「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this ramen stand.>>It's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>I'm pretty sure I saw her hanging out in the Lounge.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-D     Floor-E     Back
@@ -1283,8 +1283,8 @@
 「ファーストチルドレンですか？>>“自販機エリア”に<sp:8>いましたよ」=The First Children?>>She was in the Lounge.
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>She was in the Lounge last time I saw her.
-「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the hall on Floor-E.
-「調査班の人達は|空き時間に芦ノ湖へ>>つりに行くらしいですよ」=I hear members of the research team like to go fishing>> at Ashinoko Lake whenever they get any time off.
+「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the Hall on Floor-E.
+「調査班の人達は|空き時間に芦ノ湖へ>>つりに行くらしいですよ」=I hear members of the research team like to go fishing.>>They go to Ashinoko Lake whenever they get any time off.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
@@ -1294,18 +1294,18 @@
 「あ、加持さん。|お疲れさまです」=Oh, Kaji. How's it going?
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=Captain Katsuragi and Dr. Akagi were discussing the upcoming wedding.>>I wonder if they're at the age where they're starting to think about settling down.>>Where are they?>>They said they were going to Dr. Akagi's Office.
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator-3 without a key.
-「カギを手に入れる・・・か」=Where might I get my hands on a Key?
+「カギを手に入れる・・・か」=Where might I get my hands on a key?
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-D     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
 #Asuka
-「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=Hey, Kaji! <wt:64>Wait! Are you going too, Kaji!?
+「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=Hey, Kaji! <wt:64>Wait! Are you going too!?
 ラッキー！！=Lucky!!
-しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=But what's the First doing?>>She's coming today, even if we have to drag her!!>>Help me look for her.
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
+しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=But what's the First doing?>>She's coming today, even if we have to drag her along!!>>Help me look for her.
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No#end of halls
 #Ritsuko
-「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.
+「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.#start of test chamber
 #Misato
 「・・・アスカは|シンジくんに負けたと>>思っているのよ」=... She can't stop thinking about losing to Shinji.
 #Kaji
@@ -1362,9 +1362,9 @@
 「あっ、加持さん。|お疲れさまです」=Ah, Kaji. Nice to see you.
 「作業を急がないと、|赤木博士に怒られるなあ」=Dr. Akagi has quite the temper when she finds someone slacking off.#context
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
-「セカンドチルドレンなら、>>“自販機エリア”で|ジュースを買ってくるって>>出て行っちゃいましたよ」=The Second Children?>>She said something about going to the Lounge to buy some juice.
+「セカンドチルドレンなら、>>“自販機エリア”で|ジュースを買ってくるって>>出て行っちゃいましたよ」=The Second Children?>>She said something about going to the Lounge to buy some juice.#end of test chamber
 #Ritsuko
-「ふう・・」=*Sigh*
+「ふう・・」=*Sigh*#start of Ritsuko office
 #Kaji
 「少しやせたかな<ch:6>・・・」=I think you've lost some weight.
 #Ritsuko
@@ -1467,9 +1467,9 @@
 #Misato
 「まあ、いいわ。|じゃ、行きましょ」=Alright, fine.|Well, are we going?
 #Ritsuko
-「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?
+「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?#end of Ritsuko office
 #Kaji
-「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they? Who do I want this time?
+「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they? Who do I want this time?#start of nurture chamber
 <ch:0>オペレーターを選択して下さい。<unk1>=<ch:0>Please select a technician.<unk1>
 マヤを選択しました。=Selected Maya.
 マコトを選択しました。=Selected Makoto.
@@ -1592,8 +1592,8 @@
 「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Be sure to return before too long.>>If <name> dies,|it'll be really unfortunate.
 #Shigeru
 「加持さん、お帰りなさい」=Welcome back, Kaji.
-「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Hurry back, all right?>>It would be bad news if|<name> were to die.
-コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
+「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Hurry back, all right?>>It would be bad news if|<name> were to die.#end of nurture chamber
+コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.#start of Kaji's room
 「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>Ministry of Interior
 #Kaji
 「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
@@ -1644,9 +1644,9 @@
 「おっ、おい・・・」<wt:40>=H-Hey! <wt:40>...
 #PenPen
 「ぎゅわ？」=Gwah?
-「　<sp:6>！　」=<sp:6>!
+「　<sp:6>！　」=<sp:6>!#end of Kaji's room
 #Kaji
-「・・・・・・？」=......?
+「・・・・・・？」=......?#start of cage
 #Asuka
 「なんで兵器に|心なんているのよ・・・」=Why does a weapon even need a heart...?
 #Kaji
@@ -1693,9 +1693,9 @@
 「仕方ない、|部下に取り寄せさせよう」=No worries. I'll send one of my subordinates out for some.
 「ありがとうございます！>>いや、これで修復作業の|めどが立ちました！>>お礼といっては<sp:8>なんですが、|これを受け取って下さい」=You're a lifesaver!>>This should get our reparation work back on track!>>I don't know how to thank you, but please accept this.
 　活性ビタミンを<sp:6>手に入れた！=Obtained Vitamin!
-「ありがとうございます！>>これで修復作業の|めどが立ちました！」=Thank you!>>This should help to get our reparations back on track!
+「ありがとうございます！>>これで修復作業の|めどが立ちました！」=Thank you!>>This should help to get our reparations back on track!#end of cage
 #Rei
-「わたし、何人目かしら・・・」=How many came before me?
+「わたし、何人目かしら・・・」=How many came before me?#start of CL3
 「わたし、何人目かしら・・・」=How many came before me?
 「わたし、何人目かしら・・・」=How many came before me?
 「わたし、何人目かしら・・・」=How many came before me?
@@ -1708,8 +1708,8 @@
 「ん？>>何か、水てきが落ちるような|音がしたぞ？>>どこからだ・・・？」=Hm?>>That sounds like dripping water.>>Where's it coming from?
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　零号機のコア<sp:8>を手に入れた！=Obtained Unit-00 Core!
-「何かの役に立つかな」=I wonder if this'll be useful for anything.
-　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.
+「何かの役に立つかな」=I wonder if this'll be useful for anything.#end of CL3
+　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.#start of heaven's door
 「すごい量のＬ．Ｃ．Ｌだな。|何か入れ物があれば・・・」=Such an abundance of LCL. If I had a container...
 　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.
 「すごい量のＬ．Ｃ．Ｌだな。|そうだ、このビーカーで・・・」=Such an abundance of LCL. Oh, yeah. I have this Beaker...
@@ -1736,9 +1736,9 @@
 「それが・・・これだ」=And that... is THIS.
 #Misato
 「これは・・・・・」=Is that...?
-「とりあえず、ＮＥＲＶは|私が考えているほど>>甘くない・・・、|ということね」=I guess there really is more to NERV than I thought...
+「とりあえず、ＮＥＲＶは|私が考えているほど>>甘くない・・・、|ということね」=I guess there really is more to NERV than I thought...#end of heaven's door
 #Kaji
-「まったく、エライ目に|あいましたよ。>>コイツのおかげでね」=You wouldn't believe everything I had to go through.>>And all just to get this.
+「まったく、エライ目に|あいましたよ。>>コイツのおかげでね」=You wouldn't believe everything I had to go through.>>And all just to get this.#start of exposition
 #Gendo
 「・・・・・」= .....
 #Kaji
