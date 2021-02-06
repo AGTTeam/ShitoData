@@ -1490,7 +1490,7 @@
 「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい。=
 また、私を選んで下さいね」=I'm done for the day.>>Today's the end of my assistant duty by the way.>>Tomorrow you'll have to choose which technician will be filling in next.>>Feel free to pick me again though.
 #Makoto
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You will be selecting an assistant again tomorrow.
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You'll be selecting an assistant again tomorrow.
 #Shigeru
 「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=I'm done for the day.>>I should mention that today was my second day on assistant duty,>>so tomorrow you'll have to decide which of us technicians you want next.
 #Maya
@@ -1515,7 +1515,7 @@
 #Kaji
 「いや、会ってないけど。>>シンジくんに|何かあったのか？」=No, I haven't.>>Did something happen to him?
 #Misato
-「・・・そう、わかった。>>・・・もし、シンジくんから|連絡があったら教えて。>>中央発令所にいるから」=Okay... Thanks...>>If Shinji calls, let me know, okay?>>He's needed in the Command Center.
+「・・・そう、わかった。>>・・・もし、シンジくんから|連絡があったら教えて。>>中央発令所にいるから」=Okay... Thanks...>>If Shinji calls, let me know, okay?>>We need him in the Command Center.
 #Kaji
 「お、おい」=H-Hey!
 #Makoto
@@ -1531,13 +1531,13 @@
 「加持さん。|碇司令からの<sp:8>伝令の方が>>いらっしゃってますよ」=Kaji, Commander Ikari sent a messenger for you. He's here now.#context
 #Makoto
 「加持さん。|碇司令からの<sp:8>伝令の方が>>いらっしゃってますよ」=Kaji, Commander Ikari sent a messenger for you. He's here now.#context
-「あ、シンジくんたちだ。>>オプティカルサイトのカメラに|映ってますよ。>>三人おそろいだ、めずらしいな」=Look. It's Shinji and the others.>>They're on the optical sight cameras.>>It's rare seeing the tree of them together like this.
+「あ、シンジくんたちだ。>>オプティカルサイトのカメラに|映ってますよ。>>三人おそろいだ、めずらしいな」=Look. It's Shinji and the others.>>They're on the optical sight cameras.>>It's rare seeing the three of them together like that.
 「今年の修学旅行は|沖縄らしいね」=Looks like this year's school trip was to Okinawa, huh?
 「そうよ！|サンサンと<sp:8>かがやく太陽！>>しろい砂、青い海が|私を待ち受けている！！」=Yeah! The sun is shining bright!>>And I can hear the white sands and blue sea beckoning me!!
 「あ、綾波は修学旅行|行くの？」=Oh, Rei went on the school trip as well, did she?
 「興味ない」=Not by choice.
-「こんな姿を見ると、|本当にあどけないですよね。>>まだ１４なのに、世界の運命を|せおってるんだもんなあ」=Seeing them like this, they look so innocent.>>They're only 14 but the fate of the entire world>>rests on their shoulders.
-「さあ、<name>の育成を|しましょうか！」=Say, let's see how <name> is growing!
+「こんな姿を見ると、|本当にあどけないですよね。>>まだ１４なのに、世界の運命を|せおってるんだもんなあ」=Seeing them like this, they look so innocent. They're only 14,>>but the fate of the entire world rests on their shoulders.
+「さあ、<name>の育成を|しましょうか！」=Say, let's see how <name>|is growing!
 #Maya
 「加持さん、|セカンドチルドレンから>>通信です」=Kaji, transmission incoming from the Second Children.
 #Asuka
@@ -1563,7 +1563,7 @@
 #Kaji
 「そうか」=Thanks.
 #Misato
-「ちょっち、これからが心配|だけど・・・」=I'm still a little worried about him though...
+「ちょっち、これからが心配|だけど・・・」=I'm still a little concerned about him though...
 #Kaji
 「シンジくんなら大丈夫さ」=Don't worry about Shinji. He's tougher than he looks.
 #Misato
@@ -1582,7 +1582,7 @@
 #Misato
 「そう。|じゃ、そろそろ行くわ」=All right. Well, I'm going to go.
 「青葉さんって、|バンドやってるらしいですよ。>>知ってました？>>こんなに忙しいのに、|よく練習する時間があるなぁ」=It turns out Aoba plays in a band.>>Did you know that?>>I can't believe he finds the time to practice despite being so busy.
-「他の場所で採取した、特別な|Ｌ．Ｃ．Ｌを使用すると、>>育成に|どんな影響を及ぼすのか？>>ためしてみる価値は|あるかもしれませんね」=I wonder how it might affect growth>>if we utilized a special LCL harvested from another location.>>Could be worth a shot.
+「他の場所で採取した、特別な|Ｌ．Ｃ．Ｌを使用すると、>>育成に|どんな影響を及ぼすのか？>>ためしてみる価値は|あるかもしれませんね」=If we utilized a special LCL harvested from another location...>>I wonder how it might affect growth...>>Could be worth a shot.
 「何か特別な物体を|育成に使用すると、>>使徒の成体進化の可能性も|変わってくるかも・・・」=If you used a special growth item on the angel,>>it could change its potential evolution as it reaches maturity.
 #Maya
 「加持さん、お帰りなさい」=Welcome back, Kaji.
@@ -1592,7 +1592,7 @@
 「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Be sure to return before too long.>>If <name> dies,|it'll be really unfortunate.
 #Shigeru
 「加持さん、お帰りなさい」=Welcome back, Kaji.
-「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Hurry back, all right?>>It would be bad news if|<name> were to die.#end of nurture chamber
+「はやく戻ってきて|下さいね。>><name>が死んでしまったら|たいへんですよ」=Hurry back, all right?>>It would be bad news if|<name> didn't make it.#end of nurture chamber
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.#start of Kaji's room
 「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>Ministry of Interior
 #Kaji
@@ -1601,7 +1601,7 @@
 「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>--Ministry of Interior
 「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
-「“換気口”で待つ」=Rendezvous in Ventilation.
+「“換気口”で待つ」=Rendezvous in Vents.
 「・・・あんた、バカよ！！>>・・・でも、よかった。|生きていてくれて」=You're such an idiot!!>>But... I'm glad you're alive.
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
 「ユウコです。>>私たちの結婚式に|出席か欠席か返事をください。>>待ってます」=It's Yuko.>>I need to know if you will be attending the wedding ceremony.>>RSVP absent or attending.
@@ -1620,7 +1620,7 @@
 #Kaji
 「・・・恐ろしい料理だった」=That food really might have killed me though.
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
-「Ｈ・Ｄのカギのコピーを|入手した。>>北東地区の“野原”で待つ|・・・内務省」=
+「Ｈ・Ｄのカギのコピーを|入手した。>>北東地区の“野原”で待つ|・・・内務省」=Copy of HD Key in hands.>>Wait in Field - NE District|<sp:56>--Ministry of Interior
 「あ、加持さん！>>加持さんのＩ・Ｄカードが|再発行されましたよ」=There you are, Kaji!>>Your ID Card has been reissued.
 　Ｉ・Ｄカードを受け取った！=Received ID Card!
 「これで、ゲートを通れるな」=I'll be able to pass through the Gate now.
@@ -1632,7 +1632,7 @@
 「まだ、ねるのは|やめておこう」=Let's stay up a little longer.
 「今日は、もう|ねるとするか！」=Let's call it a day!
 「ふう、<wt:50>よくねた・・・」='Yawn' <wt:50>I slept great.
-「まだ、ねる時間じゃ|ないな」=Probably not time for bed just yet.
+「まだ、ねる時間じゃ|ないな」=Probably a little early to hit the hay.
 #PenPen
 「ぎゅわ？」=Gwah?
 #Kaji
@@ -1677,16 +1677,16 @@
 「それもそうだな」=That's true, I guess.
 #Shinji
 「・・・・・・・」=.......
-「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor,>>but I heard that those blackouts that happen sometimes>>are caused by Dr. Akagi's tests...>>I guess even she isn't immune to failure.
+「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor, but I heard something about Dr. Akagi.>>Apparently, those blackouts that happen sometimes are caused by her tests...>>I guess even she isn't immune to failure.
 #Kaji
 「ファーストチルドレンが|どこへ行ったか、>>知らないか？」=Any idea where the First Children went?
 「ファーストチルドレン|ですか？>>中央病院へ|向かったみたいですよ」=The First Children?>>It looked like she was headed to the Clinic.
-「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」=*Sigh* These fatigues,>>I've really got to send them out for cleaning before long...
+「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」=*Sigh* I've really got to send these fatigues out for cleaning...
 「誰かに洗ってもらえば？」=What if someone else washed them for you?
-「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.|Even Katsuragi and Dr. Akagi>>could stand to send their clothes out for cleaning...
-「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but...
+「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to send their clothes out for cleaning.
+「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but Dr. Akagi too?
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=*Sigh* We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
-「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics,>>you think you could spare me one?
+「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics, you think you could spare me one?
 複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「すまない、|いま持ち合わせていないんだ」=Sorry. I don't have any on me right now.
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=All right. No worries.>>I'll send one of my subordinates out for some.
@@ -1718,7 +1718,7 @@
 　　この液体は<sp:6>Ｌ．Ｃ．Ｌだ=This liquid is LCL.
 「これだけ、ビーカーに|入れておけば、>>もう、いいだろう」=This Beaker might be good for science, but it still only holds so much.
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
-　<sp:8>塩の柱の結晶<sp:8>を拾った！=Picked up Salt Crystals!
+　<sp:8>塩の柱の結晶<sp:8>を拾った！=Picked up Salt Crystal!
 「何かの役に立つかな」=I wonder if this'll be useful for anything.
 「君か・・・」=Wasn't expecting to see a pretty face down here...
 #Misato
@@ -1726,7 +1726,7 @@
 #Kaji
 「どっちかな」=Good question.
 #Misato
-「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji, belonging to>>the Japanese Home Ministry's Department of Investigations.
+「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji,>>belonging to the Japanese Home Ministry's Department of Investigations.
 #Kaji
 「君にもバレバレか」=I guess you know everything.
 #Misato
@@ -1829,7 +1829,7 @@
 キーンコーン|カーンコーン>>「下校時間になりました。>>のこっている|生徒は帰りましょう」=*Ding* *Dong*|*Ding* *Dong*>>That's the final bell. Any students that are still here can go home.
 「そろそろ帰るか」=You ready to go home?
 「すいません、お客さん。|店、しめたいんですけど」=Excuse me, sir. It's closing time, so...
-「そうか、|それじゃ、帰るか」=I understand. Well, I guess I'll head home.
+「そうか、|それじゃ、帰るか」=I understand.|Well, I guess I'll head home.
 #Maya
 「加持さん！！>><name>ちゃんが|危険な状態です！>>すぐに育成室に戻って下さい」=Kaji!! <name> is in critical|condition!>>Please come to the Nurture Chamber. Quickly!
 #Makoto
@@ -1848,7 +1848,7 @@
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
 #Shigeru
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
-「ああっ、|薬がありません・・・」=Oh, no! The medicinal reserves haven't are empty.
+「ああっ、|薬がありません・・・」=Oh, no! The medicinal reserves are empty.
 　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
 「そんな・・・|このままにしておくなんて！」=That would mean... You're really going to let it suffer like this!?
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
@@ -1858,9 +1858,9 @@
 #Kaji
 「ど、どうした！|何が起こったんだ？」=Wh-What's going on!? What happened?
 #Shigeru
-「わ、<wt:50>わかりません！<wt:50>|モニターにも映らないし、>>各種センサーにも|反応しません！>>・・・完全に・・・|消失？」=I... <wt:50>I'm not sure! <wt:50>There's nothing showing up on the monitor,>>and none of our responding either!>>... It vanished... Gone.
+「わ、<wt:50>わかりません！<wt:50>|モニターにも映らないし、>>各種センサーにも|反応しません！>>・・・完全に・・・|消失？」=I... <wt:50>I'm not sure! <wt:50>There's nothing showing up on the monitor,>>and none of our sensors are responding either!>>... It's gone... Vanished.
 #Fuyutsuki
-「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>At the very least, I suppose we should be thankful>>that we did not trigger the Third Impact.>>It seems to be targeting our location just as the angels do.>>What are your orders?
+「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>We did not trigger the Third Impacy.>>I suppose we should be thankful for that at the very least.>>It seems to be targeting our location just as the angels do.>>What are your orders?
 #Gendo
 「殲滅するだけだ」=Eradicate it.
 #Fuyutsuki
@@ -1874,7 +1874,7 @@
 #Gendo
 「葛城一尉、|ＥＶＡの発進準備をさせろ」=Captain Katsuragi, prepare the Eva for launch.
 #Misato
-「・・・了解しました。|発進準備！！」=... Understood. Prepare for launch!!
+「・・・了解しました。|発進準備！！」=... Understood.|Prepare for launch!!
 #Shigeru
 「航空隊、全滅！>>使徒は依然侵攻中、間もなく、|市内中心部に到達！！」=Aviation units down!>>The angel is still advancing toward our position!>>Arrival at the city center imminent!!
 #Misato
@@ -1888,7 +1888,7 @@
 #Misato
 「零号機、発進！！」=Unit-00, launch!!
 #Shigeru
-「零号機、完全に次黙！！」=We've lost contact with Unit-01!!
+「零号機、完全に次黙！！」=We've lost contact with Unit-00!!
 #Misato
 「エントリープラグ強制射出！|パイロットは？」=Force Entry Plug ejection! Pilot's status?
 #Maya
@@ -1934,7 +1934,7 @@
 #Misato
 「・・・・・・」=......
 #Kaji
-「今回、えられた成果といえば、|所詮<sp:8>使徒は、われわれ、>>人類の手にはおえないという|教訓だけということですか」=What did we gain from this catastrophe?>>We've learned that the angels are beyond the reach of humankind.>>After everything, is that it?
+「今回、えられた成果といえば、|所詮<sp:8>使徒は、われわれ、>>人類の手にはおえないという|教訓だけということですか」=What did we gain from this catastrophe?>>We've learned that the angels are beyond the reach of humankind.>>After all that's happened... Is that it?
 #Gendo
 「いや、|あながち失敗ともいえん。>>貴重なデータがえられたのだ。>>失敗を恐れていたら|何も進まん」=No, it was not altogether a failure.>>We were able to procure some valuable data.>>Progress cannot be made if we allow the fear of failure to paralyze us.
 #Kaji
@@ -1964,7 +1964,7 @@
 「え、一緒に来たいって？|しょうがないなあ・・・」=What's that? You want to stay with me?>>I guess I don't really have much of a choice...
 「ただいま」=I'm back.#context
 #Gendo
-「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=You've successfully raised all the angels... Your mission is complete.>>Excellent work.
+「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=You've successfully raised all the angels... Your mission is complete.>>Excellent work!
 #Misato
 「おめでとう」=Congratulations!
 #Ritsuko
@@ -2004,7 +2004,7 @@
 前の画面に戻ります。=Return to previous screen.#context
 #Asuka
 「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate|was <perc>%!!>>Good luck trying to view them all!!
-「やったわね！|１００％！<sp:8>おめでとう！！」=You did it! 100% completion!|Congratulations!!
+「やったわね！|１００％！<sp:8>おめでとう！！」=You did it!|100% completion!>>Congratulations!!
 このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:59>Yes <sp:32>No
 #Maya
 「複合抗生剤を使います。>>はやく、よくなると|いいですね」=Administering Antibiotic.>>I really hope he gets better quickly.
@@ -2013,7 +2013,7 @@
 #Shigeru
 「複合抗生剤を使います。|大丈夫かな？」=Administering Antibiotic.>>That'll do the trick, right?
 #Maya
-「そんな<ch:8>・・・>><ch:4><name>ちゃん、|大丈夫かしら」=That<ch:8>...>><ch:4>I hope little <name> will be all right.
+「そんな<ch:8>・・・>><ch:4><name>ちゃん、|大丈夫かしら」=That<ch:8>...>><ch:4>I hope little <name>|will be all right.
 #Makoto
 「いっちょ、|やってみますか！！」=All right. Let's give it a shot!!
 #Shigeru
