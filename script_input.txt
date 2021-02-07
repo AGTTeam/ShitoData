@@ -99,7 +99,7 @@
 「シンちゃ～ん、お帰りぃ～。|お腹ペコペコよぉ～」=There you are, Shinji! I'm starving!
 「げっ、なに、この男は！！」=Huh? Why is he here!?
 #Shinji
-「コンビニで会ったんですよ。>>だから、|食事にさそったんですよ」=We ran into each other at the Convenience Store, and I invited him for dinner.
+「コンビニで会ったんですよ。>>だから、|食事にさそったんですよ」=We ran into each other at the Store, and I invited him for dinner.
 #Kaji
 「というわけだ、悪いな！」=Sorry for the intrusion.
 #Misato
@@ -111,7 +111,7 @@
 「二人だけで<sp:8>あきちゃったから|ヒカリを連れて来ちゃった」=It was getting boring with just the two of us, so I brought Hikari along with me.
 「なによ！！>>加持さんを<sp:8>よんで、|すき焼きなんて聞いてないわよ！>>ひど～い！！」=How come nobody told me Kaji was coming over for the sukiyaki!?>>That's so rude!!
 #Kaji
-「たまたま、コンビニで|シンジくんと会ったんだよ」=It wasn't planned. I ran into Shinji at the Convenience Store.
+「たまたま、コンビニで|シンジくんと会ったんだよ」=It wasn't planned. I ran into Shinji at the Store.
 #Misato
 「ま、いいじゃないの。|洞木さんも食べていってよ」=No harm, no foul. And Hikari is welcome to eat with us.
 #Hikari
@@ -707,8 +707,8 @@
 机のカギで<sp:6>引き出しを開けた！=Opened drawer with Desk Key!
 #Kaji
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
-　　Ｅ３のカギを手に入れた！=Obtained E-3 Key!
-「これで３号エレベーターが|使えるな」=I'll be able to take Elevator-3 with this.
+　　Ｅ３のカギを手に入れた！=Obtained E3 Key!
+「これで３号エレベーターが|使えるな」=I'll be able to take Elevator 3 with this.
 「もう、めぼしい物は|入ってないな」=I'm not seeing anything else of value.
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　初号機のコア<sp:8>を手に入れた！=Obtained Unit-01 Core!
@@ -802,7 +802,7 @@
 #Shinji
 「ええ、|理科の宿題があるんで」=I can't. I have to finish my science homework.#end of pool
 #Asuka
-「これからシンジ達と|プールに行くつもりなんだ。>>よかったら加持さんも来て！|じゃあね！」=I'm going to the pool with the others.>>You come too, okay, Kaji? Later!#start of gate
+「これからシンジ達と|プールに行くつもりなんだ。>>よかったら加持さんも来て！|じゃあね！」=I'm going to the Pool with the others.>>You come too, okay, Kaji? Later!#start of gate
 #Kaji
 「ちょっと、食べすぎたな」=I might have eaten a little too much.
 #Asuka
@@ -845,7 +845,7 @@
 「ふう。|少し飲み過ぎたかな」=Whew... I think I drank a little too much.
 「ふう、どうするかな？」=Whew... Where to now?
 「ふう、どうするかな？」=Whew... Where to now?
-「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the cage,>>and just after that she was in the Lounge.
+「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the Cage,>>and just after that she was in the Lounge.
 「？？？|あるくのが<sp:8>はやいのかな？」=Hm...|Maybe she just walks fast.
 「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card...|<wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.#end of gate
 「綾波」=Ayanami.#start of clinic
@@ -885,7 +885,7 @@
 #Kaji
 「そうか・・・」=Hm...
 #Asuka
-「・・・そうだ、|３バカトリオに聞いてみたら？>>あいつら、学校じゃ|いつも一緒だから」=... Hey, did you try asking the idiot trio?>>They always hang out together at school, so maybe they know.
+「・・・そうだ、|３バカトリオに聞いてみたら？>>あいつら、学校じゃ|いつも一緒だから」=... Hey, did you try asking the idiot trio?>>They always hang out together at School, so maybe they know.
 「シンジなんて|ほっとけばいいのよ！！>>お腹がすいたら|帰ってくるわよ！！」=Forget him!!>>Shinji'll come crawling back once he starts getting "achey in his wittle tummy."
 #Kaji
 「ご機嫌だな、アスカ」=What's that big grin I see, Asuka?
@@ -1139,7 +1139,7 @@
 「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is <name>'s|growth progressing well?
 「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?#end of command center
 #Fuyutsuki
-「空調が止まったな」=The ventilation shut off.#start of commander's seat
+「空調が止まったな」=The ventilation shut off.#start of commander's chair
 #Gendo
 「ああ・・・」=Indeed...
 #Fuyutsuki
@@ -1148,7 +1148,7 @@
 「ああ・・・」=Indeed...
 「ぬるいな」>>「ああ・・・」=The water's lukewarm.>>Indeed...
 #Fuyutsuki
-「ん？<sp:8>碇なら|“総司令室”に行ったが？」=Ikari, hm? Did you try looking for him in his office?
+「ん？<sp:8>碇なら|“総司令室”に行ったが？」=Ikari, hm? Did you try looking for him in his Office?
 #Kaji
 「・・・ん？<sp:8><wt:25>これは」=... Hm? <wt:25>This is...
 　　　机のカギを拾った！=Picked up Desk Key!
@@ -1156,7 +1156,7 @@
 #Fuyutsuki
 「仕事は<sp:8>いいのかね？」=Your work is continuing smoothly, I hope.
 #Gendo
-「ムダな時間は<sp:8>ないはずだ」=You shouldn't be wasting time.#end of commander's seat
+「ムダな時間は<sp:8>ないはずだ」=You shouldn't be wasting time.#end of commander's chair
 「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=The angel wreckage?>>Yeah, Group 1 is making a big stink about it.>>The rest of us in Groups 2, 3, and 4 aren't getting ourselves involved with it.#start of lab
 #Kaji
 「さめてるなあ」=You don't seem too concerned.
@@ -1182,7 +1182,7 @@
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=Don't let Dr. Akagi catch you fiddling with MAGI without her permission>>She will be furious!
 「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us,>>but I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
-「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.#end of lab
+「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's Office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.#end of lab
 
 
 !FILE:bank_12.bin
@@ -1236,8 +1236,8 @@
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-B     Floor-C     Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
-「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator-3.>>Nobody can use it without authorization from Commander Ikari.
-「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator-3 on Floor-D takes you to Central Dogma.
+「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without authorization from Commander Ikari.
+「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator 3 on Floor-D takes you to Central Dogma.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
@@ -1267,7 +1267,7 @@
 たすかった。|これで他のフロアに行ける」=Thank goodness. Now I can go to another floor.
 「今、インターネットに|はまってまして。>>毎日、家に帰ってから|メールのチェックするのが>>楽しみでしょうがないんですよ。>>加持さんも、メールはこまめに|チェックした方がいいですよ」=I'm crazy about the Internet these days.>>All I can think about all day is going home to check my email.>>You should be sure to check your email frequently as well, Kaji.
 「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the Hall on Floor-E.
-「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this ramen stand.>>It's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
+「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this Ramen Stand.>>It's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>I'm pretty sure I saw her hanging out in the Lounge.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-D     Floor-E     Back
@@ -1293,7 +1293,7 @@
 Ｅフロアを選択しました。=Selected Floor-E.
 「あ、加持さん。|お疲れさまです」=Oh, Kaji. How's it going?
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=Captain Katsuragi and Dr. Akagi were discussing the upcoming wedding.>>I wonder if they're at the age where they're starting to think about settling down.>>Where are they?>>They said they were going to Dr. Akagi's Office.
-「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator-3 without a key.
+「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator 3 without a key.
 「カギを手に入れる・・・か」=Where might I get my hands on a key?
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-D     Back
@@ -1487,8 +1487,8 @@
 #Shigeru
 「今日の勤務を終わります。|お疲れ様でした」=I'm done for the day. See you later.
 #Maya
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい。=
-また、私を選んで下さいね」=I'm done for the day.>>Today's the end of my assistant duty by the way.>>Tomorrow you'll have to choose which technician will be filling in next.>>Feel free to pick me again though.
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい。=I'm done for the day.>>Today's the end of my assistant duty by the way.>>Tomorrow you'll have to choose which technician will be filling in next.
+また、私を選んで下さいね」=Feel free to pick me again though.
 #Makoto
 「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You'll be selecting an assistant again tomorrow.
 #Shigeru
@@ -1522,7 +1522,7 @@
 「何かあったんでしょうか？」=Something must have happened.
 #Kaji
 「・・・・・・」=......
-「加持さん、碇司令が>>“総司令室”に|来てほしいとのことです」=Kaji, Commander Ikari has requested for you to come to his office.
+「加持さん、碇司令が>>“総司令室”に|来てほしいとのことです」=Kaji, Commander Ikari has requested for you to come to his Office.
 「わかった」=Understood.
 「早急に来てほしいとの|ことでした」=He wanted you to come immediately.
 #Shigeru
