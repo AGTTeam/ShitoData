@@ -4,7 +4,7 @@
 　　
 　　
 　　
-＜BANDAI＞　　
+\BANDAI/　　
 　　
 　　
 　　
@@ -68,7 +68,7 @@
 　　
 　　
 　　
-＜GAINAX＞　　
+\GAINAX/　　
 　　
 　　
 　　
@@ -94,72 +94,72 @@
 ▼ Production　　
 　　
 　　
-　#spacing ends here
+　
 　　Toshihiro Mori　
-　
-　
-　
-　
+　　
+　　
+　　
+　　
 ▼ Adviser　
-　
-　
-　
+　　
+　　
+　　
 　　Hiroki Sato　
-　
-　
-　
-　
-　
-　
-＜SOFT MACHINE＞　
-　
-　
-　
-　
-　
+　　
+　　
+　　
+　　
+　　
+　　
+\SOFT MACHINE/　
+　　
+　　
+　　
+　　
+　　
 ▼ Direction　
-　
-　
-　
+　　
+　　
+　　
 　　Munekazu Matsuyoshi　
-　
-　
-　
+　　
+　　
+　　
 　　Hajime Nara　
-　
-　
-　
+　　
+　　
+　　
 　　Naoki Sashida　
-　
-　
-　
-　
+　　
+　　
+　　
+　　
 ▼ Programming　
-　
-　
-　
+　　
+　　
+　　
 　　Munekazu Matsuyoshi　
-　
-　
-　
-　
+　　
+　　
+　　
+　　
 ▼ Tool Programming　
-　
-　
-　
+　　
+　　
+　　
 　　Kazuya Yamada　
-　
-　
-　
-　
+　　
+　　
+　　
+　　
 ▼ Graphic　
-　
-　
-　
+　　
+　　
+　　
 　　Hajime Nara　
-　
-　
-　
+　　
+　　
+　　#spacing ends here
 　　Toshiaki Ochiai　
 　
 　
@@ -234,13 +234,13 @@
 　
 　
 　
-＜AGT TEAM＞　
+\AGT TEAM/　
 　
 　
 　
 　
 　
-▼ Lead, Graphics　
+▼ Lead & Graphics　
 　
 　
 　
