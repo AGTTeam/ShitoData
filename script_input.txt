@@ -1992,7 +1992,7 @@
 #Fuyutsuki
 「おめでとう」=Congratulations.
 #Ritsuko
-「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>.>>I'll register it in the Photo Album.
+「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>>>I'll register it in the Photo Album.
 「今回の使徒の|育成データです」=Here's the recorded data from this test.
 使徒データがいっぱいです。=Angel data full.#context
 上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite?|<ch:0><sp:59>Yes <sp:32>No#context
