@@ -13,7 +13,7 @@
 「おっ、すき焼きかい」=Looks like sukiyaki tonight. Is that it?
 #Shinji
 「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know!|Why don't you join us, Kaji?
-シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:59>Yes <sp:32>No
+シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「葛城が<sp:8>怒るからな、|また今度にしておくよ」=I doubt Katsuragi would be too happy to see me.>>How about a rain check?
 #Shinji
@@ -279,7 +279,7 @@
 「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=So he isn't going to be piloting the Eva anymore, huh?
 #Toji
 「ケンスケ！！|はよせい、行くぞ」=Kensuke!! Hurry up! Let's go!
-二人を追いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Follow them?|<ch:0><sp:59>Yes<sp:32>No
+二人を追いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Follow them?|<ch:0><sp:62>Yes<sp:35>No
 #Kensuke
 「ハーイ、一枚１００円だよ！>>惣流・アスカ・ラングレーの|生写真が１００円！！」=Listen up for the deal of your lives!>>Candid photos of Asuka Langley Soryu! Just 1 dollar each!!
 「ネコもしゃくしも|アスカ、アスカ」=Photos of Asuka... Enough photos for everyone...
@@ -620,6 +620,8 @@
 「それじゃ、失礼します」=Thanks again for coming. See you later.
 #Maya
 「失礼します」=See you tomorrow, Kaji.#end of concert
+#SI_1_E5 (After following)
+#SI_1_E8
 #Toji
 「よっしゃ、ケンスケ、|行くぞ！！」=Alright, let's go, Kensuke!#start of train station
 #Kensuke
@@ -735,7 +737,7 @@
 「これから、|ラーメンを食べにいくの」=We're going out to get some ramen.
 #Shinji
 「これから、みんなで>>ラーメンを|食べに行くんですよ。>>それにしても遅いなあ、|アスカたち。>>あ、そうだ！<sp:8>加持さんも|一緒に行きませんか？」=We're all supposed to be going out for ramen,>>but Ayanami and Asuka are late.>>Oh, you can come to if you want, Kaji.
-シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:59>Yes <sp:32>No
+シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:62>Yes<sp:35>NoNo
 「そうですか・・・」=I understand...
 #Misato
 「じゃあね」=We'll see you later then.
@@ -900,7 +902,7 @@
 #Asuka
 「当然！！<wt:50><sp:8>あっ、<wt:25>そうだ、|加持さん・・・=Totally!! <wt:50>Oh, <wt:25>I have an idea, Kaji...
 これから買い物に|つきあってくれません？」=Why don't you take me out shopping? To celebrate...
-アスカの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Asuka's invitation?|<ch:0><sp:59>Yes <sp:32>No
+アスカの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Asuka's invitation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「すまん。|まだ、仕事があるんだよ」=Sorry. I've still got a lot of work to do.
 #Asuka
@@ -1102,14 +1104,14 @@
 「フーン」=*Sigh* Yeah...
 #Shigeru
 「あ、加持さん、|加持さんもどうです？>>見に来てくださいよ、|ライブハウス、レインボウです」=Hey, Kaji, what about you?>>I'd really like you to come too.>>It'll be at Club Rainbow.
-シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:59>Yes <sp:32>No
+シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:62>Yes<sp:35>NoNo
 「そうですか・・・」=Maybe some other time...
 「よし、決まり！」=Sweet! I'll look for you in the crowd!
 #Maya
 「あ、加持さん。>>青葉さんが、今日|ライブやるんだそうです」=Oh, Kaji, it looks like Aoba's going to be playing a gig today.
 #Shigeru
 「加持さんもどうです？|見に来てくださいよ。>>ライブハウス、レインボウです」=Hey, Kaji, what about you?>>I'd really like you to come too.>>It'll be at Club Rainbow.
-シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:59>Yes <sp:32>No
+シゲルの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shigeru's invitation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Maya
 「どうしようかなぁ・・・」=That's too bad.#context
 #Ritsuko
@@ -1128,9 +1130,9 @@
 #Fuyutsuki
 「・・・恥を<sp:8>かかせおって」=... They make us look like fools.
 「職員募集のポスター？|できあがってますよ。>>えっ、どんなかって？|どんなだと思います？=The staff recruitment poster? The design's been finalized, yeah.>>Huh? Who'd we go with for the model?>>Well, who do you think?
-葛城一尉の水着姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Captain Katsuragi in a swimsuit?|<ch:0><sp:59>Yes <sp:32>No
-アスカの耐熱用プラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Asuka in her D-Type plugsuit?|<ch:0><sp:59>Yes <sp:32>No
-赤木博士のプラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Dr. Akagi in a plugsuit?|<ch:0><sp:59>Yes <sp:32>No
+葛城一尉の水着姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Captain Katsuragi in a swimsuit?|<ch:0><sp:62>Yes<sp:35>NoNo
+アスカの耐熱用プラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Asuka in her D-Type plugsuit?|<ch:0><sp:62>Yes<sp:35>NoNo
+赤木博士のプラグスーツ姿？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Dr. Akagi in a plugsuit?|<ch:0><sp:62>Yes<sp:35>NoNo
 「すぐに<sp:8>わかりますから、|楽しみにしてて下さいよ」=You'll know soon enough. Just keep an eye out for it.
 「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
 「ここだけの話ですが、>>赤木博士も、けっこう|ノリノリでしたよ」=Just between us, Dr. Akagi was pretty enthusiastic about it.
@@ -1240,16 +1242,16 @@
 「あれ？<sp:8>直った。=Feel that? We're moving again.
 ・・うわっ！」=... Woah!
 「フケツ」=Get a room!
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-B     Floor-C     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>    Floor-B     Floor-C     Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
 #EVS_M301
 「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without authorization from Commander Ikari.#NOTE: last line is a bit too long and the blinking cursor is over the .
 「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator 3 on Floor-D takes you to Central Dogma.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>    Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>    Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｃフロアを選択しました。=Selected Floor-C.
 「近々、職員の募集を|するらしいですよ。>>いま事務局が>>告知のポスターを|つくってるらしいんですよ。>>今年は誰がモデルを|やるんですかね？」=I hear we're going to be recruiting new staff soon.>>Which means the secretariat will be making an announcement poster.>>I wonder who will be the model this year.
@@ -1258,7 +1260,7 @@
 #EVS_M302
 「近々、芦ノ湖で|花火大会があるそうですよ。>>私、すごく楽しみに|してるんです！」=There's a fireworks show coming up at Ashinoko Lake.>>It's gonna be so much fun!
 「仕事が忙しくて、|花火大会に行けませんでした。>>ちょ～ショックですぅ～。|行きたかったなぁ」=I missed the fireworks display because I was so busy with work.>>I was totally bummed out! I really wanted to go!
-行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｂフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-B     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｂフロア　やめる=Please select your destination.|<ch:0>    Floor-A     Floor-B     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｂフロアを選択しました。=Selected Floor-B.
 #EVS_M304
@@ -1281,7 +1283,7 @@
 「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this Ramen Stand.>>It's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
 「アスカ、いや、>>セカンドチルドレンを|見かけなかったかい？」=Asuka, er, the Second Children.>>You haven't seen her by any chance, have you?
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>I'm pretty sure I saw her hanging out in the Lounge.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-D     Floor-E     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>    Floor-D     Floor-E     Back
 Ｄフロアを選択しました。=Selected Floor-D.
 Ｅフロアを選択しました。=Selected Floor-E.
 #EVS_M304
@@ -1297,10 +1299,10 @@
 「セカンドチルドレンなら、>>“自販機エリア”で|見かけましたよ」=The Second Children?>>She was in the Lounge last time I saw her.
 「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the Hall on Floor-E.
 「調査班の人達は|空き時間に芦ノ湖へ>>つりに行くらしいですよ」=I hear members of the research team like to go fishing.>>They go to Ashinoko Lake whenever they get any time off.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>    Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>    Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
 #EVS_M305
@@ -1308,15 +1310,15 @@
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=Captain Katsuragi and Dr. Akagi were discussing the upcoming wedding.>>I wonder if they're at the age where they're starting to think about settling down.>>Where are they?>>They said they were going to Dr. Akagi's Office.
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator 3 without a key.
 「カギを手に入れる・・・か」=Where might I get my hands on a key?
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No
-行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-D     Back
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:62>Yes<sp:35>NoNo
+行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｄフロア　やめる=Please select your destination.|<ch:0>    Floor-C     Floor-D     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｄフロアを選択しました。=Selected Floor-D.
 #Asuka
 「あっ、加持さん！<wt:64>|え？<sp:8>加持さんも一緒に行くの？=Hey, Kaji! <wt:64>Wait! Are you going too!?
 ラッキー！！=Lucky!!
 しっかし、ファーストは|何してるのよ。>>今日こそは|引っ張りだすわよ！！>>そうだ、|加持さんも探してよ」=But what's the First doing?>>She's coming today, even if we have to drag her along!!>>Help me look for her.
-エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:59>Yes <sp:32>No#end of halls
+エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:62>Yes<sp:35>NoNo#end of halls
 #Ritsuko
 「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.#start of test chamber
 #Misato
@@ -1348,7 +1350,7 @@
 「どうしようかな・・・。=I don't know...
 あ、加持さ～ん！！」=Hey, Kaji!!
 「加持さん、これから|花火大会に行かない？」=So, um... Do you want to come watch the fireworks?
-アスカに<sp:2>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Asuka?|<ch:0><sp:59>Yes <sp:32>No
+アスカに<sp:2>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Asuka?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「悪い、|みんなで楽しんできてくれ」=I can't, sorry. But you guys have fun without me.
 #Asuka
@@ -1410,7 +1412,7 @@
 「あ、それ、|俺を誘ってるの？」=Oh, is that a proposition I hear?
 #Ritsuko
 「残念でした。|私、また実験なのよ。>>それで、悪いんだけど、>>レイに更新されたＩＤカードを|渡して<sp:8>ほしいのよね。>>たしか、今日なら|家にいるはずよ。>>行ってくれる？」=I'm afraid not. I've still got more tests to run.>>Sorry, but I also wanted to give Rei her renewed ID Card.>>She should be at home today. Could you go for me?
-リツコの依頼を受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Ritsuko's request?|<ch:0><sp:59>Yes <sp:32>No
+リツコの依頼を受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Ritsuko's request?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「悪いけど、|俺もこれから忙しくてね」=Sorry, I can't. I can only spare a few minutes.
 #Ritsuko
@@ -1457,7 +1459,7 @@
 #Misato
 「なによ、|つきあい悪いわね。>>ま、しょうがないか。=What? What terrible social etiquette.>>Well, whatever, I guess.
 あっ、今日これから暇？」=Oh, yeah! Are you free now?
-ミサトに<sp:8>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Misato?|<ch:0><sp:59>Yes <sp:32>No
+ミサトに<sp:8>つきあいますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accompany Misato?|<ch:0><sp:62>Yes<sp:35>NoNo
 「あ、そう。<sp:8>じゃあいいわ」=Oh, okay. That's fine.
 「じゃあ、|買い物つきあってよ」=Okay, come on! We're going shopping.
 #Kaji
@@ -1642,7 +1644,7 @@
 「ありがとう」=Thanks.
 コンピュータを起動した=Booted up computer.
 「新しいメールは、|来ていないみたいだな」=Doesn't look like I have any unread emails.
-朝９時まで<sp:8>ねますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Sleep until 9 AM?|<ch:0><sp:59>Yes <sp:32>No
+朝９時まで<sp:8>ねますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Sleep until 9 AM?|<ch:0><sp:62>Yes<sp:35>NoNo
 「まだ、ねるのは|やめておこう」=Let's stay up a little longer.
 「今日は、もう|ねるとするか！」=Let's call it a day!
 「ふう、<wt:50>よくねた・・・」='Yawn' <wt:50>I slept great.
@@ -1701,7 +1703,7 @@
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but Dr. Akagi too?
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=*Sigh* We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics, you think you could spare me one?
-複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+複合抗生剤を渡しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Give an Antibiotic?|<ch:0><sp:62>Yes<sp:35>NoNo
 「すまない、|いま持ち合わせていないんだ」=Sorry. I don't have any on me right now.
 「そうですか。<sp:8>仕方ない、|部下に取り寄せさせよう」=All right. No worries.>>I'll send one of my subordinates out for some.
 「仕方ない、|部下に取り寄せさせよう」=No worries. I'll send one of my subordinates out for some.
@@ -1794,7 +1796,7 @@
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>マヤ、|よろしく頼むわね」=You can ask Maya here for any further details.>>Now then, I'll leave it to you, Maya.
 #Maya
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=I look forward to working with you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Maya
@@ -1809,7 +1811,7 @@
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>日向くん、|よろしく頼むわね」=You can ask Makoto here for any further details.>>Now then, I'll leave it to you, Makoto.
 #Makoto
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=I look forward to working with you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Makoto
@@ -1825,7 +1827,7 @@
 「後の詳しいことは|オペレーターに聞いてね。>>それじゃ<sp:8>青葉くん、|よろしく頼むわね」=You can ask Shigeru here for any further details.>>Now then, I'll leave it to you, Shigeru.
 #Shigeru
 「よろしくお願いします。>>使徒を育成する方法の|説明を<sp:8>しましょうか？」=I look forward to working with you.>>Shall I explain the method for raising the angel?
-育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:59>Yes <sp:32>No
+育成の説明を聞きますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Listen to the explanation?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Shigeru
@@ -1863,12 +1865,12 @@
 #Shigeru
 「加持さん！！|<name>が危険な状態です！>>薬も<sp:8>きくかどうか・・・。|とにかく、はやく手当てを！」=Kaji!! <name> is in critical|condition!>>The medication might not be effective,>>but we must treat him immediately!
 「ああっ、|薬がありません・・・」=Oh, no! The medicinal reserves are empty.
-　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:59>Yes <sp:32>No
+　複合抗生剤を使いますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Use an Antibiotic?|<ch:0><sp:62>Yes<sp:35>NoNo
 「そんな・・・|このままにしておくなんて！」=That would mean... You're really going to let it suffer like this!?
 「はやく<sp:8>よくなると|いいですね」=I hope his condition improves before too long.
 「ダメです！！|薬が<sp:8>ききません！！>>もう、うつ手が・・・」=No good!! The medication isn't having any effect!!>>There has to be...
 「・・・・・・あっ！！」=...... Ah!!
-セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you|to the title screen.>>Execute save?|<ch:0><sp:59>Yes <sp:32>No
+セーブを実行すると|タイトル画面に戻ります>>セーブを実行しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Executing a save will return you|to the title screen.>>Execute save?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Kaji
 「ど、どうした！|何が起こったんだ？」=Wh-What's going on!? What happened?
 #Shigeru
@@ -2009,9 +2011,9 @@
 「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>>>I'll register it in the Photo Album.
 「今回の使徒の|育成データです」=Here's the recorded data from this test.
 使徒データがいっぱいです。=Angel data full.#context
-上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite?|<ch:0><sp:59>Yes <sp:32>No#context
-このデータに上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite this data?|<ch:0><sp:59>Yes <sp:32>No#context
-今回のデータを登録しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Save current data?|<ch:0><sp:59>Yes <sp:32>No#context
+上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite?|<ch:0><sp:62>Yes<sp:35>NoNo#context
+このデータに上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite this data?|<ch:0><sp:62>Yes<sp:35>NoNo#context
+今回のデータを登録しますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Save current data?|<ch:0><sp:62>Yes<sp:35>NoNo#context
 今回のデータは登録しません。=Current data not saved.#context
 今回のデータを登録します。=Current data saved.#context
 データを上書きします。=Overwrite data.#context
@@ -2019,7 +2021,7 @@
 #Asuka
 「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate|was <perc>%!!>>Good luck trying to view them all!!
 「やったわね！|１００％！<sp:8>おめでとう！！」=You did it!|100% completion!>>Congratulations!!
-このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:59>Yes <sp:32>No
+このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:62>Yes<sp:35>NoNo
 #Maya
 「複合抗生剤を使います。>>はやく、よくなると|いいですね」=Administering Antibiotic.>>I really hope he gets better quickly.
 #Makoto
