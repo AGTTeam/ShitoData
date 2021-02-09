@@ -1150,7 +1150,7 @@
 #Gendo
 「ああ・・・」=Indeed...
 #Fuyutsuki
-「若い連中は、ガマンが|たりんな」=The youth lacks discipline.
+「若い連中は、ガマンが|たりんな」=The youth lack discipline.
 #Gendo
 「ああ・・・」=Indeed...
 「ぬるいな」>>「ああ・・・」=The water's lukewarm.>>Indeed...
@@ -1244,7 +1244,7 @@
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
 #EVS_M301
-「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without authorization from Commander Ikari.#NOTE: last line is a bit too long and the blinking cursor is over the .
+「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without Commander Ikari's authorization.
 「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator 3 on Floor-D takes you to Central Dogma.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
