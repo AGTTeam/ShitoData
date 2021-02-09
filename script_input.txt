@@ -398,15 +398,15 @@
 #Ritsuko
 「あら、加持くん、|こんなところに何の用？」=Hi, Kaji. What are you doing here?
 #Kaji
-「オレも一応、|特殊監査部の一員なんでね」=I'm a temporary member of the special inspections department, you know.#NOTE: last word goes to a new textbox
+「オレも一応、|特殊監査部の一員なんでね」=I'm a temporary member of the special inspections department.
 #Ritsuko
 「その話は司令を通じて、|話がついてるはずだわ」=Everything has already been approved by the Commander.
 #Kaji
 「ま、肩書きを利用した|一般見学だよ、>>気にしないでくれ」=I'm just using my title to take a little field trip. That's all.>>There's nothing to fret over.
 #Ritsuko
-「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=This is incredibly valuable data.>>I am very much looking forward to seeing the results of the genetic analysis.#NOTE: last word goes to a new textbox
+「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=This is incredibly valuable genetic data.>>I am very much looking forward to seeing the results of the analysis.
 #Kaji
-「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, Ritchan, but>>I've been hearing some harsh words about you around the water cooler.#NOTE: moved but to the line before since cooler didn't fit, there might be a better way to rephrase it to fit
+「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, Ritchan, but...>>I've been hearing some harsh words about you around the water cooler.
 #Ritsuko
 「まあね。気にしないわ、|そんなことは」=I know. I'm not concerned with that sort of thing.
 #Kaji
@@ -1245,7 +1245,7 @@
 「使徒の残骸ですか？>>ああ、騒いでるのは|１課の連中だけ。>>わたし達<sp:4>２課や、３、４課は|関係ないですよ」=The angel wreckage?>>Yeah, Group 1 is making a big stink about it.>>The rest of us in Groups 2, 3, and 4 aren't getting ourselves involved.#start of lab
 #Kaji
 「さめてるなあ」=You don't seem too concerned.
-「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=You got that right.>>The form and attack method of all the angels so far have been>>entirely unique each time, you know?
+「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=You got that right.>>The form and attack method has been unique each time.>>Not two angels have been the same, you know?
 「リッちゃん、いや、>>赤木博士は|その残骸のところ？」=And Ritchan, er, Dr. Akagi, is she at the wreckage?
 「ええ、北東地区の|“仮設小屋”です」=Yeah. They've set up a makeshift Cabin.
 「兵器開発の方にもっと予算を|さいてほしいよなぁ」=I wish they'd spare a little more of the budget for weapons development.#context
@@ -1266,7 +1266,7 @@
 「さて、後かたづけしないと」=Well, I need to get this cleaned up.
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Ah, Kaji, Dr. Akagi is here right now.
 #SI_2_E1
-「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=Don't let Dr. Akagi catch you fiddling with MAGI without her permission>>She will be furious!#NOTE: first line is a bit too long, also missing punctuation maybe?
+「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=Don't let Dr. Akagi catch you fiddling with MAGI.>>She will be furious!
 「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us,>>but I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
 「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's Office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.#end of lab
