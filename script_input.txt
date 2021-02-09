@@ -272,8 +272,9 @@
 「・・・遠慮しておきます」=Buzz off, creep!
 「・・・・・・」=......
 「ごめんなさい。|・・・１人にして下さい」=Excuse me, but I want to be left alone.#end of park
+#SI_1_E5
 #Toji
-「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at New Hakone Station!>>I bet he's thinking about leaving. It sounds like Ms. Misato was yelling at him.>>Something about he shouldn't be piloting an Eva if his heart isn't in it.>>That guy can't do anything by himself!#start of school
+「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at New Hakone Station!>>I bet he's thinking about leaving. Ms. Misato was yelling at him.>>Something about he shouldn't be an Eva pilot if his heart isn't in it.>>That guy can't do anything by himself!#start of school
 #Kensuke
 「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=So he isn't going to be piloting the Eva anymore, huh?
 #Toji
@@ -435,6 +436,7 @@
 「ああ、似合うよ」=Absolutely stunning.
 #Misato
 「へへ、じゃあ、|これにしよう」=Hehe, okay, I'll go with this one!#end of clothing store
+#EVS_M090
 #Makoto
 「ホント、ズボラな人だな|葛城さんも。>>自分の洗濯ものくらい、|自分で取りに行きゃいいのに」=That Katsuragi is such a slob.>>As much laundry as she has, she should take care of it herself.#start of laundromat
 #Ritsuko
@@ -845,6 +847,7 @@
 「ふう。|少し飲み過ぎたかな」=Whew... I think I drank a little too much.
 「ふう、どうするかな？」=Whew... Where to now?
 「ふう、どうするかな？」=Whew... Where to now?
+#EVS_M230
 「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the Cage,>>and just after that she was in the Lounge.
 「？？？|あるくのが<sp:8>はやいのかな？」=Hm...|Maybe she just walks fast.
 「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card...|<wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.#end of gate
@@ -872,6 +875,7 @@
 「・・・遠慮しておきます」=... <wt:50>I'll pass.
 「・・・・・・」=......
 「ごめんなさい」=Sorry.#end of clinic
+#SI_1_E4
 #Asuka
 「あっ、加持さ～ん！」=Hey, Kaji!#start of lounge
 #Kaji
@@ -903,6 +907,7 @@
 「あ～あ、つまんないの」=Aw, that's no fun.
 「あ～あ、つまんないの」=You're no fun.
 「ラッキー！！|早く行こう！！」=It's my lucky day!! Come on! Let's go!!
+#EVS_M304
 #Kaji
 「やっぱり、自販機も|使えないのかな・・・」<wt:40>=The vending machines aren't working either...<wt:40>
 「おっと・・・」=Woah...
@@ -961,10 +966,11 @@
 「・・・」=...
 #Kaji
 「あぶない|ところだった・・・」=That was a close one...#end of lounge
+#SI_1_E2
 #Misato
 「・・・シンジ君、|今朝から姿が見えないのよ」=... I haven't seen any sign of Shinji since this morning.#start of command center
 #Ritsuko
-「何か心あたりはあるの？>>きのう、手料理でも|食べさせたんじゃない？」=And you have no idea why he might have left?>>You made dinner last night, didn't you? Maybe he couldn't stomach it anymore.
+「何か心あたりはあるの？>>きのう、手料理でも|食べさせたんじゃない？」=And you have no idea why he might have left?>>You made dinner last night, didn't you?>>Maybe he couldn't stomach it anymore.
 #Misato
 「こんなときに|冗談はやめてよ！！」=This is no time for jokes!!
 #Ritsuko
@@ -1138,12 +1144,13 @@
 #Shigeru
 「加持さん。|育成の調子は<sp:6>どうですか？」=Kaji. Is <name>'s|growth progressing well?
 「あっ、加持さん。|お疲れ様です」=Ah, Kaji. Done for the day?#end of command center
+#EVS_M304
 #Fuyutsuki
 「空調が止まったな」=The ventilation shut off.#start of commander's chair
 #Gendo
 「ああ・・・」=Indeed...
 #Fuyutsuki
-「若い連中は、ガマンが|たりんな」=The youth lack discipline.
+「若い連中は、ガマンが|たりんな」=The youth lacks discipline.
 #Gendo
 「ああ・・・」=Indeed...
 「ぬるいな」>>「ああ・・・」=The water's lukewarm.>>Indeed...
@@ -1236,7 +1243,8 @@
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｂフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-B     Floor-C     Back
 Ｂフロアを選択しました。=Selected Floor-B.
 Ｃフロアを選択しました。=Selected Floor-C.
-「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without authorization from Commander Ikari.
+#EVS_M301
+「３号エレベーターは、>>碇司令の許可がないと|使えません。>>特別なロックが|掛かってるんです」=There's a special lock on Elevator 3.>>Nobody can use it without authorization from Commander Ikari.#NOTE: last line is a bit too long and the blinking cursor is over the .
 「ＦＬＯＯＲ＿Ｄにある|３号エレベーターは、>>セントラルドグマに|通じています」=Elevator 3 on Floor-D takes you to Central Dogma.
 行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｃフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-C     Back
 Ａフロアを選択しました。=Selected Floor-A.
@@ -1247,11 +1255,13 @@
 「近々、職員の募集を|するらしいですよ。>>いま事務局が>>告知のポスターを|つくってるらしいんですよ。>>今年は誰がモデルを|やるんですかね？」=I hear we're going to be recruiting new staff soon.>>Which means the secretariat will be making an announcement poster.>>I wonder who will be the model this year.
 「あっ、加持さん！|ポスターのモデルは誰でした？>>えっ！<wt:25>|<ch:6>赤木・・・博士・・・？>>そ、そうですか。|いや、あまりに意外なもので。>>ちょっとビックリでした」=Hey, Kaji! Who ended up being the model for the poster?>>What!? <wt:25><ch:6>Dr.<wt:25>Akagi<wt:25>?>>R-Really? No, I'm not complaining. I just wasn't expecting that.
 「赤木博士・・・・・・」=Dr. Akagi......
+#EVS_M302
 「近々、芦ノ湖で|花火大会があるそうですよ。>>私、すごく楽しみに|してるんです！」=There's a fireworks show coming up at Ashinoko Lake.>>It's gonna be so much fun!
 「仕事が忙しくて、|花火大会に行けませんでした。>>ちょ～ショックですぅ～。|行きたかったなぁ」=I missed the fireworks display because I was so busy with work.>>I was totally bummed out! I really wanted to go!
 行き先を<sp:8>選択して下さい。|<ch:0>　Ａフロア　Ｂフロア　やめる=Please select your destination.|<ch:0>   Floor-A     Floor-B     Back
 Ａフロアを選択しました。=Selected Floor-A.
 Ｂフロアを選択しました。=Selected Floor-B.
+#EVS_M304
 「前見るんじゃないわよ」=I told you not to look!
 「しょうがないじゃないか」=Like I have a choice!
 「うわっ」=Waaah!
@@ -1265,6 +1275,7 @@
 「おっ！？」=Well, look at that!
 「やっと、なおったみたいだな。=Looks like the issue's been resolved.
 たすかった。|これで他のフロアに行ける」=Thank goodness. Now I can go to another floor.
+#EVS_M303
 「今、インターネットに|はまってまして。>>毎日、家に帰ってから|メールのチェックするのが>>楽しみでしょうがないんですよ。>>加持さんも、メールはこまめに|チェックした方がいいですよ」=I'm crazy about the Internet these days.>>All I can think about all day is going home to check my email.>>You should be sure to check your email frequently as well, Kaji.
 「セカンドチルドレンですか？>>セカンドチルドレンなら、>>フロアＥのエレベーター|ホールで見かけましたけど」=The Second Children?>>I'm pretty sure I saw her in the Hall on Floor-E.
 「あ、加持さん。|なんか最近、>>市外にあるラーメン屋台が|ＮＥＲＶ内で評判なんですよ。>>加持さんも一度行ってみると|イイですよ。>>とっても、おいしいんで」=Oh, Kaji. Like, there's this Ramen Stand.>>It's been pretty popular with the NERV staff recently.>>You should totally come with us some time!>>It's really yummy.
@@ -1273,6 +1284,7 @@
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｄフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-D     Floor-E     Back
 Ｄフロアを選択しました。=Selected Floor-D.
 Ｅフロアを選択しました。=Selected Floor-E.
+#EVS_M304
 「！？」=!?
 「停電か・・・！？」=A blackout!?
 「赤木が今日の実験で|ミスったのかな？」=Did Akagi botch one of today's tests?
@@ -1291,6 +1303,7 @@
 行き先を<sp:8>選択して下さい。|<ch:0>　Ｃフロア　Ｅフロア　やめる=Please select your destination.|<ch:0>   Floor-C     Floor-E     Back
 Ｃフロアを選択しました。=Selected Floor-C.
 Ｅフロアを選択しました。=Selected Floor-E.
+#EVS_M305
 「あ、加持さん。|お疲れさまです」=Oh, Kaji. How's it going?
 「葛城一尉と赤木博士が、|結婚式の話をしてましたよ。>>２人とも、そういうのが|気になる年齢なんですかねぇ。>>葛城一尉と赤木博士ですか？>>“赤木博士の研究室”に行くって|言ってましたよ」=Captain Katsuragi and Dr. Akagi were discussing the upcoming wedding.>>I wonder if they're at the age where they're starting to think about settling down.>>Where are they?>>They said they were going to Dr. Akagi's Office.
 「・・・！？>>特別なロックが掛かっている|みたいだな。>>どうにかして|カギを手に入れないと、>>３号エレベーターは使えないか」=...!?>>Looks like there's some kind of lock.>>I won't be using Elevator 3 without a key.
@@ -1581,6 +1594,7 @@
 「ぼちぼち、かな」=Hard to say.
 #Misato
 「そう。|じゃ、そろそろ行くわ」=All right. Well, I'm going to go.
+#SI_1_E1
 「青葉さんって、|バンドやってるらしいですよ。>>知ってました？>>こんなに忙しいのに、|よく練習する時間があるなぁ」=It turns out Aoba plays in a band.>>Did you know that?>>I can't believe he finds the time to practice despite being so busy.
 「他の場所で採取した、特別な|Ｌ．Ｃ．Ｌを使用すると、>>育成に|どんな影響を及ぼすのか？>>ためしてみる価値は|あるかもしれませんね」=If we utilized a special LCL harvested from another location...>>I wonder how it might affect growth...>>Could be worth a shot.
 「何か特別な物体を|育成に使用すると、>>使徒の成体進化の可能性も|変わってくるかも・・・」=If you used a special growth item on the angel,>>it could change its potential evolution as it reaches maturity.
