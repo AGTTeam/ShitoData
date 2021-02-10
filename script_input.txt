@@ -1979,12 +1979,13 @@
 「ど、どうした！|何が起こったんだ？」=Wh-What's going on!? What happened?
 #Shigeru
 「わ、<wt:50>わかりません！<wt:50>|モニターにも映らないし、>>各種センサーにも|反応しません！>>・・・完全に・・・|消失？」=I... <wt:50>I'm not sure! <wt:50>There's nothing showing up on the monitor,>>and none of our sensors are responding either!>>... It's gone... Vanished.
+#Ending ICSEA->Q
 #Fuyutsuki
-「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>We did not trigger the Third Impacy.>>I suppose we should be thankful for that at the very least.>>It seems to be targeting our location just as the angels do.>>What are your orders?
+「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>We did not trigger the Third Impact.>>I suppose we should be thankful for that at the very least.>>It seems to be targeting our location just as the angels do.>>What are your orders?
 #Gendo
 「殲滅するだけだ」=Eradicate it.
 #Fuyutsuki
-「生きた使徒のサンプル・・・|やはり、無謀だったな」=That's a living angel sample... Don't be rash.
+「生きた使徒のサンプル・・・|やはり、無謀だったな」=That's a living angel sample...|Don't be rash.
 #Gendo
 「あれは、|死海文書にある使徒だ。>>使徒の侵攻を阻止する。>>そのためのＮＥＲＶだ」=That is an angel spoken of in the Dead Sea Scrolls.>>Thwarting their invasion is precisely NERV's purpose.
 #Fuyutsuki
@@ -1995,6 +1996,7 @@
 「葛城一尉、|ＥＶＡの発進準備をさせろ」=Captain Katsuragi, prepare the Eva for launch.
 #Misato
 「・・・了解しました。|発進準備！！」=... Understood.|Prepare for launch!!
+#Ending (after UN aviation unit)
 #Shigeru
 「航空隊、全滅！>>使徒は依然侵攻中、間もなく、|市内中心部に到達！！」=Aviation units down!>>The angel is still advancing toward our position!>>Arrival at the city center imminent!!
 #Misato
@@ -2007,21 +2009,23 @@
 「はい」=Yes.
 #Misato
 「零号機、発進！！」=Unit-00, launch!!
+#Ending (after Unit-00)
 #Shigeru
 「零号機、完全に次黙！！」=We've lost contact with Unit-00!!
 #Misato
-「エントリープラグ強制射出！|パイロットは？」=Force Entry Plug ejection! Pilot's status?
+「エントリープラグ強制射出！|パイロットは？」=Force Entry Plug ejection!|Pilot's status?
 #Maya
-「射出完了！|パイロット生存確認！！」=Ejection complete! Pilot's vitals stable!!
+「射出完了！|パイロット生存確認！！」=Ejection complete!|Pilot's vitals stable!!
 #Asuka
-「なにグズグズしてんのよ！|弐号機、出るわよ！！」=What are you waiting for!? Send out Unit-02!!
+「なにグズグズしてんのよ！|弐号機、出るわよ！！」=What are you waiting for!?|Send out Unit-02!!
 #Makoto
 「使徒、|ジオフロント内に侵入！！」=The angel has invaded the GeoFront!!
 #Misato
-「アスカ、頼んだわ！|ここで止めるのよ！！」=I'm counting on you, Asuka! It must be stopped!!
+「アスカ、頼んだわ！|ここで止めるのよ！！」=I'm counting on you, Asuka!|It must be stopped!!
 #Asuka
 「わかってる！|わたしにまかせといて！！=Got it! Leave it to me!!
 弐号機、出撃します！！」=Unit-02, sortied!!
+#Ending (after Unit-02)
 #Shigeru
 「弐号機、完全に次黙！！」=We've lost contact with Unit-02!!
 #Misato
@@ -2031,9 +2035,10 @@
 #Shinji
 「ミサトさん！<sp:8>アスカは！！」=Ms. Misato! Asuka, she...
 #Misato
-「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered the headquarters and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve. It's up to you now!!
+「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered the headquarters and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve.|It's up to you now!!#NOTE: "Central Dogma." doesn't fit
 #Shinji
-「・・・わかりました。|初号機、出ます！！」=... I understand. Unit-01, moving out!!
+「・・・わかりました。|初号機、出ます！！」=... I understand.|Unit-01, moving out!!
+#Ending (after Unit-01)
 #Shigeru
 「パ、パイロットの生存反応|・・・ありません」=P-Pilot's heart rate... flatlining.
 #Makoto
@@ -2053,8 +2058,9 @@
 「使徒、ターミナルドグマに|突入！！>>初号機も追いつきます！！」=The angel has infiltrated Terminal Dogma!!>>Unit-01 in pusuit!!
 #Misato
 「・・・・・・」=......
+#Ending ICSEA->Q (after battle)
 #Kaji
-「今回、えられた成果といえば、|所詮<sp:8>使徒は、われわれ、>>人類の手にはおえないという|教訓だけということですか」=What did we gain from this catastrophe?>>We've learned that the angels are beyond the reach of humankind.>>After all that's happened... Is that it?
+「今回、えられた成果といえば、|所詮<sp:8>使徒は、われわれ、>>人類の手にはおえないという|教訓だけということですか」=What did we gain from this catastrophe?>>We've learned that the angels are beyond the reach of humankind.>>After all that's happened...|Is that it?
 #Gendo
 「いや、|あながち失敗ともいえん。>>貴重なデータがえられたのだ。>>失敗を恐れていたら|何も進まん」=No, it was not altogether a failure.>>We were able to procure some valuable data.>>Progress cannot be made if we allow the fear of failure to paralyze us.
 #Kaji
@@ -2069,20 +2075,26 @@
 「・<wt:25>・<wt:25>・<wt:25>・<wt:25>・<wt:25>・、<wt:50>=.<wt:25>.<wt:25>.<wt:25>.<wt:25>.<wt:25>.<wt:50>
 えっ？」=Come again?
 ＴＯ　ＢＥ|　ＣＯＮＴＩＮＵＥＤ．．．=TO BE|CONTINUED...
+#Ending ICSER (Iruel)
 #Shigeru
 「メルキオール、バルタザール|ハッキングされました！！>>カスパーにも侵入を開始！！」=Melchior and Balthasar have been taken over!!>>They're hacking further into Casper!!
 「大丈夫、１秒近くも|余裕があるわ！！」=Don't worry. We have almost a whole second to spare.
 #Ritsuko
-「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=Misato, I can't ever remember when your horrid coffee tasted so wonderful.
+「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=Misato, I can't ever remember when your horrid coffee tasted so wonderful.#NOTE: "wonderful." doesn't fit
+#Ending ICSES (Kaworu), NOTE: ICSEU is the Light Giant ending, only has images and no dialogue
 「僕は君にあうために|生まれてきたのかもしれない」=Perhaps I was born to one day meet you.
 「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction>>and have the future bestowed upon it.
+#Ending ICSET (Rei)
 「さあ、行こう。>>今日、この日のために|おまえはいたのだ、レイ」=Let's go.>>This is the day you were born for, Rei.
 「はい」=Yes, sir.
+#Ending ICSEW (Pen Pen)
 #PenPen
 「アギャー、アギャー」=Gwah, gwawah!
 #Kaji
 「え、一緒に来たいって？|しょうがないなあ・・・」=What's that? You want to stay with me?>>I guess I don't really have much of a choice...
-「ただいま」=I'm back.#context
+#Ending ICSEV (Lilith)
+「ただいま」=I'm back.
+#Ending (after raising all angels)
 #Gendo
 「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=You've successfully raised all the angels... Your mission is complete.>>Excellent work!
 #Misato
@@ -2112,7 +2124,7 @@
 #Fuyutsuki
 「おめでとう」=Congratulations.
 #Ritsuko
-「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised <angl>>>I'll register it in the Photo Album.
+「今回は<angl>|の育成に成功しました。>>図鑑に登録します」=You successfully raised|<angl>>>I'll register it in the Photo Album.#Added a line break here since "Kaworu Nagisa" didn't fit.
 「今回の使徒の|育成データです」=Here's the recorded data from this test.
 使徒データがいっぱいです。=Angel data full.#context
 上書きしますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Overwrite?|<ch:0><sp:62>Yes<sp:35>No#context
@@ -2139,11 +2151,11 @@
 #Shigeru
 「加持さん、どうなるか|わかりませんよ！！」=Kaji, we don't know what that might do!!
 #Maya
-「<item>を|使います」=Using <item>.
+「<item>を|使います」=Using <item>
 #Makoto
-「<item>を|使います」=Using <item>.
+「<item>を|使います」=Using <item>
 #Shigeru
-「<item>を|使います」=Using <item>.
+「<item>を|使います」=Using <item>
 #Maya
 「加持さん、ここで|使わないでください」=Kaji, please don't use that here.
 #Makoto
