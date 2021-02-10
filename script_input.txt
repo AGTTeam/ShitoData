@@ -2035,7 +2035,7 @@
 #Shinji
 「ミサトさん！<sp:8>アスカは！！」=Ms. Misato! Asuka, she...
 #Misato
-「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered the headquarters and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve.|It's up to you now!!#NOTE: "Central Dogma." doesn't fit
+「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered HQ and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve.|It's up to you now!!
 #Shinji
 「・・・わかりました。|初号機、出ます！！」=... I understand.|Unit-01, moving out!!
 #Ending (after Unit-01)
@@ -2080,7 +2080,7 @@
 「メルキオール、バルタザール|ハッキングされました！！>>カスパーにも侵入を開始！！」=Melchior and Balthasar have been taken over!!>>They're hacking further into Casper!!
 「大丈夫、１秒近くも|余裕があるわ！！」=Don't worry. We have almost a whole second to spare.
 #Ritsuko
-「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=Misato, I can't ever remember when your horrid coffee tasted so wonderful.#NOTE: "wonderful." doesn't fit
+「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=I can't ever remember when your horrid coffee tasted so wonderful.
 #Ending ICSES (Kaworu), NOTE: ICSEU is the Light Giant ending, only has images and no dialogue
 「僕は君にあうために|生まれてきたのかもしれない」=Perhaps I was born to one day meet you.
 「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction>>and have the future bestowed upon it.
