@@ -2092,13 +2092,9 @@
 「アギャー、アギャー」=Gwah, gwawah!
 #Kaji
 「え、一緒に来たいって？|しょうがないなあ・・・」=What's that? You want to stay with me?>>I guess I don't really have much of a choice...
-<<<<<<< Updated upstream
 #Ending ICSEV (Lilith)
 「ただいま」=I'm back.
 #Ending (after raising all angels)
-=======
-「ただいま」=I'm back.
->>>>>>> Stashed changes
 #Gendo
 「すべての使徒の育成に成功|・・・君の任務は終了した。>>ご苦労だった」=You've successfully raised all the angels... Your mission is complete.>>Excellent work!
 #Misato
