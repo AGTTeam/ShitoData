@@ -98,7 +98,7 @@
 #Shinji
 「フハーッ、|窒息するかと思った」=Fwah! I thought I might suffocate.
 #Asuka
-「うえっ、やっぱり暇つぶしで|やるもんじゃないわ」=Blech! That's definitely not something you should do to kill time!#NOTE: the last 2 characters fit but are over the blinking cursor.
+「うえっ、やっぱり暇つぶしで|やるもんじゃないわ」=Blech! Definitely not something you should do to kill time!
 #Shinji
 「あ、<wt:25>あの、<wt:50>ミサトさんなら、|い、<wt:25>いませんよ」=U-<wt:25>Um... <wt:50>If you're looking for Ms. Misato, sh-<wt:25>she isn't here.
 #Asuka
@@ -124,7 +124,7 @@
 #Misato
 「ま、いいじゃないの。|洞木さんも食べていってよ」=No harm, no foul. And Hikari is welcome to eat with us.
 #Hikari
-「はい、それじゃ、|ごちそうになります」=Thanks. It smells good, I can't wait.
+「はい、それじゃ、|ごちそうになります」=Thanks. It smells good.|I can't wait.
 #Toji
 「シンジくんは|いてはりますか」=Is Shinji around?
 #Asuka
@@ -162,7 +162,7 @@
 #Misato
 「肉は食べなくていいから、>>野菜もたくさんあるから|大丈夫よ」=You don't have to eat any meat if that's why.>>We have plenty of vegetables too.
 #Kaji
-「滅多にないことなんだから、|綾波も食べてけよ」=Eat with us, Rei. It's not too often we have everyone together like this.#NOTE: last 2 characters are over the blinking cursor
+「滅多にないことなんだから、|綾波も食べてけよ」=Eat with us, Rei. We never get everyone together like this.
 #Rei
 「・・・・」=....
 #Kaji
@@ -239,7 +239,7 @@
 「ええ、まあ」=You could say that.#end of Misato's apartment
 #SI_3_E5
 「戦自の上層部は抑えた」=The defense force's top brass want results.#start of field
-「これがディスク。>>金はダミーをとおして|渡るようにしてある」=Money's being passed through dummy companies.>>It's all here on this Disk.
+「これがディスク。>>金はダミーをとおして|渡るようにしてある」=Money's being passed through dummy companies.>>It's all here on this DVD.
 「了解した。|それと、こちらからの仕事だ。>>マルドゥック機関を洗う。>>こちらからの連絡が入りしだい|動くようにしてくれ」=Understood.>>For the time being, you're to look into the Marduk Institute.>>Be ready to move the moment we contact you.
 「わかった」=Okay.
 「こちらからの連絡が入りしだい|動くようにしてくれ」=Be ready to move the moment we contact you.
@@ -716,7 +716,7 @@
 「情報操作したものをですね」=Information manipulation?
 #Gendo
 「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=Correct. There's no specific aim,>>but it could prove useful.
-　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD Disk!
+　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD!
 #Kaji
 「・・・」=...
 #Gendo
@@ -921,7 +921,7 @@
 「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third one...
 「たぶん、わたしは|３人目だと思うから・・・」=I think I might be the third one...
 #Itm3_E1
-「赤木博士から遺伝データの|分析を頼まれているんだ。>>申し訳ないが、|赤木博士のところから>>ＤＶＤディスクをとってきて|くれないかね？」=Dr. Akagi requested that I analyze some genetic data, but,>>and I hate to ask, but do you think you could get the DVD Disk from her for me?#too long
+「赤木博士から遺伝データの|分析を頼まれているんだ。>>申し訳ないが、|赤木博士のところから>>ＤＶＤディスクをとってきて|くれないかね？」=Dr. Akagi requested that I analyze some genetic data.>>I hate to ask, but...>>Do you think you could get the DVD from her for me?#too long
 「よろしく、頼むよ」=I'd really appreciate it.
 #Itm3_E4
 「これだよ！<sp:8>ありがとう。>>そうだ！|お礼に、これを<sp:8>あげよう」=That's it! Thanks.>>I should do something for you... Take this!
@@ -929,7 +929,7 @@
 #Kaji
 「いやあ、別にいいですよ」=That's okay. You really don't have to...
 （こんなもの<sp:8>もらって|どうしろって<sp:8>いうんだよ！）=(What am I supposed to do with this?)
-「何を言うんだ！！>>科学の基礎は|実験による実証だ。>>君も、それで科学する心を|やしないたまえ！！」=Nonsense!!>>Substantiation through experimentation is the foundation of science.>>Use it to nourish your scientific curiosity!#"science." doesn't fit in the 2nd line
+「何を言うんだ！！>>科学の基礎は|実験による実証だ。>>君も、それで科学する心を|やしないたまえ！！」=Nonsense!!|Think of the science.>>Substantiation through experimentation is its foundation.>>Use it to nourish your scientific curiosity!
 「はあ・・・」=Right...
 「大切に使うんだぞ」=Don't let all the power that Beaker provides go to your head.
 「どうした？|体の調子でも悪くしたかい？」=Is something the matter? Do you feel sick?
@@ -1080,8 +1080,8 @@
 「戦自も<sp:8>おカタいからなあ」=The defense force is just as unyielding, huh?#context
 #SI_5_E1
 #Misato
-「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=The two of you will be training to pull off a dual-Eva attack.>>It won't cut it to have you acting on your own forever.>>Therefore, I have devised an attack pattern which perfectly matches this music.>>I want the two of you to memorize it.>>That's why...#NOTE: "music." doesn't fit
-二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=the two of you will be doing everything together until further notice.#split line, NOTE:"notice." doesn't fit
+「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=The two of you will be training to pull off a dual-Eva attack.>>It won't cut it to have you acting on your own forever.>>I've devised an attack pattern which perfectly matches this music.>>I want the two of you to memorize it.>>That's why
+二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=the two of you will be doing everything together.#split line
 #Asuka
 「えええええぇぇぇっ！！！」=Whaaaaaaat!!!
 #Shinji
@@ -1106,13 +1106,13 @@
 #Maya
 「ほんと、感動です！」=She's so inspirational!
 #Makoto
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=Dr. Akagi was toying around with MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Normally, it would take even an exceptional engineer a whole day to do that.
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=Dr. Akagi was toying around with MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Normally, it would take even an exceptional engineer a whole day.
 #Kaji
 「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Makoto
 「“総合分析所”にいますよ」=She's in the Analysis Lab.
 #Maya
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=Dr. Akagi tested MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Even our most brilliant engineers might not have succeeded given a whole day.#NOTE: "whole day." doesn't fit, maybe also in the line above?
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=Dr. Akagi tested MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Even our best engineers might not have succeeded given a day.
 #Kaji
 「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Maya
@@ -1425,7 +1425,7 @@
 #Asuka
 「ハー、終わった、終わった」=*Sigh* It's finally over.
 #Misato
-「そういえば、今日、芦ノ湖で|花火大会があるんだって。>>見にいかない？」=By the way,>>I heard there's going to be a fireworks display at Ashinoko Lake today.>>Wanna come?#NOTE: "today." doesn't fit
+「そういえば、今日、芦ノ湖で|花火大会があるんだって。>>見にいかない？」=By the way...>>There's going to be a fireworks display at Ashinoko Lake today.>>Wanna come?
 #Shinji
 「いいですね」=That sounds like fun.
 #Asuka
@@ -1540,7 +1540,7 @@
 #Misato
 「明日は<sp:8>でるの？」=You going tomorrow?
 #Kaji
-「いや、ちょっと|でれないな」=No, I'll be tied up all day.#Removed tomorrow since Misato just said it in the last line
+「いや、ちょっと|でれないな」=No, I'll be tied up all day.
 #Misato
 「なによ、|つきあい悪いわね。>>ま、しょうがないか。=What? What terrible social etiquette.>>Well, whatever, I guess.
 あっ、今日これから暇？」=Oh, yeah! Are you free now?
@@ -1549,11 +1549,11 @@
 「じゃあ、|買い物つきあってよ」=Okay, come on! We're going shopping.
 #Itm3_E2A
 #Kaji
-「中央病院の先生に|ＤＶＤディスクを>>持ってくるように|頼まれたんだけど」=The doctor in the Clinic asked if I'd come get the DVD Disk from you.
+「中央病院の先生に|ＤＶＤディスクを>>持ってくるように|頼まれたんだけど」=The doctor in the Clinic asked if I'd come get the DVD from you.
 #Ritsuko
 「ええ、そこのデスクの上に|あるから。<sp:8>頼むわね」=Right. It's on that desk there. Go ahead and take it.
-　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD Disk!
-「ＤＶＤディスクは、ちゃんと|届けてくれた？」=Were you able to deliver the DVD Disk?
+　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD!
+「ＤＶＤディスクは、ちゃんと|届けてくれた？」=Were you able to deliver the DVD?
 #SI_29_E4
 #Kaji
 「よう、お疲れさん！！」=Hey, how's it going?
@@ -1793,7 +1793,7 @@
 #Shinji
 「・・・・・・・」=.......
 #SI_12_E1 (Upper right of the map)
-「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor, but I heard something about Dr. Akagi.>>Apparently, those blackouts that happen sometimes are caused by her tests...>>I guess even she isn't immune to failure.#NOTE: "tests..." doesn't fit
+「うわさに聞いた話|なんですけど、>>時々起こる停電は、>>赤木博士の実験が|原因らしいですよ・・・。>>赤木博士でも失敗することが|あるんですね」=It's only a rumor, but I heard something about Dr. Akagi.>>Apparently, those blackouts are because of her tests...>>I guess even she isn't immune to failure.
 #SI_13_E1 (Upper right of the map)
 #Kaji
 「ファーストチルドレンが|どこへ行ったか、>>知らないか？」=Any idea where the First Children went?
@@ -1801,7 +1801,7 @@
 #SI_12_E1 (Upper left of the map)
 「あ～あ。<sp:8>この作業着、>>そろそろクリーニングに|出さないと・・・」=*Sigh* I've really got to send these fatigues out for cleaning...
 「誰かに洗ってもらえば？」=What if someone else washed them for you?
-「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to send their clothes out for cleaning.#NOTE: "cleaning." doesn't fit
+「誰も洗ってくれませんよ、|仕事が忙しくて。>>葛城さんや<sp:8>赤木博士も|クリーニングに出すほうが>>てっとりばやいって・・・」=Like who? We're all too busy.>>Even Katsuragi and Dr. Akagi could stand to clean their clothes.
 「葛城は<sp:8>わかるけど・・・」=Katsuragi, I'm not surprised, but Dr. Akagi too?
 「あ～あ、>>緊急時の手動発進訓練|だけはやだなぁ」=*Sigh* We've only drilled the manual launch a single time.>>That just isn't going to cut it if there's ever an emergency.
 「あっ、加持さん！>>複合抗生剤を持ってたら、>>ゆずって<sp:8>いただけませんか？」=Ah, Kaji!>>If you've got any Antibiotics, you think you could spare me one?
@@ -1846,7 +1846,7 @@
 #Kaji
 「どっちかな」=Good question.
 #Misato
-「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji,>>belonging to the Japanese Home Ministry's Department of Investigations.#NOTE "Investigations." doesn't fit
+「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji,>>the Japanese Home Ministry's Department of Investigations.
 #Kaji
 「君にもバレバレか」=I guess you know everything.
 #Misato
@@ -2035,7 +2035,7 @@
 #Shinji
 「ミサトさん！<sp:8>アスカは！！」=Ms. Misato! Asuka, she...
 #Misato
-「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered the headquarters and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve.|It's up to you now!!#NOTE: "Central Dogma." doesn't fit
+「シンジくん、|アスカは無事よ！！>>よく聞いて、シンジくん。>>使徒は本部内に侵入、|セントラルドグマを移動中よ。>>セントラルドグマで|使徒を食い止めて！！>>あなたが最後の切り札なの、|まかせたわよ！！」=Asuka is safe for now!!>>Listen carefully, Shinji.>>The angel has entered HQ and is approaching Central Dogma.>>We can't allow it to get any further!!>>You're our ace in the sleeve.|It's up to you now!!
 #Shinji
 「・・・わかりました。|初号機、出ます！！」=... I understand.|Unit-01, moving out!!
 #Ending (after Unit-01)
@@ -2080,7 +2080,7 @@
 「メルキオール、バルタザール|ハッキングされました！！>>カスパーにも侵入を開始！！」=Melchior and Balthasar have been taken over!!>>They're hacking further into Casper!!
 「大丈夫、１秒近くも|余裕があるわ！！」=Don't worry. We have almost a whole second to spare.
 #Ritsuko
-「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=Misato, I can't ever remember when your horrid coffee tasted so wonderful.#NOTE: "wonderful." doesn't fit
+「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=I can't ever remember when your horrid coffee tasted so wonderful.
 #Ending ICSES (Kaworu), NOTE: ICSEU is the Light Giant ending, only has images and no dialogue
 「僕は君にあうために|生まれてきたのかもしれない」=Perhaps I was born to one day meet you.
 「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction>>and have the future bestowed upon it.

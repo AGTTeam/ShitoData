@@ -129,10 +129,10 @@
 ＮＥＲＶのＩＤカード=NERV ID card
 机のカギ=Desk Key
 ゲンドウのデスクのカギ=Key to Gendo's desk
-ＤＶＤディスク=DVD Disc
+ＤＶＤディスク=DVD
 使徒の遺伝データの入った=Contains angel genetic data
 ディスク=!
-ＤＶＤディスク=DVD Disc
+ＤＶＤディスク=DVD
 ＮＥＲＶのニセ情報の=Contains falsified info
 ディスク=on NERV
 アイテムがありません=No item
