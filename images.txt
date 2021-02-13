@@ -9,7 +9,7 @@ bank_08_01=682,1e42,1,1
 
 !FILE:bank_09.bin
 bank_09_01=585e,712e,1,1
-bank_09_02=c060,d990
+bank_09_02=c060,d990,32
 
 !FILE:bank_13.bin
 bank_13_01=f6c,17bc,27
