@@ -80,7 +80,7 @@
 アップミンＩＱ=IQ VitamUP
 知能指数を上昇させる薬=Increases IQ
 アップミンＥＸ=EX VitamUP
-運動能力を上昇させる薬=Increases physical capabilities
+運動能力を上昇させる薬=Increases Strength
 アップミンＡＴ=AT VitamUP
 ＡＴフィールドを上昇させる薬=Increases AT Field
 レンジアップＡ=Regulin A
