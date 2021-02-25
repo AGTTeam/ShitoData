@@ -293,7 +293,7 @@
 「ごめんなさい。|・・・１人にして下さい」=Excuse me, but I want to be left alone.#end of park
 #SI_1_E5
 #Toji
-「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at New Hakone Station!>>I bet he's thinking about leaving. Ms. Misato was yelling at him.>>Something about he shouldn't be an Eva pilot if his heart isn't in it.>>That guy can't do anything by himself!#start of school
+「ケンスケ！シンジのやつ、|新箱根湯本や！！>>きっと、ここを|出ていく気なんや。>>ミサトさんに、>>『そんな気持ちでＥＶＡに|乗るな』>>いうて怒鳴られたらしいで。|ホンマに、世話の焼ける！」=Kensuke! Shinji's at New Hakone Station!>>I bet he's thinking about leaving since Ms. Misato was yelling at him.>>Something about he shouldn't be an Eva pilot if his heart isn't in it.>>That guy can't do anything by himself!#start of school
 #Kensuke
 「あいつ、もうＥＶＡには|乗らないのかなあ・・・」=So he isn't going to be piloting the Eva anymore, huh?
 #Toji
@@ -420,7 +420,7 @@
 「使徒の残骸だ・・・」=The remains of one of those angels...
 「時々、赤木博士が|ここへ来て作業してますよ」=Dr. Akagi comes here to work on occasion.
 #SI_2_E2
-「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here.#end of cabin
+「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Oh, Kaji. Dr. Akagi is here too.#end of cabin
 #SI_22_E3
 #Shinji
 「あ、加持さん、|どうしたんですか」=Oh, Kaji, what's going on?#start of Rei's apartment
@@ -908,7 +908,7 @@
 「ふう、どうするかな？」=Whew... Where to now?
 「ふう、どうするかな？」=Whew... Where to now?
 #EVS_M230
-「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the Cage,>>and just after that she was in the Lounge.
+「ファーストチルドレンって、|神出鬼没ですよね。>>さっきまで、|ケイジに<sp:8>いたと思ったら、>>自販機エリアに|いたりするんです」=That First Children pops up when you least expect her.>>I swear I saw her in the Cage and then in the Lounge just after.
 「？？？|あるくのが<sp:8>はやいのかな？」=Hm...|Maybe she just walks fast.
 「あれ？<sp:8><wt:25>Ｉ・Ｄカード・・・。<wt:25>|そうか再発行を頼んだっけ。>>カードが再発行されるまで、|外に出られないぞ」=Huh? <wt:25>My ID Card...|<wt:25>Did I not request a reissue?>>Until my card gets reissued, I won't be leaving to go anywhere.#end of gate
 #SI_13_E3
@@ -954,7 +954,7 @@
 「そうか・・・」=Hm...
 #Asuka
 「・・・そうだ、|３バカトリオに聞いてみたら？>>あいつら、学校じゃ|いつも一緒だから」=... Hey, did you try asking the idiot trio?>>They always hang out together at School, so maybe they know.
-「シンジなんて|ほっとけばいいのよ！！>>お腹がすいたら|帰ってくるわよ！！」=Forget him!!>>Shinji'll come crawling back once he starts getting "achey in his wittle tummy."
+「シンジなんて|ほっとけばいいのよ！！>>お腹がすいたら|帰ってくるわよ！！」=Forget him!!|He'll come crawling back!>>Wait until he starts getting "achey in his wittle tummy."
 #SI_6_E1
 #Kaji
 「ご機嫌だな、アスカ」=What's that big grin I see, Asuka?
@@ -1267,7 +1267,7 @@
 「あ、加持さん。>>赤木博士が、|いらっしゃってますよ」=Ah, Kaji, Dr. Akagi is here right now.
 #SI_2_E1
 「赤木博士の許可なく|ＭＡＧＩをいじると>>怒られますよ！」=Don't let Dr. Akagi catch you fiddling with MAGI.>>She will be furious!
-「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us,>>but I saw the First Children talking to Casper!!>>Then Casper started glitching out...
+「ここだけの話ですが、|ファーストチルドレンが>>カスパーに|話しかけてたんですよ！！>>そしたら、カスパー、|ハングッちゃって・・・」=This is just between us, but...>>I saw the First Children talking to Casper!!>>Then Casper started glitching out...
 「“実験場”の<sp:4>ユカが|一部変質してるんです。>>工期が６０日近く|圧縮されましたからね。>>ズサンだなあ」=The construction schedule was shortened by 60 days or so,>>so some air bubbles must have gotten mixed in again.>>The construction in Wing B is awfully slipshod.
 「最近、僕、|夜勤が多いんですけど、>>真夜中に|“総司令室”の前を通ると>>中から、なにやら|声が聞こえるんですよ。>>何かあったんでしょうか？」=I've been working the night shift a lot lately, you know.>>And I heard some voices coming from inside Commander Ikari's Office.>>It was the middle of the night when I was walking by.>>I'm thinking something might have happened.#end of lab
 
@@ -1904,7 +1904,7 @@
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Maya
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses.>>From embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Maya
@@ -1919,7 +1919,7 @@
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Makoto
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses.>>From embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Makoto
@@ -1935,7 +1935,7 @@
 #Kaji
 「いや、いいよ。>>そうだ、こいつに名前を|つけてあげようか」=That won't be necessary.>>Now how about we name the little guy?
 #Shigeru
-「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses>>from embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
+「使徒は６日くらいで|成体に成長します。>>使徒は<sp:8>アダムから、>>幼生、中間体、まゆ、成体の|５段階に変化します。>>私たちオペレーターは|２日交代で>>９：００<sp:8>～<sp:8>２１：００まで|勤務します。>>使徒の世話は<sp:8>エネルギー補給、>>汚染度の調整、Ｌ．Ｃ．Ｌの濃度、|電解率の調整になります。>>使徒の健康状態に|異常がおきた場合、>>薬を使ってください」=The angel will reach maturity in roughly 6 days.>>It will undergo four metamorphoses.>>From embryo to larva, pupa, cocoon, and finally maturity.>>We technicians work from 9:00-21:00 in two-day shifts.>>Caring for the angel will consist of replenishing energy,>>as well as, adjusting purity levels, LCL density,>>and electrolysis rates.>>If the angel's health is ever abnormal,>>please administer some medicine.
 #Kaji
 「なるほど、わかったよ。>>そうだ、こいつに名前を|つけてあげようか」=Right. Understood.>>Now how about we name the little guy?
 #Shigeru
@@ -1981,11 +1981,11 @@
 「わ、<wt:50>わかりません！<wt:50>|モニターにも映らないし、>>各種センサーにも|反応しません！>>・・・完全に・・・|消失？」=I... <wt:50>I'm not sure! <wt:50>There's nothing showing up on the monitor,>>and none of our sensors are responding either!>>... It's gone... Vanished.
 #Ending ICSEA->Q
 #Fuyutsuki
-「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>We did not trigger the Third Impact.>>I suppose we should be thankful for that at the very least.>>It seems to be targeting our location just as the angels do.>>What are your orders?
+「失敗か・・・。>>サードインパクトが|起こらなかっただけ>>幸いだったな。>>奴も使徒と同様にここを|目指しているぞ、どうする？」=Consider it a failure.>>Although, we did not trigger the Third Impact.>>I suppose we should be thankful for that at the very least.>>It seems to be targeting our location just as the angels do.>>What are your orders?
 #Gendo
 「殲滅するだけだ」=Eradicate it.
 #Fuyutsuki
-「生きた使徒のサンプル・・・|やはり、無謀だったな」=That's a living angel sample...|Don't be rash.
+「生きた使徒のサンプル・・・|やはり、無謀だったな」=That's a living angel sample.|Don't be rash.
 #Gendo
 「あれは、|死海文書にある使徒だ。>>使徒の侵攻を阻止する。>>そのためのＮＥＲＶだ」=That is an angel spoken of in the Dead Sea Scrolls.>>Thwarting their invasion is precisely NERV's purpose.
 #Fuyutsuki
@@ -2066,14 +2066,14 @@
 #Kaji
 「・・・で、ゼーレには|なんと言い訳するんです」=... SEELE will want an explanation.
 #Gendo
-「別に問題はない・・・。>>すべてはシナリオどおりだ。<wt:50>|すべてはな。>>ところで、君に|また頼みたいことがある」=That won't be a problem...>>Everything is going according to plan. <wt:50>Everything.>>While I have you, I have another task for you.
+「別に問題はない・・・。>>すべてはシナリオどおりだ。<wt:50>|すべてはな。>>ところで、君に|また頼みたいことがある」=That won't be a problem...>>Everything is going according to plan... <wt:50>Everything.>>While I have you, I have another task for you.
 #Kaji
 「・・・なんです？」=Which is?
 #Gendo
 「アダムの、<wt:50>調達だ」=Recovering <wt:50>Adam.
 #Kaji
 「・<wt:25>・<wt:25>・<wt:25>・<wt:25>・<wt:25>・、<wt:50>=.<wt:25>.<wt:25>.<wt:25>.<wt:25>.<wt:25>.<wt:50>
-えっ？」=Come again?
+えっ？」= Come again?
 ＴＯ　ＢＥ|　ＣＯＮＴＩＮＵＥＤ．．．=TO BE|CONTINUED...
 #Ending ICSER (Iruel)
 #Shigeru
@@ -2083,7 +2083,7 @@
 「ミサトのいれたコーヒーを|こんなにうまいと思ったのは>>はじめてだわ」=I can't ever remember when your horrid coffee tasted so wonderful.
 #Ending ICSES (Kaworu), NOTE: ICSEU is the Light Giant ending, only has images and no dialogue
 「僕は君にあうために|生まれてきたのかもしれない」=Perhaps I was born to one day meet you.
-「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction>>and have the future bestowed upon it.
+「滅びの時を逃れ、>>未来を与えられる生命体は|ひとつしか選ばれないんだ」=Only one species can be chosen to escape extinction and have>>the future bestowed upon it.
 #Ending ICSET (Rei)
 「さあ、行こう。>>今日、この日のために|おまえはいたのだ、レイ」=Let's go.>>This is the day you were born for, Rei.
 「はい」=Yes, sir.
@@ -2135,7 +2135,7 @@
 データを上書きします。=Overwrite data.#context
 前の画面に戻ります。=Return to previous screen.#context
 #Asuka
-「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate|was <perc>%!!>>Good luck trying to view them all!!
+「イベント補完率は|<perc>％よ！！>>全部見るのよ！！|がんばりなさい！！」=Your event completion rate|is <perc>%!!>>Good luck trying to view them all!!
 「やったわね！|１００％！<sp:8>おめでとう！！」=You did it!|100% completion!>>Congratulations!!
 このデータでよろしいですか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Continue using this data?|<ch:0><sp:62>Yes<sp:35>No
 #Maya
