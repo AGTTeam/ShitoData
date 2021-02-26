@@ -246,7 +246,7 @@
 #SI_11_E2
 「ある人物が|ターミナルドグマに関する>>情報をリークした。|さっそく、接触してくれ」=Someone has leaked information relating to Terminal Dogma.>>You need to touch base at once.
 「どこで接触したらいいんだ」=Where's the meeting point?
-「それは聞いていない。>>何らかの連絡が入るはずだ。|気をつけておいてくれ」=That I don't know. They'll contact you first.>>Don't let your guard down.
+「それは聞いていない。>>何らかの連絡が入るはずだ。|気をつけておいてくれ」=That, I don't know. They'll contact you first.>>Don't let your guard down.
 「何らかの連絡が入るはずだ。|気をつけておいてくれ」=They'll contact you first.>>Don't let your guard down.
 #SI_26 (Interact with the tent)
 「手をあげろ！！」=Put your hands up where I can see them!!
@@ -406,11 +406,11 @@
 #Ritsuko
 「これは貴重なデータよ。|遺伝子分析の結果が楽しみ」=This is incredibly valuable genetic data.>>I am very much looking forward to seeing the results of the analysis.
 #Kaji
-「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, Ritchan, but...>>I've been hearing some harsh words about you around the water cooler.
+「話は変わるけど|リッちゃんもさ、あちこち>>風あたり強いだろ」=Not to change the conversation, Ritchan, but...>>I've been hearing some nasty rumors around the water cooler...
 #Ritsuko
 「まあね。気にしないわ、|そんなことは」=I know. I'm not concerned with that sort of thing.
 #Kaji
-「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=I'm not surprised...>>If you're ever in need of some advice, I'll be there for you...>>As an old friend.
+「そうか・・・。>>なんかあったら相談にのるよ、|昔のよしみで」=I'm not surprised.>>If you're ever in need of some advice, I'll be there for you.>>... As an old friend.
 #Ritsuko
 「加持くんのほうこそ|何かと大変なんじゃない？>>ま、好意は受け取っとく。|・・・ありがと」=I imagine things aren't exactly easy for you either, Kaji.>>Well, thanks for worrying about me anyway.
 「あんまりいじらないでね、|貴重なサンプルなんだから」=Don't mess around with it too much. That's a valuable sample.
@@ -707,15 +707,15 @@
 #Kaji
 「・・・」=...
 #Gendo
-「葛城一尉から>>戦自の陽電子砲を接収したい|との申し出があった。>>そこでだ・・・」=Captain Katsuragi has drawn up a requisition proposal>>for a defense force positron rifle.>>It's there...
+「葛城一尉から>>戦自の陽電子砲を接収したい|との申し出があった。>>そこでだ・・・」=Captain Katsuragi has drawn up a requisition proposal.>>It's for a defense force rifle.>>It's there...
 #Kaji
 「政府に|手をまわすわけですか」=Using your leverage over the government, is that it?
 #Gendo
-「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=Yes. As well, I intend to...>>discreetly hand over some Eva-related material.
+「ああ、こちらからも|秘密裏にＥＶＡ関連の資料を>>引き渡す」=Yes. As well, I intend to...>>Discreetly hand over some Eva-related material.
 #Kaji
 「情報操作したものをですね」=Information manipulation?
 #Gendo
-「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=Correct. There's no specific aim,>>but it could prove useful.
+「そうだ。|これだけでは見当もつくまい。>>だが、役にはたつ」=Correct. There's no specific aim, but it could prove useful.
 　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD!
 #Kaji
 「・・・」=...
@@ -846,7 +846,7 @@
 #Kaji
 「許してくれ、|葛城の手料理だけは～」=Come on! This is Katsuragi's home cooking we're talking about...
 #SI_4_E1
-「なんか、仕事でイヤなこと|とかあると、>>“ＢＡＲ”に、飲みに|行ってる人って>>けっこう多いみたいですね。>>私も今夜あたり|行ってみようかなぁ」=I feel like there are a lot of people>>who go bar hopping when things are rough at work.>>Maybe I should make the rounds tonight.
+「なんか、仕事でイヤなこと|とかあると、>>“ＢＡＲ”に、飲みに|行ってる人って>>けっこう多いみたいですね。>>私も今夜あたり|行ってみようかなぁ」=Things have been really rough at work lately.>>I feel like a lot of people go bar hopping to cope.>>Maybe I should make the rounds tonight.
 「いらっしゃいませ」=Welcome!
 「ふう。<sp:8>疲れたので、|少し休憩しています。>>えっ？<sp:8>少しじゃなくて|ずっといる<sp:4>じゃないかって？>>いやだなあ。|少しですよ、少し」=Phew. I'm beat. I think I might take a quick nap.>>Huh? What do you mean, I'm always taking naps?>>That's not true. I swear this is my first one today.#end of cafeteria
 #SI_6_E3
@@ -1062,26 +1062,26 @@
 #SI_3_E1
 #Misato
 「使徒は着実に|進化している・・・。>>ＥＶＡの武装も|強化する必要があるわね」=The angel's growth has been progressing steadily...>>It's crucial we strengthen the Evas' armaments.
-「では、例の戦自研の|陽電子砲の接収を・・・」=Shall I draw up a requisition form>>for the SSDF's prototype positron rifle?
-「ええ、碇司令の|許可がおりしだい>>戦自へ向かいます」=Yes. I'll be meeting with the defense force>>as soon as I get Commander Ikari's approval.
+「では、例の戦自研の|陽電子砲の接収を・・・」=What about the SSDF's prototype positron rifle?>>I could draw up a requisition form.
+「ええ、碇司令の|許可がおりしだい>>戦自へ向かいます」=Yes. I'll have to get approval from Commander Ikari.>>I'll be meeting with the defense force as soon as I get it.
 #Kaji
 「おとなしく戦自が渡すか？」=Will the defense force really be so obedient?
 #Misato
-「あによ、作戦部の会議中よ、|部外者は入ってこないでよ」=Out! No one but members of the combat operations team>>should be present during strategy meetings!
-「私も戦自が|応じるとは思えません。>>あそこはＮＥＲＶによって|存在意義すら>>おびやかされてますから」=I agree that the SSDF won't acquiesce.>>They feel intimidated just by the mere existence of NERV.
-「グダグダやってる|暇は<sp:8>ないのよ。>>強制執行してでも<sp:8>いただくわ。>>碇司令の許可も|近日中におりるでしょう。>>では、各自、部署に戻って」=We don't have time to be sitting around twiddling our thumbs.>>The requisition will be made.|By force if necessary.>>Now, everyone back to their posts!
+「あによ、作戦部の会議中よ、|部外者は入ってこないでよ」=Out! This is a strategy meeting.>>Only members of the combat operations team should be present.
+「私も戦自が|応じるとは思えません。>>あそこはＮＥＲＶによって|存在意義すら>>おびやかされてますから」=I do agree with him that the SSDF won't acquiesce.>>They feel intimidated just by the mere existence of NERV.
+「グダグダやってる|暇は<sp:8>ないのよ。>>強制執行してでも<sp:8>いただくわ。>>碇司令の許可も|近日中におりるでしょう。>>では、各自、部署に戻って」=We don't have time to be sitting around twiddling our thumbs.>>The requisition will be made.|<wt:25>... By force if necessary.>>Now, everyone back to their posts!
 「あによ！|まだ、何かよう？」=I thought I told you to get out! What are you still doing here?
 #Maya
 「戦自も<sp:8>ＮＥＲＶも>>おたがいに意地をはっても|しょうがないですよね」=It can't be helped.>>It's NERV and the defense force. Neither is going to give in.#context
 #Makoto
-「やりますよ|葛城さんなら・・・、=If Katsuragi won't back down,#context
-ひかないから」=neither will I.#split line
+「やりますよ|葛城さんなら・・・、=If Katsuragi won't back down...
+ひかないから」=*Sigh* Neither will I.
 #Shigeru
 「戦自も<sp:8>おカタいからなあ」=The defense force is just as unyielding, huh?#context
 #SI_5_E1
 #Misato
-「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=The two of you will be training to pull off a dual-Eva attack.>>It won't cut it to have you acting on your own forever.>>I've devised an attack pattern which perfectly matches this music.>>I want the two of you to memorize it.>>That's why
-二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=the two of you will be doing everything together.#split line
+「今回、あなたたち二人には>>ＥＶＡの同時攻撃の訓練を|してもらいます。>>いつまでも、思い思いに|勝手に行動されたら、>>こちらも<sp:8>たまらないからね。>>そこで、二人には|この曲にあわせた>>攻撃パターンを|おぼえてもらいます。>>そのために、=The two of you will be training to pull off a dual-Eva attack.>>It won't cut it to have you acting on your own forever.>>I've devised an attack pattern which perfectly matches this music.>>I want the two of you to memorize it.>>That's why the two of you...
+二人にはプライベートでも、>>しばらく一緒に|行動してもらうわ」=Will be spending every waking minute together.
 #Asuka
 「えええええぇぇぇっ！！！」=Whaaaaaaat!!!
 #Shinji
@@ -1095,30 +1095,30 @@
 ・・・しかたない。=... You better not make me look bad.
 シンジ！<sp:8>先にマンションに|帰ってるから、>>あんたも|さっさと来なさいよ！」=I'm going back to the apartment, Shinji!>>You better come too.
 #Maya
-「クスッ」=*Giggle*#context
+「クスッ」=*Giggle*
 #Makoto
-「あ～あ、|大丈夫なのかな」=*Sigh* That should be fine, right?#context
+「あ～あ、|大丈夫なのかな」=*Sigh* They'll be fine, right?
 #Shigeru
-「やれやれ、|どうなることやら」=Oh, dear. What's going to happen there?#context
+「やれやれ、|どうなることやら」=Oh, dear. How's that going to work?
 #SI_9_E1
 #Makoto
 「さすが、赤木博士！！|神業とは<sp:8>このことだな」=Dr. Akagi is amazing!! It's like the work of a divine being.
 #Maya
 「ほんと、感動です！」=She's so inspirational!
 #Makoto
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=Dr. Akagi was toying around with MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Normally, it would take even an exceptional engineer a whole day.
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの実験を|したんですけどね。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを阻止したんです。>>ふつうなら、優秀な|エンジニアでも>>１日はかかりますよ」=Dr. Akagi was toying around with MAGI's anti-hacking defense systems.>>In 2 hours she developed a repulsion program to prevent the hacking.>>Normally, it would take even an exceptional engineer a whole day.
 #Kaji
 「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Makoto
 「“総合分析所”にいますよ」=She's in the Analysis Lab.
 #Maya
-「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=Dr. Akagi tested MAGI's anti-hacking defense systems.>>She developed a repulsion program to prevent the hacking within 2 hours.>>Even our best engineers might not have succeeded given a day.
+「ＭＡＧＩシステムが|ハッキングを受けた時の>>ディフェンスシステムの|実験をしたんです。>>赤木博士は２時間で|撃退プログラムによって>>ハッキングを|阻止したんですよ。>>優秀なエンジニアでも|１日で作業できるかどうか」=Dr. Akagi tested MAGI's anti-hacking defense systems.>>In 2 hours she developed a repulsion program to prevent the hacking.>>Even our best engineers might not have succeeded given a day.
 #Kaji
 「へえ、さすが。<sp:6>で、本人は|今どこにいるの？」=Truly remarkable. Speaking of Akagi, where is she now?
 #Maya
 「“総合分析所”にいますよ」=She's in the Analysis Lab.
 #Makoto
-「赤木博士の指先には|神が宿ってますね」=God dwells in Dr. Akagi's fingertips.
+「赤木博士の指先には|神が宿ってますね」=It's like Dr. Akagi's hands are guided by God himself.
 #Maya
 「あ～あ、ホント、|あこがれちゃう！！」=*Blush* I really admire her!!
 #SI_32_E1
@@ -1248,9 +1248,9 @@
 「そりゃそうですよ。>>今までの使徒の、|形態、攻撃方法なんかは>>関連性がないことが|ハッキリしてるじゃ>>ないですか」=You got that right.>>The form and attack method has been unique each time.>>Not two angels have been the same, you know?
 「リッちゃん、いや、>>赤木博士は|その残骸のところ？」=And Ritchan, er, Dr. Akagi, is she at the wreckage?
 「ええ、北東地区の|“仮設小屋”です」=Yeah. They've set up a makeshift Cabin.
-「兵器開発の方にもっと予算を|さいてほしいよなぁ」=I wish they'd spare a little more of the budget for weapons development.#context
+「兵器開発の方にもっと予算を|さいてほしいよなぁ」=I wish they'd spare more of the budget for weapons development.
 #SI_9_E2
-「お疲れ。>>上の連中が、すごい<sp:8>すごいって|騒いでたぜ」=Look who it is.>>You know, the group upstairs was talking non-stop about how amazing you are.#NOTE: "you are." doesn't fit
+「お疲れ。>>上の連中が、すごい<sp:8>すごいって|騒いでたぜ」=Look who it is. You should have heard the group upstairs.>>They were talking non-stop about how amazing you are.
 #Ritsuko
 「そう・・・、でも、|年齢かしらね、>>思考力が落ちてるわ」=Is that so...|I'm getting older though.>>I don't think as fast as I used to.
 #Kaji
@@ -1258,7 +1258,7 @@
 #Ritsuko
 「クスッ」=Pfft...
 #Kaji
-「こいつがＭＡＧＩの中味？」=So this is the heart of the MAGI?
+「こいつがＭＡＧＩの中味？」=So this is the heart of MAGI?
 「そう。>>直接、端末をつなげてたから|開けてあるのよ。>>危ないから中に入らないでね」=Yes. I opened it up to connect directly to the main terminal.>>It's a hazard area though, so I wouldn't recommend going inside.
 「しかし、メモがすごいな」=All those notes... Incredible.
 #Ritsuko
@@ -1549,7 +1549,7 @@
 「じゃあ、|買い物つきあってよ」=Okay, come on! We're going shopping.
 #Itm3_E2A
 #Kaji
-「中央病院の先生に|ＤＶＤディスクを>>持ってくるように|頼まれたんだけど」=The doctor in the Clinic asked if I'd come get the DVD from you.
+「中央病院の先生に|ＤＶＤディスクを>>持ってくるように|頼まれたんだけど」=The doctor in the Clinic asked if I'd come get some DVD from you.
 #Ritsuko
 「ええ、そこのデスクの上に|あるから。<sp:8>頼むわね」=Right. It's on that desk there. Go ahead and take it.
 　ＤＶＤディスク<sp:8>を手に入れた！=Obtained DVD!
@@ -1702,11 +1702,11 @@
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.#start of Kaji's room
 「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>--Ministry of Interior
 #Kaji
-「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
+「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Could it be a cipher?
 #SI_11_E1
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
 「北東地区の“野原”で待つ|・・・内務省」=Wait in Field - NE District|<sp:56>--Ministry of Interior
-「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Are they not using a cipher?
+「・・・ずいぶんと|そっけないメールだなぁ。>>暗号は使わないのか」=... Not the most cordial of emails, huh?>>Could it be a cipher?
 #SI_11_E3
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
 「“換気口”で待つ」=Rendezvous in Vents.
