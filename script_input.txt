@@ -14,7 +14,7 @@
 #Kaji
 「おっ、すき焼きかい」=Looks like sukiyaki tonight.|Is that it?
 #Shinji
-「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight,>>so it'll just be Ms. Misato and me.>>Oh, I know!|Why don't you join us, Kaji?
+「ええ、だけど、>>アスカは洞木のところに|とまるっていうし、>>今日はミサトさんと僕だけ|なんです。>>あ、そうだ！<sp:8>加持さんも|一緒にどうです？」=Yeah, but...>>Asuka said she's staying at Hikari's tonight.>>It'll just be Ms. Misato and me.>>Oh, I know!|Why don't you join us, Kaji?
 シンジの誘いを受けますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Accept Shinji's invitation?|<ch:0><sp:62>Yes<sp:35>No
 #Kaji
 「葛城が<sp:8>怒るからな、|また今度にしておくよ」=I doubt Katsuragi would be too happy to see me.>>How about a rain check?
@@ -30,7 +30,7 @@
 「・・・シンジ君かな」=... Sounds like Shinji.
 「いつも話している|中学生の男の子が>>買い物に来てますよ」=You know that middle school boy that I'm always talking about?>>He's here doing some shopping right now.#context
 #SI_33
-「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's SU<wt:50>PER hot all year round,>>so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
+「一年中、|ずぅーっ<wt:50>と<sp:4>あついから>>いつでもアイスが<sp:4>おいしくて|こまっちゃいます。>>ダイエット中なのに・・・」=It's S<wt:20>U<wt:20>P<wt:20>E<wt:20>R hot all year round, so ice cream always makes for a delicious treat.>>... Or it would if I wasn't on a diet.
 「おそろいの服着た|女の子と男の子が>>“丘の上公園”の方に行ったよ。>>なんか、訳ありそうな|雰囲気だったよ。>>いいなあ、若い子は。|青春してて」=There was a boy and girl in matching clothes heading to Hilltop Park.>>They seemed pretty eager to get there too.>>The time of youth...|What I wouldn't give to be young again...
 「“芦ノ湖”で、釣りを|している人がいたんですよ。>>何が釣れるんですかねぇ、<wt:50>|芦ノ湖で」=There was someone fishing down at Ashinoko Lake.>>You believe that!?<wt:50> Is there really anything to catch down there?
 「夜は、立ちよみをする|お客さんが多くって・・・」=There are a lot of customers who come at night to peruse the magazines.
@@ -54,7 +54,7 @@
 #Asuka
 「私は、|弐号機を<sp:8>おろされるのよ。>>後は優秀なシンジさまが|世界を守ってくださるわ！>>私はもう必要ないの！！>>加持さんも|下手な<sp:8>なぐさめは・・・」=Nobody needs me to pilot Unit-02 anymore.>>The amazing Shinji will save the world!>>Nobody needs me now!!>>And I don't need your pity...
 #Kaji
-「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=That's enough!!|Listen here, Asuka.>>You're not some mirror whose sole purpose is to reflect>>the expectations of those around you.>>A person's strength isn't something that's born by comparing oneself>>to others.|It comes from inside.>>Nobody will believe in you if you don't believe in yourself!!>>That's it. That's all I wanted to say...
+「いいかげんにしろ！|いいか、アスカ、>>おまえは周囲の期待を映す|鏡じゃないんだ。>>人の強さは<sp:8>くらべられて|生まれるものじゃない、>>自分の中にあるものなんだ。>>自分で信じてやらなくて|誰が信じるんだ！！>>・・・俺が言いたいのは|それだけだ」=That's enough!!|Listen here, Asuka.>>You're not some mirror with a single purpose.>>You don't reflect the expectations of those around you.>>A person's strength isn't born by comparing oneself to others.>>It comes from inside.>>Nobody will believe in you if you don't believe in yourself!!>>That's it. That's all I wanted to say...
 「ん？|・・・なつかしい写真だな」=Hm? Now that's a picture that brings back memories.
 「オレも葛城も|ガキだったな・・・」=Katsuragi and I were just kids back then...
 #SI_33 (after talking with Shinji)
@@ -492,7 +492,7 @@
 #Misato
 「あたしもね、<wt:50>ちょっち|ああいうのはね・・・」=What she said... <wt:50>It's the same for me... I think.
 #Kaji
-「一人じゃ、着れないもんな」=Don't know how to put one on on your own?
+「一人じゃ、着れないもんな」=Don't know how to put one on|on your own?
 #Misato
 「うっさいわね」=Who asked you!?
 #Asuka
@@ -602,11 +602,11 @@
 #Kaji
 「今日は<sp:8>どうして？」=So what are you doing here today?
 #Maya
-「あ、<wt:25>あの、<wt:25>私も|こういう店が似合うように>>はやく、<wt:25>な、<wt:25>なりたいな|なんて」=U-<wt:25>Um, <wt:25>that is, I had a good time and all,>>so I <wt:25>wanted to come again, you know.
+「あ、<wt:25>あの、<wt:25>私も|こういう店が似合うように>>はやく、<wt:25>な、<wt:25>なりたいな|なんて」=U-<wt:25>Um, <wt:25>that is, I had a good time and all, so...>>I just <wt:25>wanted to come again, you know.
 #Kaji
 「フーン」=I see.
 #Maya
-「あ、<wt:25>あの、<wt:50>加持さんて、>>いろいろな女の人と<sp:8>おつきあい|なさってるんですよね？」=U-<wt:25>Um, <wt:50>Kaji,>>you've been with many women, haven't you?
+「あ、<wt:25>あの、<wt:50>加持さんて、>>いろいろな女の人と<sp:8>おつきあい|なさってるんですよね？」=U-<wt:25>Um, <wt:50>Kaji, you've been with a lot of women, haven't you?
 #Kaji
 「ひどいな、<wt:25>そりゃ噂だよ」=You wound me. <wt:25>That's only a nasty rumor.
 #Maya
@@ -616,7 +616,7 @@
 #Maya
 「あの、<wt:50>あこがれと恋って|ちがいますか？」=And, um, <wt:50>is there a difference between love and admiration?
 #Kaji
-「さあ、<wt:25>それは|君が<sp:8>どう思うかじゃないかな。>>マヤちゃん、<wt:50>君、<wt:25>恋をしてるね」=I wonder... <wt:25>What an interesting thing to think about.>>Maya, <wt:50>you wouldn't be <wt:25>in love, would you?
+「さあ、<wt:25>それは|君が<sp:8>どう思うかじゃないかな。>>マヤちゃん、<wt:50>君、<wt:25>恋をしてるね」=I wonder... <wt:25>What an interesting thing to ponder over.>>Maya, <wt:50>you wouldn't happen to be <wt:25>in love, would you?
 #Maya
 「い、<wt:25>いえ、<wt:50>あ、<wt:25>あの、<wt:50>|そ、そうじゃなく、>>いわゆる一般論・・・」=N-<wt:25>No, <wt:50>I-<wt:25>I...>>Th-That's not it. Just a random thought...
 「あ、<wt:25>あの、<wt:25>道ならぬ恋って|どう思います？」=And, u-<wt:25>um, <wt:25>what about forbidden love?
@@ -653,7 +653,7 @@
 #Maya
 「青葉さん、|かっこよかった～」=Aoba, you looked great up there!#start of concert
 #Shigeru
-「ひさしぶり<sp:2>だったんで|気持ちよかったス。>>マヤちゃん、送ってくよ」=It's been a while, but I admit it feels great.>>I'll take you home, Maya.
+「ひさしぶり<sp:2>だったんで|気持ちよかったス。>>マヤちゃん、送ってくよ」=It's been a while, but I admit it feels good to be on stage again.>>I'll take you home, Maya.
 #Maya
 「ありがとう」=Thanks.
 #Shigeru
@@ -835,7 +835,7 @@
 #Shinji
 「僕はどうしたら|いいんでしょうか・・・」=I don't know what I should do.
 #Kaji
-「シンジくん、|誰も君に強要はしない。>>自分で考え、自分で決めろ。|ま、後悔のないようにな。=Nobody can force you, Shinji.>>Think for yourself, and decide for yourself.>>No regrets.
+「シンジくん、|誰も君に強要はしない。>>自分で考え、自分で決めろ。|ま、後悔のないようにな。=Nobody can force you, Shinji.>>Think for yourself and decide for yourself.>>No regrets.
 それじゃ、俺はこれで・・」=Well, ciao!
 #Ritsuko
 「加持くん、>>話を聞いたからには|逃がさないわよ。>>私もさそわれてるのよ」=You're not getting off the hook that easy, Kaji.>>If I have to go, so do you.
@@ -1002,7 +1002,7 @@
 #Kaji
 「いったい、|何をしてるんだい？」=What the heck are you doing?
 #Shinji
-「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=I have synchronization practice with Asuka today,>>so I was trying to visualize in my mind.
+「今日、アスカと|共同の実機訓練なんで、>>イメージトレーニング|してたんです」=I have synchronization practice with Asuka today,>>so I was trying to visualize the routine in my mind.
 #Kaji
 「そうか。<sp:8>がんばって、>>アスカにいいところを|見せてやれよ」=Got it. Good luck.>>And you show Asuka who leads.
 #Shinji
@@ -1131,7 +1131,7 @@
 #Ritsuko
 「ＥＶＡ発進を！！」=Launch the Evas!!
 #Misato
-「間に合わないわ！！>>日向くん、使徒が|ターミナルドグマに侵入したら、>>自爆装置を作動！！」=They won't make it in time!!>>Hyuga, once the angel invades Terminal Dogma,>>activate the self-destruct device!!
+「間に合わないわ！！>>日向くん、使徒が|ターミナルドグマに侵入したら、>>自爆装置を作動！！」=They won't make it in time!!>>Hyuga, if the angel invades Terminal Dogma...>>Activate the self-destruct device!!
 #Makoto
 「了解！」=Understood!
 #Shigeru
@@ -1160,13 +1160,13 @@
 #Kaji
 「いえ、知りませんが・・・」=No, I'm afraid I don't.
 #Fuyutsuki
-「そうか・・・当然だろうな。|しかし、どこへやったかなあ。>>もし、見つけたら|教えてくれたまえ」=That's to be expected, I suppose.>>Nevertheless, I seem to have misplaced it somewhere.>>Let know if you come across it, will you?
+「そうか・・・当然だろうな。|しかし、どこへやったかなあ。>>もし、見つけたら|教えてくれたまえ」=That's to be expected, I suppose.>>Nevertheless, I seem to have misplaced it somewhere.>>Let me know if you come across it, will you?
 「うーむ、|どこへいったのだ・・・」=Hm... Where could I have put it?
 #SI_19_E1
 #Shigeru
-「マヤちゃん、今日|ライブやるんだけど来ない？>>たしか早番だったよね」=So, Maya, I've got this gig today...>>And if I remember correctly, you're getting off work early today.>>So I thought you might want to come...
+「マヤちゃん、今日|ライブやるんだけど来ない？>>たしか早番だったよね」=So, Maya, I've got this gig today...>>And if I remember correctly, you're getting off work early.>>So I thought you might want to come, and...
 #Maya
-「ええ、そうだけど。>>でも、青葉さんて本当に|バンドやってたんですね」=Yeah, I'll go, Aoba.>>But I can't believe you're really going to be playing on stage.
+「ええ、そうだけど。>>でも、青葉さんて本当に|バンドやってたんですね」=Yeah, I'd love to go, Aoba.>>But I can't believe you're really going to be playing on stage.
 #Shigeru
 「どういう意味さ、それ。」=What's that supposed to mean?
 #Maya
@@ -1283,7 +1283,7 @@
 #Misato
 「大きなお世話よ！！」=I'll get right on that!!
 #Kaji
-「どうだい、<wt:20>あれから|<ch:8>・・・<ch:4>男できた？」=How have you been? <ch:8>...<ch:4>|Seeing anyone?
+「どうだい、<wt:20>あれから|<ch:8>・・・<ch:4>男できた？」=How have you been?|<ch:8>...<ch:4> Seeing anyone?
 #Misato
 「なっ<ch:8>・・・<ch:4>あんたこそ|どうなのよ！」=Not really<ch:8>...<ch:4>|What's it to you?
 #Kaji
@@ -1401,7 +1401,7 @@
 エレベーターに<sp:8>乗りますか？|<ch:0><sp:56>ＹＥＳ<sp:16>ＮＯ=Get on the elevator?|<ch:0><sp:62>Yes<sp:35>No#end of halls
 #SI_12_E2
 #Ritsuko
-「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.#start of test chamber
+「シンクログラフ、|マイナス１２．８。>>起動指数ギリギリよ。>>このままじゃ、|弐号機のパイロット交換も>>考えておかないとね」=Synch graph indicates a drop of 12.8.>>This is barely enough for activation.>>I guess we might have no choice but to change Unit 02's core.#start of test chamber
 #Misato
 「・・・アスカは|シンジくんに負けたと>>思っているのよ」=... She can't stop thinking about losing to Shinji.
 #Kaji
@@ -1417,11 +1417,11 @@
 #Misato
 「アスカ？|家に戻ってると思うわよ」=Asuka? I'm pretty sure she went home.
 #Ritsuko
-「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=Asuka? She doesn't have any more tests scheduled for today,>>so she's probably gone back to Misato's Apartment, I guess.
+「アスカ？<sp:8>今日は他に|テストの予定もないから、>>“ミサトの家”じゃないかしら？」=Asuka? She doesn't have any more tests scheduled for today.>>She's probably gone back to Misato's Apartment in that case.
 「ＥＶＡの実機訓練があるんで、>>みなさん“中央発令所”に|行かれましたよ」=They're doing some practical Eva training,>>so everyone went to the Command Center.
 #SI_32_E2
 #Misato
-「以上で本日のミーティングを|終了します」=We'll conclude our daily meeting there.
+「以上で本日のミーティングを|終了します」=And that will conclude today's meeting.
 #Asuka
 「ハー、終わった、終わった」=*Sigh* It's finally over.
 #Misato
@@ -1688,7 +1688,7 @@
 #SI_1_E1
 「青葉さんって、|バンドやってるらしいですよ。>>知ってました？>>こんなに忙しいのに、|よく練習する時間があるなぁ」=It turns out Aoba plays in a band.>>Did you know that?>>I can't believe he finds the time to practice despite being so busy.
 「他の場所で採取した、特別な|Ｌ．Ｃ．Ｌを使用すると、>>育成に|どんな影響を及ぼすのか？>>ためしてみる価値は|あるかもしれませんね」=If we utilized a special LCL harvested from another location...>>I wonder how it might affect growth...>>Could be worth a shot.
-「何か特別な物体を|育成に使用すると、>>使徒の成体進化の可能性も|変わってくるかも・・・」=If you used a special growth item on the angel,>>it could change its potential evolution as it reaches maturity.
+「何か特別な物体を|育成に使用すると、>>使徒の成体進化の可能性も|変わってくるかも・・・」=The angel's final evolution could potentially be made to change.>>Try administering a special growth item before it reaches maturity.
 #Maya
 「加持さん、お帰りなさい」=Welcome back, Kaji.
 「はやく戻ってきて|下さいね。>><name>ちゃんが|死んでしまったら・・・」=Don't stay away too long, okay?>>If little <name> were to die...
@@ -1715,8 +1715,8 @@
 #SI_29_E1
 コンピュータを起動した>>コンピュータに|メールが届いている=Booted up computer.>>You have unread mail.
 「ユウコです。>>私たちの結婚式に|出席か欠席か返事をください。>>待ってます」=It's Yuko.>>I need to know if you will be attending the wedding ceremony.>>RSVP absent or attending.
-「あ、そういえば、|ハガキが<sp:8>きてたな。=Oh, that means I must have received an invitation.
-残念だけど、行けないな。|欠席・・・っと」=I'm afraid I can't go.|Absent... Send.
+「あ、そういえば、|ハガキが<sp:8>きてたな。=Oh, I can't believe she thought to invite me.
+残念だけど、行けないな。|欠席・・・っと」=I'm afraid I can't go though.|Absent... Send.
 #SI_34 (after scene)
 #Ritsuko
 「大丈夫？」=Feeling better?
@@ -1725,9 +1725,9 @@
 #Ritsuko
 「加持くんには|薬わたさなかったもんね」=I didn't give you any actual treatment, you know?
 #Kaji
-「とんでもない目にあったな」=Nothing gets past you, does it?
+「とんでもない目にあったな」=Nothing gets passed you, does it?
 #Ritsuko
-「ミサトが心配してたわよ。>>ミサトには過労って|言ってあるから、<wt:50>それじゃ」=Misato was worried.>>I told her you were just overworked. <wt:50>See you around.
+「ミサトが心配してたわよ。>>ミサトには過労って|言ってあるから、<wt:50>それじゃ」=Misato was worried.>>I told her you were just overworked.>>... <wt:50>See you around.
 #Kaji
 「・・・恐ろしい料理だった」=That food really might have killed me though.
 #Itm18_E1
@@ -1846,7 +1846,7 @@
 #Kaji
 「どっちかな」=Good question.
 #Misato
-「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji,>>the Japanese Home Ministry's Department of Investigations.
+「特務機関ネルフ、|特殊監察部所属<sp:8>加持リョウジ。>>同時に日本政府内務省、>>調査部所属<sp:8>加持リョウジでも|あるわけね」=You're Ryoji Kaji,>>Department of Special Inspections, Special Agency NERV.>>But you're also Ryoji Kaji,>>Department of Investigations for the Japanese Home Ministry.
 #Kaji
 「君にもバレバレか」=I guess you know everything.
 #Misato
