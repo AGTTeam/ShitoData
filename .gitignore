@@ -7,4 +7,5 @@ table.txt
 *_input.png
 *.ws
 *.xdelta
+*.ips
 .DS_Store
