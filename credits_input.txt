@@ -2,11 +2,13 @@
 　　
 　　
 　　
+
 　　
 　　
 \BANDAI/　　
 　　
 　　
+
 　　
 　　
 　　
@@ -15,6 +17,7 @@
 　　
 　　
 　　Takeo Isogai　　
+
 　　
 　　
 　　
@@ -28,6 +31,7 @@
 　　
 　　
 　　Yusuke Sasaki　　
+
 　　
 　　
 　　
@@ -51,6 +55,7 @@
 　　Naomi Aiko　　
 　　
 　　
+
 　　
 　　
 ▼ Sales　　
@@ -65,11 +70,13 @@
 　　
 　　
 　　
+
 　　
 　　
 　　
 \GAINAX/　　
 　　
+
 　　
 　　
 　　
@@ -80,6 +87,7 @@
 　　Yasuhiro Takeda　　
 　　
 　　
+
 　　
 　　
 ▼ Assistant Producer　　
@@ -88,6 +96,7 @@
 　　
 　　Yumiko Ogura　　
 　　
+
 　　
 　　
 　　
@@ -98,6 +107,7 @@
 　　Toshihiro Mori　
 　　
 　　
+
 　　
 　　
 ▼ Adviser　
@@ -107,6 +117,7 @@
 　　Hiroki Sato　
 　　
 　　
+
 　　
 　　
 　　
@@ -116,6 +127,7 @@
 　　
 　　
 　　
+
 　　
 ▼ Direction　
 　　
@@ -133,6 +145,7 @@
 　　
 　　
 　　
+
 　　
 ▼ Programming　
 　　
@@ -142,12 +155,14 @@
 　　
 　　
 　　
+
 　　
 ▼ Tool Programming　
 　　
 　　
 　　
 　　Kazuya Yamada　
+
 　　
 　　
 　　
@@ -159,33 +174,35 @@
 　　Hajime Nara　
 　　
 　　
-　　#spacing ends here
+　　
 　　Toshiaki Ochiai　
-　
-　
-　
+　　
+　　
+　　
 　　Kaori Watabe　
-　
-　
-　
+　　
+　　
+　　
 　　Naoki Murata　
-　
-　
-　
-　
+　　
+　　
+　　
+
+　　
 ▼ Planning　
-　
-　
-　
+　　
+　　
+　　
 　　Naoki Sashida　
-　
-　
-　
+　　
+　　
+　　
 　　Kojiro Endo　
-　
-　
-　
-　
+　　
+　　
+　　
+
+　　
 ▼ Sound　
 　
 　
@@ -194,7 +211,8 @@
 　
 　
 　
-　
+
+　　
 ▼ Design　
 　
 　
@@ -203,7 +221,8 @@
 　
 　
 　
-　
+
+　　
 ▼ Special Thanks　
 　
 　
@@ -233,7 +252,8 @@
 　
 　
 　
-　
+
+　　
 \AGT TEAM/　
 　
 　
@@ -265,18 +285,4 @@
 　
 　
 　　Illidan　
-　
-　
-　
-　
-　
-▼ Proofreading　
-　
-　
-　
-　　Proof1　
-　
-　
-　
-　　Proof2　
 　
