@@ -1571,7 +1571,7 @@
 #Ritsuko
 「あら、加持くん。|どうかした？」=Oh, Kaji. Is something wrong?#end of Ritsuko office
 #Kaji
-「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they? Who do I want this time?#start of nurture chamber
+「今日はオペレーター交代の日か。|誰にお願いしようかな」=The technicians alternate today, don't they?>>Who do I want this time?#start of nurture chamber
 <ch:0>オペレーターを選択して下さい。<unk1>=<ch:0>Please select a technician.<unk1>
 マヤを選択しました。=Selected Maya.
 マコトを選択しました。=Selected Makoto.
@@ -1592,9 +1592,9 @@
 「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい。=I'm done for the day.>>Today's the end of my assistant duty by the way.>>Tomorrow you'll have to choose which technician will be filling in next.
 また、私を選んで下さいね」=Feel free to pick me again though.
 #Makoto
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You'll be selecting an assistant again tomorrow.
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=My shift is over. Good work today.>>By the way, today is technically the end of my assistant duties.>>You'll be selecting a technician again tomorrow.
 #Shigeru
-「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=I'm done for the day.>>I should mention that today was my second day on assistant duty,>>so tomorrow you'll have to decide which of us technicians you want next.
+「今日の勤務を終わります。|お疲れ様でした。>>今日で、私のオペレーター担当は|終了します。>>明日、また新たにオペレーターを|選択して下さい」=I'm done for the day.>>I should mention that today was my second day on assistant duty.>>Tomorrow you'll have to decide which technician you want next.
 #Maya
 「今日の勤務を終わります。|お疲れ様でした」=That's the end of my shift for the day. See you tomorrow.
 「・・・あっ！|<name>ちゃんの様子が！」=... Ah! Something's happening to <name>!
